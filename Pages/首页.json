@@ -73,6 +73,12 @@
         "TemplateKey": "样式3"
       }
     },
+    "1,12": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
     "2,0": {
       "CellType": {
         "$type": "Forguncy.RepeaterCellType, ServerDesignerCommon",
@@ -105,7 +111,7 @@
               "BindingInfo": {
                 "TableName": "首页卡片表",
                 "ColumnName": "ID",
-                "GUID": "f35a4f3b-002b-45b0-bb70-f87d780b4d0b"
+                "GUID": "e8869887-aa6a-480d-9ac7-ff03774bf194"
               },
               "ColumnName": "ID"
             },
@@ -113,7 +119,7 @@
               "BindingInfo": {
                 "TableName": "首页卡片表",
                 "ColumnName": "标题",
-                "GUID": "cdaa7074-a247-4ac4-9648-897076dd54be"
+                "GUID": "1ecb0c3f-bf38-42a6-87c7-111fe73c9288"
               },
               "ColumnName": "标题"
             },
@@ -121,7 +127,7 @@
               "BindingInfo": {
                 "TableName": "首页卡片表",
                 "ColumnName": "图片",
-                "GUID": "443fbf5b-b786-4e84-bf49-17ed2d01f01b"
+                "GUID": "56a3a381-71e2-4543-9a88-155e39527035"
               },
               "ColumnName": "图片"
             },
@@ -129,7 +135,7 @@
               "BindingInfo": {
                 "TableName": "首页卡片表",
                 "ColumnName": "跳转页面",
-                "GUID": "1f9f0fa3-c398-4e76-8149-7305f57f4a28"
+                "GUID": "77505949-613f-46f3-ab96-c7463f0db12c"
               },
               "ColumnName": "跳转页面"
             }
@@ -1715,9 +1721,10 @@
     }
   },
   "Spans": [
-    "2,0,27,54",
     "0,2,2,7",
-    "0,42,2,11"
+    "0,42,2,11",
+    "2,0,27,54",
+    "1,12,1,4"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
@@ -1744,4 +1751,4 @@
       "Size": "1040,580"
     }
   ]
-}//hEmHfARpqetAXtcf4EUMYZWjcrFccwOmmcba6PB7cLxoyIIE7MvALsu/6TbLU4WXUlLjA3PABeAZS1CsWBTsUXSrh4qjrucFQagWiG/NPMfumh4nE2KLzGI0UME10R9FEBQyRkey8sT2oDuVFTvUfPdpIPamfJSo+JxikdKdzsXfiYG7/kQYB1G7r+34pbdunf5LtokIyOKDEgcvPynlrPV7CIooXkCR5BzRf5r3ENvAe1ewvK4YTU8+mYYEBzktwrjs7RbaTdGNtuD+BevrjSl+VjuiYH4Z/GgRJay++3GkmfA2RdrSmXiyA/jAvL0qnlN16i8dYkrv2fwWpEiZBZMfwQYFIHo5gUxbfrVzLY8lZBKY5Ajp6DK1f6O3+Q3CAAmOBnxj7j3mX8ll7EDP7NMmj1nIqldrbtp3Cn5WnEagwUb8O2fH+PJ3J+fk2p8hJZ0nog8WUwTXlLCbhp6Wfs6/R9Edip+EY/oP7CxMSrG+y1RHN9544P4Bcbsfjz8An5m705/uvMuEK4DCBoKn/D2C6NACTShB7xHA3Dm2fZbPSdAbtPwVHk24OWSMyPgGQXKGSe8/vTA6S+SKEJ51lBzorjuKkACATV32+Ovb9wCjujd5ZOVuXgwy6tjjnNN/isYTWDjpJSvuvpxaY1RbWeAXG2dsIlh6PHRAbxJrNooRyPy/Enq27QqLDj+wZPKb2LQg8GEjoikwQS+khOJ3B+grMS/y1gN6SWRyNM4gij2FeLla1NV/wse9yMZweHSzRtdhd4FY033c/9p86dcHmIAqKDtKm8piG+tdcfAV3WqbdT0B4BwHQ3p31awYU68xODLrWeYG3/KVCSVhLye1N4omwEjs/sWs9ESfof2wujUjV0NLNLfbPxCIsgpSKpWO+ZnIV2EXQzX0HFrMuQl1eQ==|920
+}//0zeSJFmihpKy90o1prbzJ1rjLZv/ya/ATqm7hPIQoJzSNKUuPUOUsE9pSGc3xqS219Xru84nIPUY7o9iYCB+rl8biregGyY9XKS81oJ+xXeheNLVdV+h2MlCZfhF8/b83oYou1zpfeHaQpvnttt6TC3KXi5jnoKbohwx6tqQF5i82y4qrN8w1FuspWFXahVrHRHCEhnliACq1pezOkQXtZo67C8eQ9AY/Zz8RoexBZrXJJk5v07OdQ/6DEUq3dMYDS/EvEAVvFuscg2uoLEdipstLaBBBohwN3GvzL/1HAhl4S24ceLXgqs/GCSe++dB/bd4m/WomYE0EF3y/5gt1k8laEXSiCpWnwcU7wMLp5CX11ghdeSjGJzstY2TNhmv9tDetz9TRYY9AXTcjVyuOo6P9o6iehyeIkFB7ThCdAuknkIwVpkKNw0obkjr3gCDUDhzz762jj3E2PnXE7+y0CFdaUrIGzEt6B1D6vNrmEG7iORv0xOcFq8QVshQ5T68SRhfUXGsD3NXLERG5POv9cxpZ+AD/a1QHjst/MhvgPgAqTrcwLMuTnexdGp4jZW0Jw1mYhhwbs9gjYlGFZux8nefYA1IUKcCnaWM52x/5r4URdf9uPLbpE01wbJ8rhhQDNm69CK1Y3q/HUQGn0Q/utTgy+tL69B3gKPPDH77xXY8tNsyHytpCEODBaR6bswId2i0CHpe3a1RDeUGgZ5RR/U8+hdJp/rYoR730gRg28SYmBFEkov4n4xfH26EPrl8GqHCNzLV4E2FDDNix8lvVSVGRdclwcUuvIXaVo+Tmsx0yFlpJH7BqNQEC/QR6nFPDIgjyPQueJ9YNd67FV1om1LlpNZ/eVcQPAM5mNC/GvW9EDwrwtPgXJ0cp0vg5hrqWu4R8Vh6npmssBLv4g+wyQ==|920

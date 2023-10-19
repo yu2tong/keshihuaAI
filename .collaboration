@@ -750,17 +750,7 @@
   },
   {
     "ModuleName": "PCPage/首页",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-19T22:53:05.371613+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\首页.json",
-      "Pages\\e83c802a-8ae1-4afa-a0f8-fbee61490210.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
