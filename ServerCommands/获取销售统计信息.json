@@ -1,0 +1,122 @@
+{
+  "Name": "获取销售统计信息",
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon",
+      "Permission": {
+        "AllowRoles": [
+          "FGC_LoginUser"
+        ]
+      }
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "销售总金额",
+      "TableValue": {
+        "TableName": "销售信息",
+        "OnlyGetValue": true,
+        "TableValueType": 0,
+        "BindingInfos": [
+          {
+            "BindingInfo": {
+              "TableName": "销售信息",
+              "ColumnName": "销售总计",
+              "GUID": "93be2716-c823-4020-934a-43e70d18e23f"
+            },
+            "ColumnName": "销售总计"
+          }
+        ]
+      },
+      "ID": "eb22ffba330d443fa8bb312eca7b838c"
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "门店总数",
+      "TableValue": {
+        "TableName": "店铺信息",
+        "OnlyGetValue": true,
+        "TableValueType": 0,
+        "BindingInfos": [
+          {
+            "BindingInfo": {
+              "TableName": "店铺信息",
+              "ColumnName": "店铺数",
+              "GUID": "65825b72-ed83-4bf1-a9c8-6f1afb2dcf94"
+            },
+            "ColumnName": "店铺数"
+          }
+        ],
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "店铺信息",
+            "ColumnName": "关店时间",
+            "GUID": "49ef4314-e845-470f-81cc-9a4284be3534"
+          },
+          "Value": "%Null%"
+        }
+      },
+      "ID": "a46aae36a9174e73af104f30b2b0011f"
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "会员总数",
+      "TableValue": {
+        "TableName": "会员信息",
+        "OnlyGetValue": true,
+        "TableValueType": 0,
+        "BindingInfos": [
+          {
+            "BindingInfo": {
+              "TableName": "会员信息",
+              "ColumnName": "人数",
+              "GUID": "9e3aeed8-8e99-4859-9b98-f4e858373e8d"
+            },
+            "ColumnName": "人数"
+          }
+        ]
+      },
+      "ID": "10434a773ba24d1f9fd859e404a49645"
+    },
+    {
+      "$type": "Forguncy.Model.ReturnCommand, ServerDesignerCommon",
+      "CustomReturns": [
+        {
+          "ReturnPropertyName": "总销售额",
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=销售总金额"
+          }
+        },
+        {
+          "ReturnPropertyName": "门店总数",
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=门店总数"
+          }
+        },
+        {
+          "ReturnPropertyName": "会员总数",
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=会员总数"
+          }
+        }
+      ]
+    }
+  ],
+  "ReturnProperties": [
+    {
+      "Name": "总销售额"
+    },
+    {
+      "Name": "门店总数"
+    },
+    {
+      "Name": "会员总数"
+    }
+  ]
+}

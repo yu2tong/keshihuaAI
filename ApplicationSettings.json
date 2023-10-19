@@ -1,0 +1,42 @@
+{
+  "IntegrateWithOtherApplication": {
+    "Password": "^zx@9Z3HAy1D"
+  },
+  "ListviewLoadingIndicatorSettings": {},
+  "IsPageInContainerBackgroundHardCodeWhite": true,
+  "GlobalProperties": [],
+  "WebSitePort": 36949,
+  "UserServicePort": 27862,
+  "NotAllowModifyDatabaseByJsApi": false,
+  "NotAllowQueryDatabaseByJsApi": false,
+  "NotAllowSendMailByJsApi": false,
+  "StartPage": "首页",
+  "StartDateFiscalYear": 1,
+  "ShowListViewDataPerviewInChart": false,
+  "MaxRowCount": 10000000,
+  "AuditingList": {
+    "产品品牌": 0,
+    "产品大类": 0,
+    "产品类别": 0,
+    "会员职业": 0,
+    "门店分类": 0,
+    "会员卡类型": 0,
+    "月度表": 0,
+    "年度表": 0,
+    "手机测试点": 0,
+    "首页卡片表": 0,
+    "应付工资预算决算表": 0,
+    "产品信息": 0,
+    "区域列表": 0,
+    "员工信息": 0,
+    "店铺信息": 0,
+    "会员信息": 0,
+    "城市空气质量": 0,
+    "销售信息": 0,
+    "徽标物品信息表": 0,
+    "手机测试结果": 0,
+    "万达各商铺销售表": 0,
+    "世界人口统计表": 0,
+    "徽标物品入库历史表": 0
+  }
+}

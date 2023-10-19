@@ -1,2 +1,0 @@
-# keshihuaAI
-FuWuWaiBao competition

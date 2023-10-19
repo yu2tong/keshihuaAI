@@ -1,0 +1,1369 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "19": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 40.0
+        }
+      },
+      "20": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      }
+    },
+    "Count": 21,
+    "DefaultSize": 30.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "9": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 66.0
+        }
+      },
+      "10": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 34.0
+        }
+      },
+      "12": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      }
+    },
+    "Count": 13,
+    "DefaultSize": 100.0
+  },
+  "Values": {
+    "2,2": "打印",
+    "2,6": "订单编号",
+    "2,7": 122590,
+    "4,2": "产品销售订单详细信息",
+    "4,8": "订单编号：",
+    "6,2": "销售基本信息",
+    "7,2": "订单金额",
+    "7,4": "单价",
+    "7,6": "数量",
+    "7,8": "折扣",
+    "8,2": "产品基本信息",
+    "9,2": "产品名称",
+    "9,6": "品牌",
+    "10,2": "产品大类",
+    "10,6": "产品分类",
+    "11,2": "会员信息",
+    "12,2": "姓名",
+    "12,4": "性别",
+    "12,6": "生日",
+    "12,8": "职业",
+    "13,2": "会员卡类型",
+    "13,4": "会员卡折扣",
+    "13,6": "会员区域",
+    "14,2": "销售门店信息",
+    "15,2": "门店名称",
+    "15,4": "门店类型",
+    "15,6": "门店规模",
+    "15,8": "开店时间",
+    "16,2": "门店大区",
+    "16,4": "所在省份",
+    "16,6": "所在城市",
+    "16,8": "备注",
+    "17,2": "销售员信息",
+    "18,2": "姓名",
+    "18,4": "生日",
+    "18,6": "工作类型",
+    "18,8": "入职时间"
+  },
+  "AttachInfos": {
+    "2,2": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ExportPageToPdfCommand, ServerDesignerCommon"
+          }
+        ],
+        "Text": "打印",
+        "TemplateKey": "样式8"
+      }
+    },
+    "2,7": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "样式2",
+        "CellDefaultValue": 122590
+      }
+    },
+    "2,10": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "SetCurrentRowCommand.SetCurrentRowCommand, SetCurrentRowCommand",
+            "CurrentRowInfo": {
+              "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+              "ColumnBindingInfo": {
+                "TableName": "销售信息",
+                "ColumnName": "销售编号",
+                "GUID": "581cffd4-e46e-41cf-889a-04e09b39d17e"
+              },
+              "Value": {
+                "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                "SerializeProperty": "=打印表单!H3"
+              }
+            }
+          }
+        ],
+        "AutoExecute": true,
+        "TemplateKey": "样式4",
+        "Icon": {
+          "Name": "Application/047_search_8.svg",
+          "BuiltIn": true,
+          "Color": "Background 1"
+        },
+        "IconSize": 18.0
+      }
+    },
+    "4,9": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "销售编号",
+        "GUID": "59dda720-89e4-42f7-b511-980063b659ac"
+      }
+    },
+    "7,3": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "成交价",
+        "GUID": "63f6f697-68f3-4079-a45a-8ffa5bcc54b4"
+      }
+    },
+    "7,5": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "单价",
+        "GUID": "f39299a1-5002-4c2c-bcea-ea5151743cb3"
+      }
+    },
+    "7,7": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "购买数量",
+        "GUID": "9c914d9d-af7d-4e27-8ce9-90634220d354"
+      }
+    },
+    "7,9": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "折扣",
+        "GUID": "9cb15f4b-81e6-4082-9808-eccde45aa58e"
+      }
+    },
+    "9,3": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "产品编号",
+        "GUID": "ecbe0c2d-d445-4a1c-9519-4157c506dab2",
+        "RelationBinding": {
+          "RelatedTable": "产品信息",
+          "RelatedColumn": "产品编号",
+          "DisplayColumn": "产品名称"
+        }
+      }
+    },
+    "9,7": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "产品编号",
+        "GUID": "3e6962b7-3167-4b31-82f6-14cae6aa7b4e",
+        "RelationBinding": {
+          "RelatedTable": "产品信息",
+          "RelatedColumn": "产品编号",
+          "DisplayColumn": "产品品牌ID",
+          "NextRelationBinding": {
+            "RelatedTable": "产品品牌",
+            "RelatedColumn": "ID",
+            "DisplayColumn": "产品品牌"
+          }
+        }
+      }
+    },
+    "10,3": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "产品编号",
+        "GUID": "06e6df46-3e8f-468c-b0ba-6749cf13fd2c",
+        "RelationBinding": {
+          "RelatedTable": "产品信息",
+          "RelatedColumn": "产品编号",
+          "DisplayColumn": "产品类别ID",
+          "NextRelationBinding": {
+            "RelatedTable": "产品类别",
+            "RelatedColumn": "ID",
+            "DisplayColumn": "产品大类ID",
+            "NextRelationBinding": {
+              "RelatedTable": "产品大类",
+              "RelatedColumn": "ID",
+              "DisplayColumn": "产品大类"
+            }
+          }
+        }
+      }
+    },
+    "10,7": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "产品编号",
+        "GUID": "fb6f8e5c-861a-4fb3-851e-a8b35077ff12",
+        "RelationBinding": {
+          "RelatedTable": "产品信息",
+          "RelatedColumn": "产品编号",
+          "DisplayColumn": "产品类别ID",
+          "NextRelationBinding": {
+            "RelatedTable": "产品类别",
+            "RelatedColumn": "ID",
+            "DisplayColumn": "产品类别"
+          }
+        }
+      }
+    },
+    "12,3": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "会员编号",
+        "GUID": "c8571121-673b-4382-9158-8f96aa85692f",
+        "RelationBinding": {
+          "RelatedTable": "会员信息",
+          "RelatedColumn": "会员编号",
+          "DisplayColumn": "会员姓名"
+        }
+      }
+    },
+    "12,5": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "会员编号",
+        "GUID": "0fa2e9cc-67ea-4f5c-afaa-a76f07779674",
+        "RelationBinding": {
+          "RelatedTable": "会员信息",
+          "RelatedColumn": "会员编号",
+          "DisplayColumn": "会员性别"
+        }
+      }
+    },
+    "12,7": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "会员编号",
+        "GUID": "6558ff5e-88e1-421a-b36b-087dac498c9b",
+        "RelationBinding": {
+          "RelatedTable": "会员信息",
+          "RelatedColumn": "会员编号",
+          "DisplayColumn": "出生日期"
+        }
+      }
+    },
+    "12,9": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "会员编号",
+        "GUID": "0b50837e-026f-4d3f-9e62-8cd7e06b14cd",
+        "RelationBinding": {
+          "RelatedTable": "会员信息",
+          "RelatedColumn": "会员编号",
+          "DisplayColumn": "职业ID",
+          "NextRelationBinding": {
+            "RelatedTable": "会员职业",
+            "RelatedColumn": "ID",
+            "DisplayColumn": "职业"
+          }
+        }
+      }
+    },
+    "13,3": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "会员编号",
+        "GUID": "e9a2ac21-ac12-434c-a3f8-81ad13ae09ae",
+        "RelationBinding": {
+          "RelatedTable": "会员信息",
+          "RelatedColumn": "会员编号",
+          "DisplayColumn": "会员卡类型ID",
+          "NextRelationBinding": {
+            "RelatedTable": "会员卡类型",
+            "RelatedColumn": "ID",
+            "DisplayColumn": "会员卡类型"
+          }
+        }
+      }
+    },
+    "13,5": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "会员编号",
+        "GUID": "f6a2893a-e2dc-4e11-a86c-f2eb5385951d",
+        "RelationBinding": {
+          "RelatedTable": "会员信息",
+          "RelatedColumn": "会员编号",
+          "DisplayColumn": "会员卡类型ID",
+          "NextRelationBinding": {
+            "RelatedTable": "会员卡类型",
+            "RelatedColumn": "ID",
+            "DisplayColumn": "会员卡折扣"
+          }
+        }
+      }
+    },
+    "13,7": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "会员编号",
+        "GUID": "66914f95-e20c-487a-8c2c-5b68df22506e",
+        "RelationBinding": {
+          "RelatedTable": "会员信息",
+          "RelatedColumn": "会员编号",
+          "DisplayColumn": "区域ID",
+          "NextRelationBinding": {
+            "RelatedTable": "区域列表",
+            "RelatedColumn": "地区编号",
+            "DisplayColumn": "大区"
+          }
+        }
+      }
+    },
+    "13,8": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "会员编号",
+        "GUID": "13ced12b-d936-4e72-8423-a161c15f51a3",
+        "RelationBinding": {
+          "RelatedTable": "会员信息",
+          "RelatedColumn": "会员编号",
+          "DisplayColumn": "区域ID",
+          "NextRelationBinding": {
+            "RelatedTable": "区域列表",
+            "RelatedColumn": "地区编号",
+            "DisplayColumn": "省份"
+          }
+        }
+      }
+    },
+    "13,9": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "会员编号",
+        "GUID": "f406635a-6b4b-4125-b269-4d52e37384cb",
+        "RelationBinding": {
+          "RelatedTable": "会员信息",
+          "RelatedColumn": "会员编号",
+          "DisplayColumn": "区域ID",
+          "NextRelationBinding": {
+            "RelatedTable": "区域列表",
+            "RelatedColumn": "地区编号",
+            "DisplayColumn": "城市"
+          }
+        }
+      }
+    },
+    "15,3": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "店铺编号",
+        "GUID": "38c1af95-c1fb-44a7-91bf-187a3a07971d",
+        "RelationBinding": {
+          "RelatedTable": "店铺信息",
+          "RelatedColumn": "门店编号",
+          "DisplayColumn": "门店名称"
+        }
+      }
+    },
+    "15,5": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "店铺编号",
+        "GUID": "4d6339cb-aaf5-4120-b3c5-2ceb7634f814",
+        "RelationBinding": {
+          "RelatedTable": "店铺信息",
+          "RelatedColumn": "门店编号",
+          "DisplayColumn": "门店分类ID",
+          "NextRelationBinding": {
+            "RelatedTable": "门店分类",
+            "RelatedColumn": "ID",
+            "DisplayColumn": "门店分类"
+          }
+        }
+      }
+    },
+    "15,7": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "店铺编号",
+        "GUID": "77abab37-b801-47d6-ab46-3907c82c425a",
+        "RelationBinding": {
+          "RelatedTable": "店铺信息",
+          "RelatedColumn": "门店编号",
+          "DisplayColumn": "规模"
+        }
+      }
+    },
+    "15,9": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "店铺编号",
+        "GUID": "43bfafa6-6ea3-4b54-b508-2d820dc14f03",
+        "RelationBinding": {
+          "RelatedTable": "店铺信息",
+          "RelatedColumn": "门店编号",
+          "DisplayColumn": "开店时间"
+        }
+      }
+    },
+    "16,3": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "店铺编号",
+        "GUID": "82cd9be6-6f82-4297-a4ae-becefeb85b52",
+        "RelationBinding": {
+          "RelatedTable": "店铺信息",
+          "RelatedColumn": "门店编号",
+          "DisplayColumn": "地区编号",
+          "NextRelationBinding": {
+            "RelatedTable": "区域列表",
+            "RelatedColumn": "地区编号",
+            "DisplayColumn": "大区"
+          }
+        }
+      }
+    },
+    "16,5": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "店铺编号",
+        "GUID": "c55275a4-2b3d-49ff-ae5e-601fde5ecf1c",
+        "RelationBinding": {
+          "RelatedTable": "店铺信息",
+          "RelatedColumn": "门店编号",
+          "DisplayColumn": "地区编号",
+          "NextRelationBinding": {
+            "RelatedTable": "区域列表",
+            "RelatedColumn": "地区编号",
+            "DisplayColumn": "省份"
+          }
+        }
+      }
+    },
+    "16,7": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "店铺编号",
+        "GUID": "ca27eb9e-d8e2-43d9-8110-46f02f2749f7",
+        "RelationBinding": {
+          "RelatedTable": "店铺信息",
+          "RelatedColumn": "门店编号",
+          "DisplayColumn": "地区编号",
+          "NextRelationBinding": {
+            "RelatedTable": "区域列表",
+            "RelatedColumn": "地区编号",
+            "DisplayColumn": "城市"
+          }
+        }
+      }
+    },
+    "16,9": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "店铺编号",
+        "GUID": "2b87d74d-c480-476f-a6e8-1249b93914b2",
+        "RelationBinding": {
+          "RelatedTable": "店铺信息",
+          "RelatedColumn": "门店编号",
+          "DisplayColumn": "备注"
+        }
+      }
+    },
+    "18,3": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "员工编号",
+        "GUID": "6a99c37c-e547-42e7-a45f-df3744114e76",
+        "RelationBinding": {
+          "RelatedTable": "员工信息",
+          "RelatedColumn": "员工编号",
+          "DisplayColumn": "姓名"
+        }
+      }
+    },
+    "18,5": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "员工编号",
+        "GUID": "05539461-4717-45f2-9836-952042261f64",
+        "RelationBinding": {
+          "RelatedTable": "员工信息",
+          "RelatedColumn": "员工编号",
+          "DisplayColumn": "生日"
+        }
+      }
+    },
+    "18,7": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "员工编号",
+        "GUID": "5cb83057-dd26-4f00-be15-19c0ed469aaf",
+        "RelationBinding": {
+          "RelatedTable": "员工信息",
+          "RelatedColumn": "员工编号",
+          "DisplayColumn": "工作类型"
+        }
+      }
+    },
+    "18,9": {
+      "BindingInfo": {
+        "TableName": "销售信息",
+        "ColumnName": "员工编号",
+        "GUID": "50a694be-0393-4d52-b2ef-1607bed2c0ab",
+        "RelationBinding": {
+          "RelatedTable": "员工信息",
+          "RelatedColumn": "员工编号",
+          "DisplayColumn": "入职时间"
+        }
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Formatter": 2,
+        "TextIndent": 0,
+        "HorizontalAlignment": 3,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": 5,
+        "Formatter": 2,
+        "TextIndent": 0,
+        "HorizontalAlignment": 3,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": true,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Formatter": 2,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "Formatter": 6,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontSize": 24.0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": 7,
+        "Formatter": 2,
+        "TextIndent": 0,
+        "HorizontalAlignment": 3,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "BorderBottom": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": 2,
+        "TextIndent": 0,
+        "HorizontalAlignment": 8,
+        "VerticalAlignment": 9,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 10,
+        "VerticalAlignment": 9,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 10,
+        "VerticalAlignment": 9,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "BorderRight": null
+      },
+      {
+        "Background": 11,
+        "FontWeight": 1,
+        "Formatter": 2,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "Background": 11,
+        "FontWeight": 1,
+        "Formatter": 2,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "Background": null,
+        "FontWeight": 1,
+        "Formatter": 3,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10
+      },
+      {
+        "FontWeight": 13,
+        "Formatter": 2,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 2,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 14,
+        "TextIndent": 5,
+        "HorizontalAlignment": 8,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontWeight": 1,
+        "TextIndent": 5,
+        "HorizontalAlignment": 8,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 15,
+        "TextIndent": 5,
+        "HorizontalAlignment": 8,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 15,
+        "TextIndent": 5,
+        "HorizontalAlignment": 8,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 15,
+        "TextIndent": 5,
+        "HorizontalAlignment": 8
+      },
+      {
+        "FontWeight": 1,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": 2,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": null,
+        "TextIndent": 0,
+        "HorizontalAlignment": 3,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontWeight": 1,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "FontWeight": 1,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10
+      },
+      {
+        "Background": 11,
+        "FontWeight": 1,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "Background": 11,
+        "FontWeight": 1,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "FontWeight": 13,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 16,
+        "TextIndent": 0,
+        "HorizontalAlignment": 4,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontStretch": 1,
+        "FontStyle": 1,
+        "FontWeight": 1,
+        "Foreground": null,
+        "Formatter": 15,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "VerticalAlignment": 4,
+        "WordWrap": false,
+        "Underline": false,
+        "Strikethrough": false,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "Background": 11,
+        "FontWeight": 1,
+        "Formatter": 2,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "Background": 11,
+        "FontWeight": 1,
+        "Formatter": 2,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 17,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 16,
+        "TextIndent": 0,
+        "HorizontalAlignment": 4,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 16,
+        "TextIndent": 0,
+        "HorizontalAlignment": 4
+      },
+      {
+        "Background": 11,
+        "FontWeight": 1,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10,
+        "BorderBottom": 0,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontWeight": 1,
+        "Formatter": 2,
+        "TextIndent": 10,
+        "HorizontalAlignment": 10
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Normal",
+        "[AUTO]General",
+        "General",
+        "Center",
+        "Blue",
+        "@",
+        "Text 1 25",
+        "Right",
+        "Bottom",
+        "Left",
+        "Background 1 -5",
+        "black",
+        "Bold",
+        "[$¥-804] #,##0.00 ;[$¥-804] -#,##0.00;[$¥-804] \" - \"??;@",
+        "0%",
+        "yyyy/MM/dd",
+        "0㎡"
+      ],
+      "Borders": [
+        {
+          "Color": 12
+        }
+      ]
+    },
+    "CellStyles": {
+      "1,10": 0,
+      "2,1": 0,
+      "2,2": 1,
+      "2,3": 2,
+      "2,5": 0,
+      "2,6": 3,
+      "2,7": 4,
+      "2,8": 0,
+      "2,9": 0,
+      "2,10": 0,
+      "2,12": 0,
+      "3,10": 0,
+      "3,12": 0,
+      "4,2": 5,
+      "4,3": 6,
+      "4,4": 6,
+      "4,5": 6,
+      "4,6": 6,
+      "4,7": 6,
+      "4,8": 7,
+      "4,9": 8,
+      "4,10": 8,
+      "4,11": 9,
+      "4,12": 8,
+      "5,1": 0,
+      "5,2": 5,
+      "5,3": 0,
+      "5,4": 0,
+      "5,5": 0,
+      "5,6": 0,
+      "5,7": 0,
+      "5,8": 7,
+      "5,9": 8,
+      "5,10": 8,
+      "5,11": 9,
+      "5,12": 8,
+      "6,1": 10,
+      "6,2": 11,
+      "6,3": 11,
+      "6,4": 11,
+      "6,5": 11,
+      "6,6": 11,
+      "6,7": 11,
+      "6,8": 11,
+      "6,9": 11,
+      "6,10": 12,
+      "6,11": 13,
+      "6,12": 14,
+      "7,1": 10,
+      "7,2": 15,
+      "7,3": 16,
+      "7,4": 15,
+      "7,5": 16,
+      "7,6": 15,
+      "7,7": 17,
+      "7,8": 15,
+      "7,9": 18,
+      "7,10": 19,
+      "7,11": 20,
+      "7,12": 0,
+      "8,1": 10,
+      "8,2": 11,
+      "8,3": 11,
+      "8,4": 11,
+      "8,5": 11,
+      "8,6": 11,
+      "8,7": 11,
+      "8,8": 11,
+      "8,9": 11,
+      "8,10": 12,
+      "8,11": 13,
+      "8,12": 3,
+      "9,1": 10,
+      "9,2": 15,
+      "9,3": 21,
+      "9,4": 21,
+      "9,5": 21,
+      "9,6": 22,
+      "9,7": 23,
+      "9,8": 23,
+      "9,9": 23,
+      "9,10": 24,
+      "9,11": 25,
+      "9,12": 26,
+      "10,1": 10,
+      "10,2": 15,
+      "10,3": 21,
+      "10,4": 21,
+      "10,5": 21,
+      "10,6": 15,
+      "10,7": 21,
+      "10,8": 21,
+      "10,9": 21,
+      "10,10": 27,
+      "10,11": 28,
+      "10,12": 0,
+      "11,1": 10,
+      "11,2": 11,
+      "11,3": 29,
+      "11,4": 29,
+      "11,5": 29,
+      "11,6": 29,
+      "11,7": 29,
+      "11,8": 29,
+      "11,9": 29,
+      "11,10": 30,
+      "11,11": 13,
+      "11,12": 31,
+      "12,1": 10,
+      "12,2": 15,
+      "12,3": 21,
+      "12,4": 15,
+      "12,5": 21,
+      "12,6": 15,
+      "12,7": 32,
+      "12,8": 15,
+      "12,9": 21,
+      "12,10": 27,
+      "12,11": 28,
+      "12,12": 0,
+      "13,1": 10,
+      "13,2": 22,
+      "13,3": 23,
+      "13,4": 22,
+      "13,5": 33,
+      "13,6": 22,
+      "13,7": 23,
+      "13,8": 23,
+      "13,9": 23,
+      "13,10": 24,
+      "13,11": 25,
+      "13,12": 26,
+      "14,1": 10,
+      "14,2": 34,
+      "14,3": 35,
+      "14,4": 35,
+      "14,5": 35,
+      "14,6": 35,
+      "14,7": 35,
+      "14,8": 35,
+      "14,9": 12,
+      "14,10": 12,
+      "14,11": 13,
+      "14,12": 14,
+      "15,1": 10,
+      "15,2": 15,
+      "15,3": 21,
+      "15,4": 15,
+      "15,5": 21,
+      "15,6": 15,
+      "15,7": 36,
+      "15,8": 15,
+      "15,9": 32,
+      "15,10": 37,
+      "15,11": 38,
+      "15,12": 0,
+      "16,1": 10,
+      "16,2": 15,
+      "16,3": 21,
+      "16,4": 15,
+      "16,5": 21,
+      "16,6": 15,
+      "16,7": 21,
+      "16,8": 15,
+      "16,9": 21,
+      "16,10": 27,
+      "16,11": 28,
+      "16,12": 0,
+      "17,1": 10,
+      "17,2": 34,
+      "17,3": 39,
+      "17,4": 39,
+      "17,5": 39,
+      "17,6": 39,
+      "17,7": 39,
+      "17,8": 39,
+      "17,9": 30,
+      "17,10": 30,
+      "17,11": 13,
+      "17,12": 31,
+      "18,1": 10,
+      "18,2": 15,
+      "18,3": 21,
+      "18,4": 15,
+      "18,5": 32,
+      "18,6": 15,
+      "18,7": 21,
+      "18,8": 15,
+      "18,9": 32,
+      "18,10": 37,
+      "18,11": 38,
+      "18,12": 0,
+      "19,2": 40,
+      "19,3": 28,
+      "19,4": 40,
+      "19,5": 38,
+      "19,6": 40,
+      "19,7": 28,
+      "19,8": 40,
+      "19,9": 38,
+      "19,10": 38,
+      "19,11": 38,
+      "20,2": 40,
+      "20,3": 28,
+      "20,4": 40,
+      "20,5": 38,
+      "20,6": 40,
+      "20,7": 28,
+      "20,8": 40,
+      "20,9": 38,
+      "20,10": 38,
+      "20,11": 38
+    },
+    "SheetStyle": {
+      "Background": null,
+      "FontFamily": 0,
+      "FontStretch": 1,
+      "FontStyle": 1,
+      "FontWeight": 1,
+      "Foreground": null,
+      "Formatter": null,
+      "TextIndent": 0,
+      "HorizontalAlignment": 3,
+      "VerticalAlignment": 4,
+      "WordWrap": false,
+      "Underline": false,
+      "Strikethrough": false,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "2,7,1,3",
+    "4,9,1,2",
+    "6,2,1,9",
+    "7,9,1,2",
+    "8,2,1,9",
+    "9,3,1,3",
+    "9,7,1,4",
+    "10,3,1,3",
+    "10,7,1,4",
+    "11,2,1,9",
+    "12,9,1,2",
+    "13,9,1,2",
+    "14,2,1,9",
+    "15,9,1,2",
+    "16,9,1,2",
+    "17,2,1,9",
+    "18,9,1,2"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "母版页",
+    "PageOverflowMode": 1,
+    "PageLoadedCommandList": [
+      {
+        "$type": "SetCurrentRowCommand.SetCurrentRowCommand, SetCurrentRowCommand",
+        "CurrentRowInfo": {
+          "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+          "ColumnBindingInfo": {
+            "TableName": "销售信息",
+            "ColumnName": "销售编号",
+            "GUID": "7e38f252-202c-461a-81ca-6e8756be00fe"
+          },
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=打印表单!H3"
+          }
+        }
+      }
+    ],
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "PageResponsiveMode": 4
+  },
+  "PrintInfo": {
+    "ColumnStart": 2,
+    "ColumnEnd": 10,
+    "RowStart": 4,
+    "RowEnd": 18,
+    "Centering": 1,
+    "FitPagesTall": 1,
+    "FitPagesWide": 1,
+    "PaperSize": {},
+    "ShowColumnHeader": 1,
+    "ShowRowHeader": 1,
+    "Orientation": 2,
+    "Margin": {},
+    "PageOrder": 1
+  },
+  "BackgroundPictures": [
+    {
+      "FitToBrowserWidth": true,
+      "FitToBrowserHeight": true,
+      "Name": "9749fb9e-b402-487c-9cfd-fd7f024aea70.png",
+      "StyleInfo": {
+        "Fill": "Background 1 -5"
+      },
+      "IsAutomaticFill": false,
+      "Size": "20,20"
+    },
+    {
+      "Name": "239adb7d-3431-4bb7-8453-8da368d1bc55.png",
+      "StyleInfo": {
+        "CornerRadius": 10.0,
+        "Fill": "Background 1 0"
+      },
+      "IsAutomaticFill": false,
+      "Location": "20,20",
+      "Size": "1000,540"
+    }
+  ]
+}//zf795dgwq0dhYBwLpqFBBvsmPjjbj/MvOXjguVUKBpZMRFEeoBm+HfnHdzR08Ua9pfzV1GBXlE0MTi9Xka4aKA/oO8YTnXnocKA+YIEOZ3COx9Iits/NwMrkfh6djO2FfpyA+mP51CIvYFE6O7FEQZyAl2PfJcmnT//Cb06TJgzIZtU7STPu7ASqMrNko5+/cwOkzyh4yIvt4eZhJB+Cga6c8bm1UMHj2k85VMxhUFEIirNsy2kO7nTq8FhvJ0PXEVwrXTqL0Oal/57iNnZzHUwtFW9L6Vq82lGveg5FePPHoNV4OdBhgjp9BxnDs7bKMHRjJeMSiRSkq5gU90sh47jOYZZZdd9IgxwIPSFYfoytvYTPe4S0FhFgLg15QPgTqQ0y/TpBlSYSDd7LM2Wpxt1KbCpOJHOeZyOlDhzEvkl+K2BnjN02AUq/HfYHi7AxdCakMY7a01UaQTdXL6W2ESM62lKWp+baLZr1+XEQ5aQ5cmep+iUqG0lJemZF/TqsUVKVxbzH4rXn5dxTMMwU6v65fC+/oQldF8+5+Z7edSDRnRGRY1HPDqznLHppu0J+yFToEIsKg5BzXKEXxxR1uZ0PXHMEjgE6LPe7wIGWI1yiTgZMfigwqmfRG+8W1gzON0iqsRuJbl5PXDoO6mgtDQNTlUEprgFCj+5Bjc9G+eUldVYyzGsVi167qFUasnLZnGhDARpn3/3ji+Regh/sRnWMQCDs1rjFPF96D0XTqZOIO45G/u+ilMkwQ28h7MZNBu8OvcIQbfrY+zGwDfh8QJml/IC5ogmZnNEv3EhJgp1eIBbuiKQEPwrpPqQBsZJa0Bx8qYNvmztj9Ye/3Et39aK7p4HnKkEJHA+gHx7qKeZqUXvFNP/YuO8x0rTsq9c0smjumdnnqxooj34+280sZg==|920

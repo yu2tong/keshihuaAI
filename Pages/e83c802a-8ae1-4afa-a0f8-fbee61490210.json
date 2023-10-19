@@ -1,0 +1,260 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 5.0
+        }
+      }
+    },
+    "Count": 11
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 18.0
+        }
+      }
+    },
+    "Count": 13
+  },
+  "AttachInfos": {
+    "1,1": {
+      "CellType": {
+        "$type": "Forguncy.HyperlinkCellType, ServerDesignerCommon",
+        "ClickMode": 1,
+        "TemplateKey": "样式1"
+      },
+      "TemplateCellSource": "标题"
+    },
+    "3,1": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "TemplateKey": "样式1"
+      },
+      "TemplateCellSource": "图片"
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontSize": 18.66666603088379,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "Formatter": 3,
+        "TextIndent": 10,
+        "HorizontalAlignment": 4,
+        "Underline": false,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "FontFamily": 0,
+        "FontSize": 18.66666603088379,
+        "FontWeight": 1,
+        "Foreground": 2,
+        "Formatter": 3,
+        "TextIndent": 10,
+        "HorizontalAlignment": 4,
+        "Underline": false,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 14.670000076293945,
+        "Formatter": 3,
+        "BorderBottom": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 6,
+        "FontFamily": 0,
+        "FontSize": 14.670000076293945,
+        "Foreground": null,
+        "Formatter": 3,
+        "BorderBottom": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": 6,
+        "FontFamily": 0,
+        "FontSize": 14.670000076293945,
+        "Foreground": null,
+        "Formatter": 3,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Bold",
+        "Text 1 35",
+        "General",
+        "Left",
+        "Background 1 -5",
+        "#FFF2F2F2"
+      ],
+      "Borders": [
+        {
+          "Color": 5
+        }
+      ]
+    },
+    "CellStyles": {
+      "1,1": 0,
+      "1,2": 0,
+      "1,3": 0,
+      "1,4": 0,
+      "1,5": 0,
+      "1,6": 0,
+      "1,7": 0,
+      "1,8": 0,
+      "1,9": 0,
+      "1,10": 0,
+      "1,11": 0,
+      "1,12": 0,
+      "2,1": 1,
+      "2,2": 1,
+      "2,3": 1,
+      "2,4": 1,
+      "2,5": 1,
+      "2,6": 1,
+      "2,7": 1,
+      "2,8": 1,
+      "2,9": 1,
+      "2,10": 1,
+      "2,11": 1,
+      "2,12": 1,
+      "3,1": 2,
+      "3,2": 3,
+      "3,3": 3,
+      "3,4": 3,
+      "3,5": 3,
+      "3,6": 3,
+      "3,7": 3,
+      "3,8": 3,
+      "3,9": 3,
+      "3,10": 3,
+      "3,11": 3,
+      "3,12": 3,
+      "4,1": 4,
+      "4,2": 4,
+      "4,3": 4,
+      "4,4": 4,
+      "4,5": 4,
+      "4,6": 4,
+      "4,7": 4,
+      "4,8": 4,
+      "4,9": 4,
+      "4,10": 4,
+      "4,11": 4,
+      "4,12": 4,
+      "5,1": 4,
+      "5,2": 4,
+      "5,3": 4,
+      "5,4": 4,
+      "5,5": 4,
+      "5,6": 4,
+      "5,7": 4,
+      "5,8": 4,
+      "5,9": 4,
+      "5,10": 4,
+      "5,11": 4,
+      "5,12": 4,
+      "6,1": 4,
+      "6,2": 4,
+      "6,3": 4,
+      "6,4": 4,
+      "6,5": 4,
+      "6,6": 4,
+      "6,7": 4,
+      "6,8": 4,
+      "6,9": 4,
+      "6,10": 4,
+      "6,11": 4,
+      "6,12": 4,
+      "7,1": 4,
+      "7,2": 4,
+      "7,3": 4,
+      "7,4": 4,
+      "7,5": 4,
+      "7,6": 4,
+      "7,7": 4,
+      "7,8": 4,
+      "7,9": 4,
+      "7,10": 4,
+      "7,11": 4,
+      "7,12": 4,
+      "8,1": 4,
+      "8,2": 4,
+      "8,3": 4,
+      "8,4": 4,
+      "8,5": 4,
+      "8,6": 4,
+      "8,7": 4,
+      "8,8": 4,
+      "8,9": 4,
+      "8,10": 4,
+      "8,11": 4,
+      "8,12": 4,
+      "9,1": 4,
+      "9,2": 4,
+      "9,3": 4,
+      "9,4": 4,
+      "9,5": 4,
+      "9,6": 4,
+      "9,7": 4,
+      "9,8": 4,
+      "9,9": 4,
+      "9,10": 4,
+      "9,11": 4,
+      "9,12": 4
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "1,1,2,12",
+    "3,1,7,12"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.TemplatePage, ServerDesignerCommon",
+    "ParentPageName": "首页",
+    "PageResponsiveMode": 4
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "BackgroundPictures": [
+    {
+      "Name": "5b8e025e-b56a-4a29-8e51-72f3d91bf60f.png",
+      "DisplayName": "背景图1",
+      "StyleInfo": {
+        "Fill": "Background 1 0",
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Location": "18,5",
+      "Size": "240,180",
+      "BoxShadowString": "0 0 0 5 #33000000"
+    }
+  ]
+}//C1naAPxr/FkdZpNSYQqA0JJ+0iPTRlKNA4Zsxr+9ZvXoXUrvb7UtkwTuEW7cQgMj/Gl/dFJ/JsCBr8o0lVInKmM+h53qxMoamslV2H+eHSZZW9Z7XT2CIqaZbngSN0uy9cShq/1FsKLDiBjnCqr8gzh7aCIot6mwhhoaFJat6erivblMkBYK6sZ0rHG2rnvTXUAc+Rv0Ah1g4Zatmq8LZixoHbDPrIxJ+c3W42rmd6vjEez13JW3T3MXnnLYkyB+x10MRr5JL4VJTu2akHVVTJhYHiktUka9kHRqrT7C58PS4wFeido9Ky0YWxNVYQtrLGgtAGoNqhoniBcugqJQa/FSvXXfbryRj4mPnNSM8ztzCfjnE/pTYabsGyR1XLrMyAQyFOmw4vzQtb9C1VqdDgbDn6cNJpsefXmDDc7AyUjbSgYgfu/0rJZi+vitcFw8BWTA7dInnooD51BBdXM4Zg9k9dk5MaW5q+oByLc7y7MfM+0tI1yBFIoXoTDh2nudB60a9MrjtZWacPuVFvB1x2liSuYL1HgnoTIEnW0FEL1zzrTq87MFMt9Kq4Av55o9GffYaCOPXSYEEDOnlI21/Sn7jmnKNK9JAgiY1tk1yK71GS+08fCdR0D9qUJhlb722qUj6enTQVFG26/YjkZxxTbJY9xjFB/EEdAVR1Z8scjgIayAzeLS2ArPRd7KijmaiRYR7nsxzo2bTZtN68DmJtcc6ANL0DtZEdaLTwz7a+k1c2gLChbMvaStAi15N2XmpnUXv9mmyBYFfjju7Bh+C9HuFKXLYhBUNRYk2sIei50/7TGY8tk+GHKf4jc2oE8iD6/VcCK1NLBYocWWbrJ0Ua020g2dwinsGXLbYUzRF5brQFm7F8HXPI5r34yfBropFDzO3xWuVYObLR0dHzYUWQ==|920
