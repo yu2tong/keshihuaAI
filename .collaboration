@@ -859,7 +859,16 @@
   },
   {
     "ModuleName": "PCPage/模型预测1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T22:55:29.5781098+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\模型预测\\模型预测1.json"
+    ]
   },
   {
     "ModuleName": "Pages/模型管理",
