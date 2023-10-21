@@ -14,36 +14,36 @@
     {
       "$type": "Forguncy.Model.Tables.BindingColumn, ServerDesignerCommon",
       "DatabaseColumnType": "System.String",
-      "Name": "项目名称",
+      "Name": "文本",
       "ColumnType": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
     },
     {
       "$type": "Forguncy.Model.Tables.BindingColumn, ServerDesignerCommon",
       "DatabaseColumnType": "System.String",
-      "Name": "发起人",
+      "Name": "文本1",
       "ColumnType": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
     },
     {
       "$type": "Forguncy.Model.Tables.BindingColumn, ServerDesignerCommon",
       "DatabaseColumnType": "System.String",
-      "Name": "数据ID",
+      "Name": "文本2",
       "ColumnType": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
     },
     {
       "$type": "Forguncy.Model.Tables.BindingColumn, ServerDesignerCommon",
       "DatabaseColumnType": "System.String",
-      "Name": "组件ID",
+      "Name": "文本3",
       "ColumnType": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
     },
     {
       "$type": "Forguncy.Model.Tables.BindingColumn, ServerDesignerCommon",
-      "Name": "已训练时长",
+      "DatabaseColumnType": "System.Double",
+      "Name": "时间",
       "ColumnType": "System.TimeSpan, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
     },
     {
       "$type": "Forguncy.Model.Tables.BindingColumn, ServerDesignerCommon",
-      "DatabaseColumnType": "System.String",
-      "Name": "备注",
+      "Name": "文本4",
       "ColumnType": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
     },
     {

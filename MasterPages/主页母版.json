@@ -607,7 +607,7 @@
   "Values": {
     "0,0": "BESTofHDU",
     "1,13": "我的",
-    "1,15": "数据导入",
+    "1,15": "数据管理",
     "1,20": "数据预处理",
     "1,25": "特征工程",
     "1,30": "模型选择",
@@ -645,7 +645,7 @@
     "1,15": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "Text": "数据导入",
+        "Text": "数据管理",
         "TemplateKey": "_RS_Main2"
       }
     },
@@ -922,4 +922,4 @@
       "Size": "264,55"
     }
   ]
-}//uv2MAxpAH/+rtjtuf7k6kamGsg/n2o1eVuMMjszM4iFXXta+XTlCKw5nqMvRY34peUkaTwMlEBkh9ARS53XUrBsiz97v92KHmPBFDeTMmekGVI2XmSW6n3GqQlVEGahcv+2IFQPtND8nTEcwktUoWphmhF8W0fo2GRhjtPeXZoQ7AQ/1Mah0qmhifeJm2jms/J4qHaFSuMFG9D6tWJ/XK0bRPcdj1Wet4XNEittLky7zPPvcR7l1/H+239pB566bJfghJu8/Svc+rrZHRax23sjVAt7BPhdLppmB1sVD3L6adz0XzR1Ssaye7brjQXOfViK2W/ErE6gMiGyU3b0uhEK17liSw7b5V//kOGjq/xCKKlB/9Rlnb8nf6UdGhEzmnP7N+bJOHkNdUa98oSjjnJkOqQUqoiQAKvgHzEnCI7cc3h5ov6IjcGytyZ1TdOvvw6HhSx/yQv+wd7/tMvGKVtXKXpJ6+JFpX0dr20rGYAN6YMpxepH3xHRA0PWMBhisJNKk+L4S2OWbVhhO2cubQbfMNhJ4Drph9rrGzb3vBO7Ti/ZFCS0hFo0Fu2HLRJfgIG0TnPEcCOBKliE/xP2jBjAAf/52McZ1p4sef6Lnn1Vb2OTCECDVICe4ENnWXNHs3N9IzwlwAlyygrQyGotBap+u3yHPx2YQyR/18KY9WyA34Up8T9O58fhzgIV1Jzt/NdbzaJ2xqdkDlII/NmHwLi4aB1UZyjUILdX7XnUXzoFlKQE1HmY7nCw9QuUd20XfhddH4HZc837cp8J1EpQH8+XlXRd7JKMxegspvjD0Qx9rdcIEwJ0wsFKmFRYbg5X26G5rOkXORbKtV30h5zERXlRjGc8MQfPiIPicNemQr4hccXx3NneX2jg6ZUPNX9B31m7/5rkRLLL7I7Iox7gIJw==|920
+}//z2ZiETvsNHbwdyjvBoUKiPy0ADcQFIfKyeyyoJHYc1wKpPdcnLTmTL5qvQxIyDoiMRWnBNAPcS+PmFCBGbjJdrVv3RPSr8kBclJQYLjCr1Pdx7yPcdJiXjkpgCEUlXeGSRutMmcksfPH6/YjCoV8MYYLuYsWNtxy3ELOHxZyJn88u9AabADNXKA3cYBcqh6iNgeKf3Ab+tr4tPUkPIR/klVkmGH2okFDTmtPcID9EeLi7d8v7V6cI3Vv4uB8KO/lYQrNjmHlZDZkG3V2C7ScLji8/tP7uL3WcpLjsYjo5bWLjb1hyiRmF6mcpb+rKF1dsRCN8uYovHmXE3gnipg8u4z3cb8p9RacIrEzTtpUZKe61uc1fxCfUW193REsHisCpi9y3+a9+6/5QnVLPcZ60BP4M21t7E0gijfbLX2QFTBtDHH/2Oc0TrRxqqAROIMKtBEN7XpZeul539H3aYUB+eRV1YEgnp7QJ6FkCxV5FbVdZ0I8wUaAR0+rcPlzHmpuuT1URUi6J+JIvoomLm5GJPAbCm6iOwXdw4ofN1eunEJ5zadGNfhOK8YB8wshPIf7yE2ajQQDdif/02XUnMs1T/Porq9uxeC6SZI8NM+vnPhEK1GTn/pp6MrW4ZhzZ/swVuBP6uZLeWXVFJ3ZuxV2dZBF3rBPvwoN/4UBrrb4M5Ty0TXj2U77HsfnyR7YiwdUswABJhAbifRDhHhX9VxhnQc7juK09ayPCRsusbD3JZg2AkZA3C3QFX3Yl0IxQkbDvCaLzUiu4DOQHxxTav+JIrPIhQHmCzZcAUzX6vgTIYNPLab/h32Fgy+3qo/LtpygZVZuvFw+64LNR12wFOZOMQ8UxjhRgFe/hrz1dve8vFasQOKd7fnPd5ynS0XclqTdsVmjlyDAKViwqD4WJC8y0g==|920

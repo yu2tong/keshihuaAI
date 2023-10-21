@@ -371,14 +371,14 @@
                   {
                     "$type": "Forguncy.Model.RunJavaScriptCommand, ServerDesignerCommon",
                     "JavaScript": "var command = new Forguncy.UserManagerCommand();\r\ncommand.Logout(true);",
-                    "ID": "35cc4110980d4265bf2044a3f38d5acb"
+                    "ID": "a40fdaf75c9d4a04aa4cfeadb13cf5c2"
                   },
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
                     "PageName": "首页"
                   }
                 ],
-                "ID": "24c1556a-0a5c-4013-b4b7-175806cebc0c"
+                "ID": "992ff58e-c4ef-4e7c-a3d4-83c10bb2ab63"
               }
             ]
           }
@@ -783,4 +783,4 @@
       "Size": "360,70"
     }
   ]
-}//ohFMHA/4fANPaBe+9LP2TFerjm6z0LsNK4wINC236KELKo0hQKUQee4SZVzm4dBDgGm56/h5BCRjBpeov++iIzT20WWpGZ5dsteIQjeq2zhEuS6dLVxwQlAZlO5Z5btz1hbGHL8spt1XfopoWNsuyKCZrskV9EquS+6EaJvfdcV2PvwEW5zxzsyaPIabdsZOB9GL6GMudW9gd9eHrSPUB7nH3Obo46BpwPQ/7Ipav7kGmXIMU8kduX7DCYa9TLz6V7NOSOXCLwDDoDPKskI/0BRiEVjffv4GzUS0nT4B6ENUCXrcZkIoVHEW2Lh0fUf/D/VIEsOIRuH2+wNIkFL+Pf2jBPClojMKgRmzqfy2C8bi18lASCMjLa9xZmQ3pPAMr9J87D1/o0lE6va57K3C2B8JB6dhIYvzoSVcRuchGChGdM+yhT6VwcOnW5A0hPSOvFqrKeFwiqLnU3zPuuKWj47+ynborizBBkG17n16Y13ncvDDj6oBaRwWR2DsDyyOONkSpNx69Y5Z7JbuyOtrdCROCXQrD2rSI3LNtiVBtEP3AMxnn36rB6f4eT6mSr5bkY3NQG6ynJtX2nox4d79OVkGVxZlgJMeg4SkuXoWpcaUzxlVp+DrzsXHNwznDp7jkwLKDgzZq4bUKt8usrsdT11aBo28IXeK+yh5UDRGZiadGD8CJoRR1PAT+xOjzX7MfggLSjzBHDCyb2uUJfn//iHenzLgYz+3NkV6+lckEUON5hn5S5z29WA2kg8WXuen3nX+3BHds20elCoXwQZwg7Vu76EMjeIvaxHV6bgXexq2jTIgIpFN0nrxAf1G2gBhRAVrpvvuM+k64RASpmuvKjAAIbe9fxNAb3pAC5E5jmWIyjQB8Uswd3AYzeHMET86woisLPtqm8EHeV65eEJXEA==|920
+}//8xiVnmBh7ky6YWXlQlBdukTDr2a17Rg3it8c5npoiz6A+8n7hNlw1m8Z4G4e4wl5WiDYXvwuDhNFc3Xjn6pNr5qXDYf5weYPZQvKHNhk6Mao/Rk8w3DU92nvSGpUlFVULaTTsT1iPK4NqfBhUj1duU0R7qK21f2/CqdCoYPp6wZYeQJkkgf0yanoxMgM/wFgP892el8LWKYJ9xZEja9Wyk4L8gI/ZaPw0xg8LwAP+HcGJgZUrr8VDcUo5PuruzXEg2mICohomyO0AIeA8EiwZx7v4OZK5nuCZ4aPreXS8TPOCOihfVHPXivcASU/uqq/9Qecg98oDjUnqzYFBmK6jsa2Ybg8EXBv2pmfvjMpfXL7PUqt3GxQdkgcLP3Ve4YVNV3J/RWPwsIeAtN7Ton6U4SS2os26KlkPpFUg/8WRAQJS5PuOgNp/MFFFdLXWXPpxbsW4hM7cPjDqKyKr0tY35qLgA53n2PD0Uj2eK6Lk6jTIf68PhJ0/1xh614BAIhwkHMYSnPVxesFv0K77in8UnIUHu5O8s7OXrn9MqyrB0Iut2d9ZnRgiuxHaoGHO6pCeIM39fj1oEe395Vkd+nXeIYdozKYTuX0xo+eajK0MA1MIffad6BIfpf2B5zO348Ud6MEzs2VL4IdmyVIpBXYrmzDb/ivU0PQm0rT0Ot8whp9Y5NBQ0dVQJ6dF/VTtelpRv7zjPQpBlbXC+PuGzkRSjN36G0HL0hnwWJUQK+DwCe7d5023UA2aTWtZSEwgmAF4KPacVN2n0KLmo4iS2ylhFQfi3PI/LspPjt55dwD+K38p23/0/GgIjmvaDKLCOWXU2CX0MZkt3zXx9x4IcRL5L47+Yqq30vdFPmUtnVXQKPRcJ8EKpERpkmWwSeWtNPEs2zZw8lL80aw5Hn0ADouYw==|920
