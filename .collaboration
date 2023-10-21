@@ -1433,23 +1433,68 @@
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
-    "ModuleType": 3
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:06:18.2353033+08:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\FGC_母版页.json"
+    ]
   },
   {
     "ModuleName": "MasterMobilePage/母版页(手机)",
-    "ModuleType": 4
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:06:18.2438341+08:00",
+    "ModuleType": 4,
+    "ToRemoveFiles": [
+      "MasterPages\\母版页(手机).json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/母版页",
-    "ModuleType": 3
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:06:18.24434+08:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\母版页.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/我的",
-    "ModuleType": 3
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:06:18.2450498+08:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\我的.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/主页母版",
-    "ModuleType": 3
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:06:18.2448692+08:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\主页母版.json"
+    ]
   },
   {
     "ModuleName": "ServerCommand/获取员工总数",
