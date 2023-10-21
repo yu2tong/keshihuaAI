@@ -597,7 +597,7 @@
             "CommandList": [
               {
                 "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                "PageName": "首页",
+                "NavigateType": "back",
                 "IgnoreTargetPageCachedCurrentRowInfo": false
               }
             ],
@@ -625,7 +625,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "卡片风格",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false,
                     "DeleteCachedQuery": true
                   }
@@ -643,7 +643,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "大屏(销售信息)",
+                    "NavigateType": "back",
                     "IsOpenInNewTab": true,
                     "IgnoreTargetPageCachedCurrentRowInfo": false,
                     "DeleteCachedQuery": true
@@ -663,7 +663,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "大屏(会员分析)",
+                    "NavigateType": "back",
                     "IsOpenInNewTab": true,
                     "IgnoreTargetPageCachedCurrentRowInfo": false,
                     "DeleteCachedQuery": true
@@ -683,7 +683,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "数据统计",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false,
                     "DeleteCachedQuery": true
                   }
@@ -725,7 +725,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "基本表格",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -744,7 +744,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "自动合并",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -763,7 +763,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "条件格式",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -782,7 +782,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "多表头",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -801,7 +801,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "按需加载",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -820,7 +820,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "汇总行",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -839,7 +839,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "自定义筛选面板",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false,
                     "DeleteCachedQuery": true
                   }
@@ -858,7 +858,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "图文列表",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false,
                     "DeleteCachedQuery": true
                   }
@@ -877,7 +877,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "图文列表(卡片)",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false,
                     "DeleteCachedQuery": true
                   }
@@ -896,7 +896,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "透视表",
+                    "NavigateType": "back",
                     "IsOpenInNewTab": true,
                     "IgnoreTargetPageCachedCurrentRowInfo": false,
                     "DeleteCachedQuery": true
@@ -939,7 +939,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "简单表格数据录入",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -958,7 +958,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "交叉表数据录入",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -977,7 +977,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "图文列表数据录入",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -1009,7 +1009,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "类Excel表单列表",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1027,7 +1027,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "主子表单",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -1046,7 +1046,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "多子表单",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -1065,7 +1065,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "关联信息自动填充",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1083,7 +1083,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "组合框多级联动",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true,
                         "LoadBindingDataOption": 2
@@ -1117,7 +1117,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "导入Excel数据",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1135,7 +1135,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "导入CSV数据",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false,
                         "DeleteCachedQuery": true
                       }
@@ -1169,7 +1169,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "导出表格到Excel",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false,
                     "DeleteCachedQuery": true
                   }
@@ -1188,7 +1188,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "导出表单到Excel",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false
                   }
                 ],
@@ -1206,7 +1206,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "打印表单",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false
                   }
                 ],
@@ -1224,7 +1224,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "批量打印表单",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false
                   }
                 ],
@@ -1255,7 +1255,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "图表大屏1",
+                    "NavigateType": "back",
                     "IsOpenInNewTab": true,
                     "IgnoreTargetPageCachedCurrentRowInfo": false
                   }
@@ -1274,7 +1274,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "图表大屏2",
+                    "NavigateType": "back",
                     "IsOpenInNewTab": true,
                     "IgnoreTargetPageCachedCurrentRowInfo": false
                   }
@@ -1305,7 +1305,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "柱图",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1323,7 +1323,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "饼图",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1341,7 +1341,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "线图",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1359,7 +1359,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "面积图",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1377,7 +1377,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "条形图",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1395,7 +1395,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "地图",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1413,7 +1413,7 @@
                         "CommandList": [
                           {
                             "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                            "PageName": "自定义地图",
+                            "NavigateType": "back",
                             "IgnoreTargetPageCachedCurrentRowInfo": false
                           }
                         ],
@@ -1433,7 +1433,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "散点图",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1451,7 +1451,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "气泡图",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1469,7 +1469,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "雷达图",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1501,7 +1501,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "图表数据钻取1",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1519,7 +1519,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "图表数据钻取2",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1537,7 +1537,7 @@
                     "CommandList": [
                       {
                         "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                        "PageName": "图表数据钻取3",
+                        "NavigateType": "back",
                         "IgnoreTargetPageCachedCurrentRowInfo": false
                       }
                     ],
@@ -1557,7 +1557,7 @@
                 "CommandList": [
                   {
                     "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "图表条件格式",
+                    "NavigateType": "back",
                     "IgnoreTargetPageCachedCurrentRowInfo": false
                   }
                 ],
@@ -1817,4 +1817,4 @@
       "Size": "1040,55"
     }
   ]
-}//zdGGHJ9NlAJLbvJXFIH6WBe85zhYLbfOnRlnqgx6gAXTKUoHOG7l8Rk5mTyOC+Hbx5BIA6QS7XHuPILxT+gNB3Oyc5Q0NZMM6gUDLMnBEM9S1WxTTVCtZfFsKUq3XwGnwtcwBgeLw/79ZUhNbtjwefp7pesVybhb6wqqQ+uOmvQx32nd6c2REtS2uRvzkwQJkCGAyo2bge5616fdp8hC9enBeZJPLKbuqzxfLPHFzrHoiwCyvYtTCQKjmoHGo89u5OkTaLeJ2ky6icoyQxYzku0yi3w3Uv+EpgAqRlVnc/20J2AoVCJA8RivBXz1DJX3gQMYh7TzIBgxJ5FxcsdpB+fyYn2z5mAlrujRqzFi6JSebZo51pqEQ+8XfpVzAy5vp8ChSsfsq9dRIFcRLyDQojzzlaRbl9ZQNFKOTcF47Mu9ctsJqICug/qHwN5sdAKB6DCN2oAdZhKoiGSa+Rg0dpm+cASom8CvZd5CR7kavUxIKj1S3KKOLjhPS7kziDqfsuG+dRBA7dAqO0/YqIZaRADacvPgKX1f/TY5b14+onSyzzjM5+Vi+5cIb+MwBn/Lnu/6c+M+1MEP4iJ6Nz2OKmCVEppxp/TrY/UF73CyilCnQyBAlzeGMLQ+NqhUvJ28QDUo6NYpTvVLyLaL3W+GAnBnikpyKzVtsJi1mpbJVkyRoyXSZtuPo3grqEIjIbi43FxJqJuB3zdDxtHlrxvyiV+1n4yrQEn1qc7wwoZ7ESg7N7VfwQd8zk9qAYJq7P3FhH1UJQE5UqOBbg+LvKV/G791V0l6Ss87pRoV4j75SGx6CuJ7I4Sd7F+FoPwpiwtGznsIbsIFJqX5+ZjarWy/062pYD07aI7oFFXJTBlJqpEeIA1MHD5kBY/GBRLspdwiZstqCJTJqzs8vtJVuQVLwg==|920
+}//rTnFaqmUAag0nK6EHihxGMZPc1QyNdDIW7rJmHiQHeqj1YYbIGDBz1l14mC+1qWYFF3jtG/CxwIn1XCrZj4WWFCWOWPJxEJLdgV9y/treZKcRNmtHZt2t+xd7QzQ6g/Uv3ZzieMN1QjYKPTP+glZ0TcA2nNpuz1FjomC9f+J6b8ELoMHxGXXdMLvnmix/NatuSOowtl+EDTvG02cmoxMq6C4iQ8YukYwnExlg+0fJHc76YjINUX3mSM8Faw9x5MDyRJRwtlsmfBmJxMxDhgEA8oXTXSK+9rs9CkBmZmeqbIqxAS41Ym8pO6J/lwlhUilwnDCYmIO4QVGD5b+AUdTQfl1nqMZ/dKl+8zROKNFNzbeXbBJjeIphOkvU2rK6qX2qgyRjDSEPZJvNGrdfRPEyxihHwi7uqtgRN/Qez0I86ERIk7t9bhmY5M6sGkdX6VMwV7zP0aTJMB4AMwI24VQETuFjS4vPSrSY6IJZ680XIJYvTpABOrVztSaKu5M7CJOZ7ETeHNRCtulhX+LICG4g4QvD8+QuqeyV4t0mVRNHPuaWbSmNe/aY5AApPtSua/xEr14OMZNPT8U1eHWe7mhyzENW83XWXkF55nxBxqyAMCbCf7Q9VuaoEmRvVO4sQbzbpggJz8AkEkH4l66wXCSDbdXm0UuLpXJcqHyc+F4J0l4+nd8sNH0qe64UhS+Yx82mRwtln7iLeIQB5J9Nt5hnm1t+TWqZfrbHrGcBzHflepKjbP54KIE+vvPeS6APaCdZvPyYRiHELa9so9Ym7niQbj69U2sGqRU8NvgMiutEDM9rPm8HTbVgX6vMuOonn9zXch7UZ7c13njTG8viynnlpcG1faNsP8RzccReylMCaOgW1KutyDQBeylt2xVE9WjLdhBy1M9qCy0bWKWKxWPIA==|920

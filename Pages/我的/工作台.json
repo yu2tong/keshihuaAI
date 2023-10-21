@@ -264,46 +264,7 @@
           "Color": "Text 1 70"
         },
         "TemplateKey": "模板_棋盘式式布局卡片页搜索框",
-        "WaterMark": "请输入产品名称",
-        "CommandList": [
-          {
-            "$type": "Forguncy.Model.QueryCommand, ServerDesignerCommon",
-            "TargetTableName": "卡片1",
-            "SqlCondition": {
-              "$type": "ForguncyDataAccess.RelationSqlCondition, ForguncyDataAccess",
-              "SubConditions": [
-                {
-                  "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
-                  "CompareType": 6,
-                  "ColumnBindingInfo": {
-                    "TableName": "卡片1",
-                    "ColumnName": "产品名称",
-                    "GUID": "4e5364b7-6570-4403-baa5-62f256c9458d"
-                  },
-                  "Value": {
-                    "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-                    "SerializeProperty": "=工作台!B2"
-                  }
-                },
-                {
-                  "$type": "ForguncyDataAccess.TextCESqlCondition, ForguncyDataAccess",
-                  "CompareType": 6,
-                  "ColumnBindingInfo": {
-                    "TableName": "卡片1",
-                    "ColumnName": "详情介绍",
-                    "GUID": "f279fe27-3fbc-40a0-8691-2c41bf8ff035"
-                  },
-                  "Value": {
-                    "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-                    "SerializeProperty": "=工作台!B2"
-                  }
-                }
-              ],
-              "RelationType": 1
-            },
-            "ID": "e3839bf94c87473db4f4e2f86e6acb35"
-          }
-        ]
+        "WaterMark": "请输入产品名称"
       }
     },
     "1,18": {
@@ -661,4 +622,4 @@
       "Size": "1056,400"
     }
   ]
-}//qPidWjcWpQbCmsUjqyFgVo+Y+TjA5U6YBD7veMLjYWlmRakPcytOxIxoAJwgiBXpvxWVxV0Rx4wiqyilP9ahKYYv2gYMMqSPzhjEH4aRNQcGK+Us6XwOqL7xVpAgu1BWAZd/biTvvE+8Fk1pm3TzXPjqUzEzSnpvmbVXbdMlaamJOGWHWAxmNNqY9blBGXLy45AdlzzjM+DZDgk30RKx7WSVc5q6OoJxNKTnabi3wgTPBOLri5Jf6KfHa4t4LIcSOy6AwEItrOynwr6Fs3c4hVRCwcYuZoeleHIdMQ6EtTJMpp7cyDhMgRcN4nu2e04P1C2bDb8NJAQjoPqBbMOckd4B3UeWPKwBLg36GmTszFcMF9b6t6rY8Py8IutKp1gml0EpuWGK3bYAWDlD27LQqaokVFGELPGVJ/DFl+gyiP4M1VrUUe+wvvYpRW5nhBQZHG4BXegr2F8fTcNzfLFZ85w6m4hGOxWj7ZmcqkhIZ3oyTJYemLCE6M6xZx13Au4saelGsy1vGtNKDHzvV46ILJrJZy+Itj5QYvcK2YwXQ71Yl1qx5YVO63my5AtP94GNkjZ5tO1cm6PafFuwYoabZuTgLytHecdHdOpgDF/CVc43oLiyfIsKerDrN6P+hxae1lIg3qj0xUsAI1hMBPMEwZ5A+Umdn8YrLyQmUlUmLifoKrYC99eoEc5deF47npxIgpXITUO002+BgqpGcXE83W75z0W/mIG7p3fiaDGuwtZef8USbN6PWhh7FoNzJiA+ktIXux83w+NuBWWeaTFaokiLzOVZy9ND6ICMjFsXw1K3vv402DWskc+E/3lnHNzfzhZtdoGKo9WgsEK2qMvszMCprUHzaKLyW+gMek4m2SWTBLYlWaIxbOUgmBSbDyVmQVuBxTPuzY8+I8YFCiKkmg==|920
+}//HxbWRbVrfBWZhcR1xRpWJ4Q3u72SFkbjroaskk+ZDaFF0UT59pkFmXeDYGB23W5gXN6HZ+TpONop23UL3LXP30N7Ff7H1Lt4VmBw39SwSM1s7E4KwUaqtDlpQRpDYwwEP5a/frcvxnfTVlhXSaxDhS5NVHbArsRQDxmhmQynMJiOKNpBiaB+Ad18nRUJ7WG+nma5OJ2HPtfFY8e+5e8YeNHSBCQVQWvj8LcRVtPn6InIfu44hsUn69FNQPAq9fA1IyDAl0XbzxyunLCApLoje65qQL5AquOGc7rODvz7kjgwFMbz3wwE5+7VKnyky0pBxfFmVY3216IsK6iGc8RO7aTTo4fspCiv+CKbKrk3oErZmQqC2uHBdyWG+lre724Y1SSCSlh7kel72sPhtlH1jFaons74vozIVMDcfqDiJR/bmQPx0xdeD5Dgu7ALS69EvfOp3gTIX2ombIQP3THQSVgXF+4owhig6Jyylmkvl1efOEl6bWHs5ZvV4yYP2eAUb5jID8jJRVsNGVJ0hRArb4VKk5YfiC1qqLER8Pklsca5dmxKPcGRUs1H4s3pLfEO95gfFX33kmtDx6BwJms5Zz1BehNK8oFIb6zlnJfnjsAC7mK5r4b4eP0SzkL1ADr79RQknoi1ha/v37O0KGzHkWCw1UQy6/ybNL/Q8UGJNEZCqz7HoFtZoyCVj2EUr4+91yOxyIjEc0KtY7j9JY2uHJtFnn6d3unuy7BHfY/PyL1eddTOU7fojgog1k0bF4FLK6b1p4axpdnF0u0BAfmj0QV8giD3k5Xhkh40rvsJb2hYb7oqj9OSkT46aVFl5jy7MeldyiEqhlMdLGdVzvcXxvbhrzUH0eOg+4n4su13eQbcZotm+iUqCZWVfs9OvXVf/4zzhn2M7jazTntyo2mWJA==|920

@@ -1,0 +1,229 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 24.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      }
+    },
+    "Count": 4,
+    "DefaultSize": 10.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0
+        }
+      },
+      "3": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0
+        }
+      },
+      "4": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0
+        }
+      },
+      "5": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 32.0
+        }
+      }
+    },
+    "Count": 8,
+    "DefaultSize": 32.0
+  },
+  "Values": {
+    "2,0": "截止时间："
+  },
+  "AttachInfos": {
+    "1,0": {
+      "TemplateCellSource": "项目名称"
+    },
+    "1,6": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "TemplateKey": "模板_仪表板待办状态按钮"
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": "待采购",
+            "StyleInfo": {
+              "Background": "#FF07C160",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          },
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": "待统计",
+            "StyleInfo": {
+              "Background": "Accent 1 0",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          },
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": "待分配",
+            "StyleInfo": {
+              "Background": "#FFF3AA34",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
+      },
+      "TemplateCellSource": "待操作"
+    },
+    "2,2": {
+      "TemplateCellSource": "截止时间"
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 13.333333333333332,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontSize": 13.333333333333332,
+        "Foreground": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "FontSize": 13.333333333333332,
+        "Foreground": 1,
+        "Formatter": 2,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "Text 1 50",
+        "yyyy/m/d",
+        "Background 1 -5"
+      ],
+      "Borders": [
+        {
+          "Color": 3
+        }
+      ]
+    },
+    "CellStyles": {
+      "1,0": 0,
+      "1,1": 0,
+      "1,2": 0,
+      "1,3": 0,
+      "1,4": 0,
+      "1,6": 1,
+      "2,0": 2,
+      "2,2": 3,
+      "2,3": 0,
+      "2,4": 0,
+      "2,5": 0,
+      "2,6": 0,
+      "2,7": 0,
+      "3,0": 4,
+      "3,1": 4,
+      "3,2": 4,
+      "3,3": 4,
+      "3,4": 4,
+      "3,5": 4,
+      "3,6": 4,
+      "3,7": 4
+    },
+    "SheetStyle": {
+      "FontFamily": 0,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "1,0,1,5",
+    "1,6,1,2",
+    "2,2,1,4"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.TemplatePage, ServerDesignerCommon",
+    "ParentPageName": "我的信息"
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//VyUO0bI1YiE86FbOtC6yN5h2Zem7deB5ncchU9aGC+F1wveDH3L3y4fjk6lO42DNzWhY+cbtHvop9IOR/wGmh31j29BqXCdeL/0L28Sa/0K08vXxe03KPwiHhE5aAYot8hzZsi8RtoyZNl3pxOL5QZLbxEfjwssL/a0GvLHku9ex6w51+emflkVWQeVAu06dYp9bqJ9NS0LidhhZ4sqHtvkZ1jbEggtAri4h6CMc2SzMf6SdDIxr9ciAXfaMc+fnDGRn7vfEM9WkHXp0z22Hic00YX9s7uicBaecoUZtQw+9kAVo9+j8Sac7XEUc9Ijn68ZkcQFeLJgW2hbWD4DIYvhHSF9fFnSxdXaskZe1d/tTllcP78FeBMM9/llBcB3agHCSKJK9UHO1r6sHgK6xrdXxtG1A7JsgYX8tdzr3G7dXe0qgo+nfoPNsgJMxIcGgRUFQgRPUl6wDw6yEnrIVCONZn9KpSeblvTThbV836/hshzhv47i7rJeDHdSnegryvUVcRE7Qx95gJ01HiEu3xDTNUIGtz225gsUjV/r/9MxpUP8YuFKusvTdUh4przlkbmQOvMOS2O2L2lvKZI/5EFzdpSRa1YzxQx/N5aE7xfbfbPjcD15Nzw5hAwAVLl1osYwpch4WqtenJIsoLtJYsr+L1QybE5TDWHTX6YjJDxFb2K7h+095po4Wrwdn+qZTcD4NxggkpE5E8motgZgRMPPHQC6hREdSoWR0G/zVCZeEpzma7Fy/6W5TcJZ07DQlN0gnBzvhNufIUaFC5g1zfQKHgSgyG46PA2kOUma+inX8nQ5TOb2Mev2KA7LEUyUzJM5/Z8tChc1SVaHSfSCCv+yTdLDwMxnrZqHpuzYNFdcBuCtQDhCI2Q1fokaEB1UNgcr6nBd5QBpr5/hzOMdPDw==|920

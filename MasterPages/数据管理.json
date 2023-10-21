@@ -645,14 +645,8 @@
     "1,15": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "CommandList": [
-          {
-            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-            "PageName": "我的数据"
-          }
-        ],
         "Text": "数据管理",
-        "TemplateKey": "_RS_Main2"
+        "TemplateKey": "_RS_Minor2"
       }
     },
     "1,20": {
@@ -707,6 +701,72 @@
       }
     },
     "5,0": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyMenuCellType, Forguncy.CustomMenu",
+        "TemplateKey": "样式1",
+        "Items": [
+          {
+            "Value": "我的数据",
+            "Text": "我的数据",
+            "IconPath": "Navigation/171_user_4.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "我的数据"
+              }
+            ],
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Value": "团队数据",
+            "Text": "团队数据",
+            "IconPath": "Navigation/172_user_group_1.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Value": "在线数据",
+            "Text": "在线数据",
+            "IconPath": "Arrow/343_download_5.svg",
+            "SelectedIconColor": "Background 1",
+            "SelectedIconColorUseItemColor": true,
+            "IconColorUseItemColor": true,
+            "IsOldMenuPath": false,
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "MenuLevelsStyle": [
+          {
+            "FontFamily": "",
+            "FontSize": 18.666666666666664,
+            "Height": 40.0,
+            "IconHeight": 20.0,
+            "IconWidth": 20.0
+          },
+          {
+            "FontFamily": "",
+            "FontSize": 14.666666666666666,
+            "Height": 30.0,
+            "IconHeight": 20.0,
+            "IconWidth": 20.0
+          }
+        ]
+      }
+    },
+    "5,12": {
       "IsPlaceHolderCell": true
     }
   },
@@ -722,19 +782,19 @@
         "HorizontalAlignment": 5
       },
       {
-        "FontFamily": 6
-      },
-      {
         "BorderBottom": null,
         "BorderTop": null,
         "BorderLeft": null,
         "BorderRight": null
       },
       {
-        "FontFamily": 7,
+        "FontFamily": 6,
         "FontWeight": 3,
-        "Formatter": 8,
+        "Formatter": 7,
         "HorizontalAlignment": 5
+      },
+      {
+        "FontFamily": 8
       },
       {
         "FontFamily": 9,
@@ -743,6 +803,21 @@
       },
       {
         "Foreground": 4,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 9,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "Background": null,
+        "Foreground": null,
         "BorderBottom": null,
         "BorderTop": null,
         "BorderLeft": null,
@@ -760,9 +835,9 @@
         "Bold",
         "Background 1 0",
         "Center",
-        "Body",
         "等线",
         "[AUTO]General",
+        "Body",
         "微软雅黑",
         "Text 1 25",
         "Right",
@@ -771,135 +846,102 @@
     },
     "CellStyles": {
       "0,0": 0,
-      "0,1": 1,
-      "0,2": 1,
-      "0,3": 1,
-      "0,4": 1,
-      "0,5": 1,
-      "0,6": 1,
-      "0,7": 1,
-      "0,8": 1,
-      "0,9": 1,
-      "0,10": 1,
-      "0,11": 1,
-      "0,63": 2,
-      "0,64": 2,
-      "0,65": 2,
-      "0,66": 2,
-      "0,67": 2,
-      "0,68": 2,
-      "0,69": 2,
-      "0,70": 2,
-      "0,71": 2,
-      "1,0": 1,
-      "1,1": 1,
-      "1,2": 1,
-      "1,3": 1,
-      "1,4": 1,
-      "1,5": 1,
-      "1,6": 1,
-      "1,7": 1,
-      "1,8": 1,
-      "1,9": 1,
-      "1,10": 1,
-      "1,11": 1,
-      "1,13": 3,
-      "1,15": 3,
-      "1,16": 1,
-      "1,17": 1,
-      "1,18": 1,
-      "1,20": 3,
-      "1,25": 3,
-      "1,30": 3,
-      "1,35": 3,
-      "1,40": 3,
-      "1,45": 3,
-      "1,71": 2,
-      "2,0": 1,
-      "2,1": 1,
-      "2,2": 1,
-      "2,3": 1,
-      "2,4": 1,
-      "2,5": 1,
-      "2,6": 1,
-      "2,7": 1,
-      "2,8": 1,
-      "2,9": 1,
-      "2,10": 1,
-      "2,11": 1,
-      "2,15": 1,
-      "2,16": 1,
-      "2,17": 1,
-      "2,18": 1,
-      "2,24": 1,
-      "2,54": 2,
-      "2,55": 2,
+      "0,63": 1,
+      "0,64": 1,
+      "0,65": 1,
+      "0,66": 1,
+      "0,67": 1,
+      "0,68": 1,
+      "0,69": 1,
+      "0,70": 1,
+      "0,71": 1,
+      "1,13": 2,
+      "1,15": 2,
+      "1,20": 2,
+      "1,25": 2,
+      "1,30": 2,
+      "1,35": 2,
+      "1,40": 2,
+      "1,45": 2,
+      "1,71": 1,
+      "2,24": 3,
+      "2,54": 1,
+      "2,55": 1,
       "2,56": 4,
-      "2,57": 1,
-      "2,58": 1,
-      "2,59": 1,
-      "2,60": 1,
-      "2,61": 1,
-      "2,62": 1,
-      "2,63": 1,
-      "2,64": 1,
-      "2,65": 1,
-      "2,66": 1,
-      "2,67": 1,
-      "2,68": 1,
-      "2,69": 1,
-      "2,70": 1,
+      "2,57": 3,
+      "2,58": 3,
+      "2,59": 3,
+      "2,60": 3,
+      "2,61": 3,
+      "2,62": 3,
+      "2,63": 3,
+      "2,64": 3,
+      "2,65": 3,
+      "2,66": 3,
+      "2,67": 3,
+      "2,68": 3,
+      "2,69": 3,
+      "2,70": 3,
       "2,71": 5,
-      "3,0": 1,
-      "3,1": 1,
-      "3,2": 1,
-      "3,3": 1,
-      "3,4": 1,
-      "3,5": 1,
-      "3,6": 1,
-      "3,7": 1,
-      "3,8": 1,
-      "3,9": 1,
-      "3,10": 1,
-      "3,11": 1,
-      "3,15": 1,
-      "3,16": 1,
-      "3,17": 1,
-      "3,18": 1,
-      "3,54": 2,
-      "3,55": 2,
-      "3,71": 2,
-      "4,0": 1,
-      "4,1": 1,
-      "4,2": 1,
-      "4,3": 1,
-      "4,4": 1,
-      "4,5": 1,
-      "4,6": 1,
-      "4,7": 1,
-      "4,8": 1,
-      "4,9": 1,
-      "4,10": 1,
-      "4,11": 1,
-      "5,0": 6
+      "3,54": 1,
+      "3,55": 1,
+      "3,71": 1,
+      "5,0": 6,
+      "5,1": 7,
+      "5,2": 7,
+      "5,3": 7,
+      "5,4": 7,
+      "5,5": 7,
+      "5,6": 7,
+      "5,7": 7,
+      "5,8": 7,
+      "5,9": 7,
+      "5,10": 7,
+      "5,11": 7,
+      "5,12": 8,
+      "6,0": 7,
+      "6,1": 7,
+      "6,2": 7,
+      "6,3": 7,
+      "6,4": 7,
+      "6,5": 7,
+      "6,6": 7,
+      "6,7": 7,
+      "6,8": 7,
+      "6,9": 7,
+      "6,10": 7,
+      "6,11": 7,
+      "7,0": 7,
+      "7,1": 7,
+      "7,2": 7,
+      "7,3": 7,
+      "7,4": 7,
+      "7,5": 7,
+      "7,6": 7,
+      "7,7": 7,
+      "7,8": 7,
+      "7,9": 7,
+      "7,10": 7,
+      "7,11": 7
     },
     "SheetStyle": {
-      "FontFamily": 6
+      "FontFamily": 8
     }
   },
   "Spans": [
     "2,56,1,15",
     "1,50,3,4",
     "1,13,3,1",
+    "1,15,3,4",
     "1,20,3,4",
     "1,25,3,4",
     "1,30,3,4",
     "1,35,3,4",
     "1,40,3,4",
     "1,45,3,4",
-    "0,0,5,12",
-    "5,0,3,72",
-    "1,15,3,4"
+    "5,0,3,12",
+    "5,12,3,59",
+    "0,0,5,12"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
@@ -928,15 +970,6 @@
       "IsAutomaticFill": false,
       "Location": "269,0",
       "Size": "1075,55"
-    },
-    {
-      "Name": "BackgroundPicture2",
-      "DisplayName": "背景图3",
-      "StyleInfo": {
-        "Fill": "#FF0087CE"
-      },
-      "IsAutomaticFill": false,
-      "Size": "264,55"
     }
   ]
-}//7y/kiqC4S3yPDD+iO2e3orRIpN6NC8on3RWhcOK0HG/0LuEiV6RVLNYBQZvUzObL7KZ0xcuIoBUlo5akYVlrs24bNuLMuUDVSTsvU0Kw0AXWe/mgpHzcFEA5gySDBnH1OEErrfz6jP4PIwV0SpIIj3Xli81Puj7qpXNWtigW0lSj6Q0csqFk3OMK+geXtURiGZ6UzJ1hCZh9dTXjlgE25N4jojfxyCdFNHkFQqOYWkUNnc2Ytw5PRsQ9M1AhGhL2PPjGejrpbYKeb+YFtAA5/Dni6SwE5KYjSvNyO05q+VVLXuDEozyY1HhApO/5idIcjFJcTvr9vZqiCotGYdYxBH9XlAPH33YxjF0l56rPaXyHi54f134axszsFeHhuEYOxOLN6LOMP0JFyfEby9mnOVtdB0rkZTFQpjHLScB1XcbXD/QimWQoNONXruQ6h48EmgU29JORdCcWvZEZagkK8me/UCBFkda/dW2/D3eeOqNcTWPAQmV8NWBnzE0kxvad5dv7pDDEZzV+fSj7JTehqcINOg1lCr9SAuPKPf2959DBb66MeF4bKTy+O7LZmUlA0akqmcHXU5aCaqUcUEzg/K39GlD+S+tMYHsIH98xMt9DpxBz3tX5l3LTpadWYt58w7sBfrODhoAwe309Qt4EbVZLb+XDVRFPIO9roLRgNybYsNS2uduQRv85U/mTR04MLb9barSjJZzc1pKfZNuugRf11Rx5a+FJ7Rvaehn6Tb0ZqV1onLBGmmnUKPD8qnDjug+T0JxCrdI/7B3ShTiZ3Mj5XtQmLUIM8xnrWbpP1hUTFCFc6dCUPWNjkp0kUF19Ic4TJv/ssX1rtKxGZxQMnQ/RM4Ti4/pGJhQtLFu1tRa0uqV5PMb93+ktCazslHDZBQIYaOcDKHDxKnZiNVb/cw==|920
+}//BLySjtpFjVw8+uKirrTchDgHCmJ51sO/BPPqEkl9anPROzRHxVaOoncH6gcZsRLrbeHr7/JgSS1FD+Wi4IqlNKabR0Jwp5eQd+mChniED5PfZNliHFDxu/S5lqpU08NkvfgFdKI2ll2T8g84RL2jqKD8pUCYGfWFVnuUEJiI7nnjCftU7Sy5XyOBRiJFQjtZOd1g5aBrApEX3/nhIX07SufSZuWdBfRy8F7nszhoBqzJ8ddXFGd0pWSjLbM61BgYkeRjxWVaJb+wi3DGQYDsC/WVpVuWszP2coWIC6c6XCtoT1Qlh7WffRkAvWJtqYtqBARxyoRBp1tEVfBXTpiJSObVPoN+gHwePAB+iSdagE6AOdJ3R788oQIGSfbhV3Lu6oqz1M9k/AhPriwZit2kZU432+In2Hb0zZab1nhZjtkHaJ5G3sOaFxnP+JMWiWRgLxevBxcxDkbomiUTroBKf6siJ0rTeAqw9udvu3iZhSNobbBzHWaPFVvabdnA26NuU0ScJ2HB7UYtZ0WdB0bhlNrhggGX+srWC147pRJu0BOM9oPRhFxL2u11JOKK9Lpr6npv9oo99euHsGhOAPqlgzhQwMXdzGK99ge0HRZifXO8pqmTnyRVtjpbPCaE4CFXVREaLR0SPNm+Nd5j/i/R4AUE/3YY2W3EvbcM/8QwSyWGVOSkvAG0EeMleq+UcCNuP8TVIMEZQBluhIlS81n6TOes8bYdWZOOswKGGdl1hH8F8wH84iYIWlm/M7ESUGfebm2zdD6lLGAeuUwKWwEbDHfolD0xlwCRL8Qe4z4AkRJCIfo5cqFI+tnZWnQCWCcwGCThic8QifxBnUJOjbgZh4tus1G5ZIjF2oH9c/dQrWBnBW+jF29FcZEV0eo+5VShVzmGOSGonZakjb/PvQD79A==|920

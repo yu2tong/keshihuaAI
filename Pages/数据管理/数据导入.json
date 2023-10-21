@@ -1,0 +1,86 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "AttachInfos": {
+    "1,28": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "7,1": {
+      "CellType": {
+        "$type": "ElementUI.TableCellType, ElementUI",
+        "ElTableName": "EL表格1",
+        "columns": [],
+        "actionButtons": [
+          {
+            "$type": "ElementUI.ActionButton, ElementUI",
+            "type": "button",
+            "Name": "编辑",
+            "shape": "default"
+          },
+          {
+            "$type": "ElementUI.ActionButton, ElementUI",
+            "type": "button",
+            "Name": "删除",
+            "styleType": "Accent 5",
+            "shape": "default"
+          }
+        ],
+        "sumText": "合计",
+        "size": "default",
+        "emptyText": "暂无数据"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "7,1": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "1,28,2,6",
+    "7,1,28,40"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//wlBvAqiNY9DuJADsJSjLHuHTjf0FUBne7sJzdxLuwBZq+n1kR8k8yryvae5ZIRSl3zk6ps2AkGwg1b5vavDAjaCkU72hQaA7ZsqXu05+S77GFVO9SAYIOKYlBexYyAAKghAtCLnLncTmVJUeRfaBmDXa7Titgsq42VtcWar8i6IosquwSqT6Ps88+4b8r/xAxqa1DPaSo4gYR9tI5odQn+CzLqWB5vBMrKQf8fIxCbM9VHu95ko5K9hsZIBwd2fsTxNrwGvQT0Xl7l57+vKmB6WTzRnq8cj3jHdRZX5eePNpEhJrCbgM40LwgSfsY4aX5+QQOLiIzcsW8MY3vvCFJBT/K3bHpjfyG43QOlcKLaefqVV82/gI9tdksckWseGe7VmcS48Sma152qH1FgepiEj3zlQxx39HVDOGY0RvWgYiIngCXgWoHqP28/ekwdiAV/8OxEYKqJbet5JcFe3R2SRzN7DVylC6kmNs5jhKUYpYxJfZww24y53bGbRRROjCZq1RSwXKDdOSsLdGktMAmF7vqfJOZCbCLGE8o+pA/3zgIdCT4kB9jcZxEf3wV0EqsjsoCEjZBxI6xgKpCAv4ygG2LfR2Dnd7JDvTSuHeGrti68w7FwW1mDo977sWKdohzFw6ds1N5KAGHymQlu0/a7MUGfAQhqSmY6l0hGPC44CYqGZYuRuYpmwHV0JWD93MMoxK3jTrHcQCeoAgrJ33eqiIMkjZT94qwmxDdJT1tJKyShgCA1Ykenyja7oK10ZHCdX3e0psa7ap2l/2mzC9Pik/Vqo5Am9y8Kugi8jzrWwz99BdrtxV9Bm18rueKuAmTnZ4NiurOBdcP8bRbb22C/tJvsFAfKIyzdbYbBbVhkARxXAWn9ksSOl0FfHVsv1xGlFc1XDoqmBHAOgPvm93vA==|920

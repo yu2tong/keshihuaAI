@@ -255,7 +255,7 @@
             "CommandList": [
               {
                 "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                "PageName": "首页(手机)",
+                "NavigateType": "back",
                 "IgnoreTargetPageCachedCurrentRowInfo": false
               }
             ],
@@ -273,21 +273,7 @@
               {
                 "$type": "Forguncy.Model.ShowPopupCommand, ServerDesignerCommon",
                 "PopupDisplayMode": 3,
-                "PageName": "企业徽标物品详情页面(手机)",
-                "PassValues": [
-                  {
-                    "Source": "添加",
-                    "TargetCell": {
-                      "SerializeProperty": "='企业徽标物品详情页面(手机)'!D36"
-                    }
-                  },
-                  {
-                    "Source": "添加企业徽标物品",
-                    "TargetCell": {
-                      "SerializeProperty": "='企业徽标物品详情页面(手机)'!E2"
-                    }
-                  }
-                ]
+                "NavigateType": "back"
               }
             ],
             "CanVisitRoleList": [
@@ -303,7 +289,7 @@
             "CommandList": [
               {
                 "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                "PageName": "图文列表(手机)",
+                "NavigateType": "back",
                 "IgnoreTargetPageCachedCurrentRowInfo": false
               }
             ],
@@ -320,7 +306,7 @@
             "CommandList": [
               {
                 "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                "PageName": "徽标物品报表(手机)",
+                "NavigateType": "back",
                 "IgnoreTargetPageCachedCurrentRowInfo": false
               }
             ],
@@ -338,7 +324,7 @@
             "CommandList": [
               {
                 "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                "PageName": "我的(手机)",
+                "NavigateType": "back",
                 "IgnoreTargetPageCachedCurrentRowInfo": false
               }
             ],
@@ -496,4 +482,4 @@
       "Size": "360,480"
     }
   ]
-}//A98cgInG7JtK+oN/oep5zS/HHNKSysxWNAbMCLExZ/euk1DOJ36jXOYrWTWc/Q3jh0slmwJyRJM0AH2R/4kzfV8dIMaTrvkzmlU+i/k63w2FU6/UTI6vFRCkmR/t5xj7iNCuo7zcLnjXXO/p7nSNLwpFEvTuu3zxuPWdtNOrpeFT1wxIAa4vuyqJxglLZoqoqylDzQv+ae5BVjgYDdMHUWlqIjCqKRqBaTadBVCW5K4+696eSzMgBKKwRXyosGn1fXUYq2mnqPaTARWrrNT8IIGwUrpKdHwKBtLVKs9aXU7A9tXtK9kyrUvRTT7Nm4NxVFAYmB+voE+VbLQbx9T6/vdDZTmHS6PRyWXTN5g8Kkwh0yfc0u6/7o9+jCnLc0IMRm+fdIdPsR+UEYGmE8GYPw7TtjXEbWLj8umk4r3GZboY8lFY1rY21S1rrpr1bPqAG5Z166Xgb9iKGtBPRxvIrpVHIuxTxpofU2wBVq1ar0Y4mKjNGFLmSBzuCLo35dvf89lTGMpQwZ3qBvEld4tgIRKIzFgQJZ09n+nSsoaaRBWKsVpmGqf0KRFQYU4tgKYmsNA5CWyjNRiZAKmzZg4Vuot7ntbgDRVZyX2S+/6tEa0LJ1PgtzdovWbOqzHA49gxbPR33Lo1+ltzWrThKjLzXUFOr7tp61U+YmgG+har4dX+KWHRUpVbPM6Pie8R4bfedDUAhtYCG5jbBPOjY7FVEG7N8CqovBMUOqIP6HH7lABRVhC7chw3kTdkJve82TrjxVxNl9jvdTZXaWp1pV9IZVj54tGtiPJyA2DCBSCcY9D4oU7QcQOa/DNeQSvJDukcToKxC3pqEFPYMBSban4YNwOAPTnAlZWA51NWCKt+RYoQ5IPUTuEhBQwJ8aZhizxtSmHpQgDjA8XU8gvRCAsh3Q==|920
+}//xjnI8afMnJFEa7xpLzLbjgtno2hggBA378fiOaXeoPa///j8ln2/Nkv63RnxbY+a4cLNu1aDhoIl0W9OYK4sBlCQuK+G3JtPTV8KOGuYfzvVkfGForOY5dieuADq6KDo8LLE4OUJV++JAt11UehSANs3fbqgMIb9nIwl7khisS1XdSrbbnZVHDYJhptxJYNxp2mgG5txq8JZX2EwugWEPIEOcB1hIYN6OOUq/ETgjvC1j1OsZ8ejZxVhXDjNVehSbNo+0S24/oIPJT/pn6iAahbrw5yrGf2lqPD+Lv/h7cZH4dnvGUggIp++96BXw2RLTfEkDMr40c52ZFyjtjv5aZs6XAb+Kgui/xRAfi1XAweTFjodVtXmN5bMAz2FytrfeURZZUP8UQgs3Fdp0rvzXiEwTvV3KtjEWIzOZd4VMDr6hf7kYZHbm50Mulaj+QFgI+TUdP+y9pttkP97npWipUb91k5rBXBe3OjyUWbCSGaaYxx+s7HF/ovYqNxnZMXExi74FzA/3fooq5EMO6fUfIStkK77/hXuw1HUfnnMfGKjbFe24WtM/Bhkf8BpfCYipluN4sdBZfgIH4A8Z48z8t3fbXKjjcAqtoaMJPZomXieClbHdABp2N5/EINkJn5nwQ4waxnZmxKrcD08u2eHPh/ZIF1d3i0EBaeuNOZYEzd3SHeAo9T9EOCJAtUDEK+zr9/cJSe1NIYjUZzkKKrOec9xeN10UMb2IDjD9KC+9gXS8WElXWvQ4PbrnrGzlZIZBzD7O1xYnqSjw/4bxOOrXRI4Ekn+rqzJ0h3VRzjmI0/PREc815+LehDUUsOeuVZcqfUqPjk/X4vQaUl6mJlQTt2q4Nh30KirItDrBkc8vtgOlgEpopVNOYim5fGZJ9zSkNLNT4HGYmRhmE+U1UqUCg==|920
