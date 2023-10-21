@@ -207,7 +207,16 @@
   },
   {
     "ModuleName": "PCPage/数据上传",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:10:12.8436354+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\数据管理\\数据上传.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
@@ -411,7 +420,16 @@
   },
   {
     "ModuleName": "PCPage/我的数据",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:10:12.8434255+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\数据管理\\我的数据.json"
+    ]
   },
   {
     "ModuleName": "Table/FGC_订单记录",
@@ -486,7 +504,16 @@
   },
   {
     "ModuleName": "Pages/数据管理",
-    "ModuleType": 6
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:10:12.8436417+08:00",
+    "ModuleType": 6,
+    "ToRemoveFiles": [
+      "Pages\\数据管理"
+    ]
   },
   {
     "ModuleName": "PCPage/数据导入",
@@ -495,7 +522,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T20:28:20.7093863+08:00",
+    "LockDateTime": "2023-10-21T21:10:12.8434752+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据管理\\数据导入.json"
