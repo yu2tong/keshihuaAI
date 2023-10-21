@@ -671,6 +671,12 @@
     "1,25": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "特征工程1"
+          }
+        ],
         "Text": "特征工程",
         "TemplateKey": "_RS_Main2"
       }
@@ -678,6 +684,12 @@
     "1,30": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "模型选择1"
+          }
+        ],
         "Text": "模型选择",
         "TemplateKey": "_RS_Main2"
       }
@@ -685,6 +697,12 @@
     "1,35": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "模型评估1"
+          }
+        ],
         "Text": "模型评估",
         "TemplateKey": "_RS_Main2"
       }
@@ -692,6 +710,12 @@
     "1,40": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "模型预测1"
+          }
+        ],
         "Text": "模型预测",
         "TemplateKey": "_RS_Main2"
       }
@@ -699,6 +723,12 @@
     "1,45": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "模型管理1"
+          }
+        ],
         "Text": "模型管理",
         "TemplateKey": "_RS_Main2"
       }
@@ -945,4 +975,4 @@
       "Size": "264,55"
     }
   ]
-}//iU8te01xFZJKJModYks4giWa5UXx9XYai/C2zTkMbjS37TRa0cPOgMkWQSOLLvuE9o5vP9oGhYitagofclILW/N1TkjZwCnH22mXS6sDdZaAyw3c2PZs77KcecGtJrfPbrwjzwst8ZQZTahVxKILcD994ERpr9Zgw4Esn+U64yD0b6GQ9zNX8wj0gwg7cruV+IP7lzEZjeIPq6fgriNy2VdOsoHcmke1gqiDmT9zstOu2J/lDCQXQWF4GPpM0EVCMr7kEq0fbLlFwr5bxrNl7mfiT9L0NCpIulSqIfvxVX7mwID35xRXN165qs7my8eN5k4kwRcfI5TnRNXB3xwV8KR2g6aKGNKxu+KWMLu46GUnR019mrusuMq/3ALCOLuyesfV75KINICStKxw1q7ckYqYv0RlLfJGSxwl7KhcsZB/yMighcI7rwXb9b1E6AN5SR6JvN8EedG0lEBmfEJwco9bqKnrGMMJ4Yj8pkzISGIM24b1/HdddSpNHB/gGTVL2zaGdrgyvG3FayOgoK1j2e/Q3HUFE5N0g18ncUcQFbRu+c013uj9p7HwgieAvqOSYcKr/bYT62EdAQGLFXQQmp9xKdfZU90Jltt3vRTaXHIjvo2DJQuvXXIsz/luJA5I+UFAVLkC0TrpnNKwbcfOWWmHuI35DWjH2Gfco5S9txlM3oVRocNb2nrhrQTIouNGfk2ebdHFLAuTT1UQKvexvkVOPegjVNz3mmVSysxZMkSx7PksxpKvhIePXsFL8+yD1CDksAoTwxiDkY0atLc6MJFSPtgXHGPMfIMsYVc2mK5H2ICTSQ8RI84kUSiSgW3StdaAI1P6hwSuqzGEfGlERDYiqZZ1crdA77bGdH41lhTwfTfR2xnFKmJC/Uaoql7+MFtfjvwgupoA8jSegQtLcQ==|920
+}//oQW99vDACJixcpWRe/8pw8k3TI9p7lKDpdW3BbGPOdiZE5ccRg24Jhd3guA1/PYz1R1+pmLG4weF2zeiuxfK+iiJnNMSOsCgE/IbcMz3GNJjUjDXsWUAf9fCksx7HTXXereQIjtNoIYOkq7tlYPFoUm/XUOzK3fcDKJ1KSoAHSV8oDP9N/faMBhEkkmHNcMPYAi7KPIzBCrPy9vHi5Fo6ULTR/KF7Rr8GtqzeYuKP82vYwRaphh4aaQ4O7eKZlveZuSStdRgh0qrOt8x6HwR/g3ZPMZytxfMZXJAuR3W6KWsvqJ4rexOHEquAK58Mk1okOUNic8oJYc+C17O8qwBTk29U1lxneXURuyPR3yv+Xj5slS8Ruqleh+DuOpJfzSdl1Wl9jjECWWLw6XmeK9hiNRkWOr3Yhedmet9UsiS13EVzjyMoXhh3ff2+r3QJzkDd6N1+M6BcogBhJ8EtxILaNV9C8aJxakldle8D+caOZ/fYsNHOStQRmxL153uetZMIzSDRCyUpgB/ygdLxPPsombFcKQ9ClQHGnP4KbJT7xZAiY+GZ9qInFqXaornVjBqNdKaLX/MLKWxabu+a5W9IcXUyj/wlSp3d5+eYznK87GyCird7Ml5W/xBNKxNlpDPdaXNe3eHwB58sY8U+rpFe+gK/FyDn9RLfhO2pKuzX7uquXwqHNfffK1anp5hmZbxwwONPWBY+hMShfqQxxTyc6qUxhYGeO/sHXxh0GGCYEY+nrVRr+Qn+d42oICCDb9H+iM+PhAiaCApb9iunn96VBXeab2Z58ITFPI5B0SIml49SXIl5Y5PeKMirU5Cfg2shUoDVG4qqwgbUAJVs58h/QfjpI0isrfisvPJMuSpB1ou2i/ZtOr62ba2czkCnEdHqdoI0uMI7ZuoMBvmrXo3SQ==|920

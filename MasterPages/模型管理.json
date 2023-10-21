@@ -710,21 +710,21 @@
     "1,40": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "模型预测1"
+          }
+        ],
         "Text": "模型预测",
-        "TemplateKey": "_RS_Minor2"
+        "TemplateKey": "_RS_Main2"
       }
     },
     "1,45": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "CommandList": [
-          {
-            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-            "PageName": "模型管理1"
-          }
-        ],
         "Text": "模型管理",
-        "TemplateKey": "_RS_Main2"
+        "TemplateKey": "_RS_Minor2"
       }
     },
     "2,56": {
@@ -999,4 +999,4 @@
       "Size": "1075,55"
     }
   ]
-}//9eCsNdPNmZ7LphVbWp2WwUlEumdNcsKZZCYH0i/G5B+lqf5pcmts/w+6qL53UQ+ALQLuIATHPGtegHDmLCDTCWQdCfRLRD1E+EWRbfIOqxmDCWYvxqCf3UBIKH7ZemmwxSYoHxygtXvk8zIbuHXZ7O1r09txBTr2H+lctgCXI0HFrUXiryuwN/h/w6iErDg2kYVAlBqHcasrzuMUnHGYXy+WdY94rTk0GG0NhS6ZkvCYNADkA1NUCjUufI6GRAPlpyTAkXdgUOTdZiwot8hk6JIdGPOj4K5sDB3WxpUhiZ2JKw+Lw/7PEkkZoz+ynDMmQdTAaIZXroa63dx08AUxbd8GiHH17qOoHEnexgu61/LWo8mhJohGbqY+mKfBcGLLaSBjZ3eM+sfemJiMDEMsOiYP9mEID5nU3V27RQAAG73Touf55AiVCjacR+pcyFEbS3rstD6XEbHWs+Yy3pmhfGEe5jmBhgdv9ufpu3IGZElOZOLjyWMViPDS+Qg2ikaPoLILFxakT/+1JbA2C4XulV65QaaaqqCuVKp/EmNym/kTyxQYtXFUL5s9UTNf8aMGmCVwpiVQ2NfvG7wSJZaBQ0vl/UEVxfY2BgQ16QnQMd6NvqKp3FIuw6lEbx6xQbaBgZuclzZ7z5g6QYm0AueC1eYwsnfCuhKWuRp5QtiwxKqHujQO0uSatL0HeqXT4KGmvCgkgRoR0xp4Wih2+dr77id3JNQTu6IrXM+sNAUh9+hHIjt97HPusYXg/pBNbdvVI0b2IQ5tIhx+d7iQ5yaoL8K1d60+/jkSSLhl07ws2MUz72JBVhLbHwLkld5pSdouQs2xWIzoC2hq1BXKoIt+GWRGTEu5e4KT6eZ93OFUF3526ZjFDpLLrGO6NVA7Ifsk8kJFo+SPj+pBcd+fZkDExg==|920
+}//0QxvoH469zzxOJ21jLbJZNTZQuMtE6Rg8akNG1jARdo1eImy66r0vwMnglMMsuu6oF8JO0O++1OsBLLOI5j4Fc+TcKzsS4sETv9wldMGa1AhdiRRxz6Q1VMOOwsvFfPYp6eCkOWUkW4mwZ8scMPTi4uPFqyTT4bb5FCbCU0klnehCTcNRS43cU9sEGwVdkogSt0ZkTS6+mWVfMaA3OgWF5QFZy5rHLYL5t5VllIfm3VDBbx+74szCTg7vtS2QRQD6dfVneT8j3j65cXEA4fK00t/l2o2SWeZWHtJTcZJPaKYgMSw3UT2ZSpk3873lUiNFN6xB9uKvtkDqtdstmKsYrvAjqc7Q5eKUCr8K7aliKuvl6Bzbmk2SEEkfKJ2tJs67cBPRLm6Sm1ftiqINCmLqzVQOpkBOTISIv0rvvQ0gGtcabiot8Uo+0gXtvH013hDKeuShrd/hrMA7luXwCmkpNldkBcU0tJxjHomdK0cSPL2Bf3drZc/6+8oreDexWB/Nifa8KGCK5f8DC5Ls110qL/w/ZhZE6bj5hNDbzVpPAxVhYi+UtfYQp6BwIdyTG1W2WWXelqJ24UOqNeTlsu1O1a7KI6Uj0y1pvQhfOw+nAwdjROIL5DZ1G0Il8DSzSMHIAu9xDuhsmIw1CAeKMpcPdyGFTEFngqyxZSNibNkMyhXxYnSNM1GY8rWOv4cScUgbs2YkPL60levD/64hMkmJYu7dyP8OefsVANayKkigN6Y07gOwNeJzNez4WOwkf6RsoES92eygLac0Y24JT1ShkX/IVhoQOd7nRXwypYVYbwW96hU3l2+K/9mqh89Y4uuRkQARBXQmW4Pp6dVjka5q+/Dar2vBlB3MU5WQR1zVP18T5MjnrfoT/O8ONyOTAzNZt1/EUEcMmR9Mjume6XaSg==|920
