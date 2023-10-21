@@ -1,0 +1,103 @@
+{
+  "Rows": {
+    "Count": 20
+  },
+  "Cols": {
+    "Count": 30
+  },
+  "Values": {
+    "3,8": "数据名称：",
+    "13,9": "提交"
+  },
+  "AttachInfos": {
+    "4,8": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      }
+    },
+    "13,9": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "数据信息",
+            "UpdateType": "add",
+            "ShowConfirm": false,
+            "UpdateBindingValues": [
+              {
+                "BindingInfo": {
+                  "TableName": "数据信息",
+                  "ColumnName": "数据名称",
+                  "GUID": "afdde87e-b5c4-4951-a1de-d84df2cd8dd8"
+                },
+                "Value": {
+                  "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                  "SerializeProperty": "=数据上传!I5"
+                }
+              }
+            ]
+          },
+          {
+            "$type": "Forguncy.Model.ClosePopupCommand, ServerDesignerCommon",
+            "ReloadData": true
+          }
+        ],
+        "Text": "提交",
+        "TemplateKey": "_RS_Main1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Formatter": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "@",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "4,8": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "Spans": [
+    "4,8,2,9",
+    "13,9,2,7"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//8CvW1pTrOKFmdaOKQu/ySINVX4LPIIqVNEu7mZbs99HsCGSUN4cYEeCr2DOvBu7/tt4a+kDrBgXg8PpohhAEQO9SZ8tjZ2n25f+MoCHaxdD+JVJhZpZD2lBGtUaT3BTWor6JFzh66p2pCOAekzWKOW59NgmWpYIO6jP8MT4PEh1jeKdgDQ5LZgzuZvBJX/UmDI2GdTxndmQ2dJInoxa/0AOTWIkN2gD5M4ONHWC1Wy2//GCSmZN5rvObqaKK9NEsUtapyDoSe51po1Wkv1QD+16X7zJ5wfbKjyNXaLj2uSn2rEEjjdN3IPPTGgpUl5+vdS4cRpd/kR9l1lIanWqjQiX/aDEjQkw8Tf7FYir5HZrCWZgTj0NWxHcscRkHr7BOojAw30uWNG4opZxIeVNVdKWlsSAQ0SBf/aMvhe2ytDfJ3RHORFAt1XldUXljepRyyc46f56dXvPlkxLhGgqpufCDD+RsT6ypKTjuYyVOX4uvwJhVfFqjuzCUE0kpulC4k8SBDrQg1K9quoKIgi8xVGNN/kaiEg042axl6L7kxa/Sp4mxIkVp/R1Hdp/zfAsKPrbLMvfJTPLx37bYP8ch0muhxlAW0ldIzCi74Ds19sUlX0ex8bkd+fVpHIVMTNHeHQUUcOclOS+EXgy/coQSQii3DbakELV/cYY1c3X7tVc+Z50iL/+/URmGFVM8hHlDKCNp3hJk95Y77aaasPTPCLGVfROV6HSd5J3AU4UudN3KpzdG6i+ne2j6gUq0duBxow2/JYt7RCYQ51aiaZAtC6zDFDn3Okcuhv4Wdmm/ZBl+iyDIalrkRlLkQMMR8u3NCzuIucFtVEa6WSri/f0LbvAAFXydKbkpUSTvcinLpsfe6VA1N//EL2ZxylgREQpp5MZ0HxORaezGqi1SyZdvEw==|920

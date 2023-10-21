@@ -1,0 +1,86 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0
+        }
+      }
+    },
+    "Count": 4,
+    "DefaultSize": 10.0
+  },
+  "Cols": {
+    "Count": 9
+  },
+  "Values": {
+    "1,5": "员工数"
+  },
+  "AttachInfos": {
+    "1,4": {
+      "TemplateCellSource": "性别"
+    },
+    "2,4": {
+      "TemplateCellSource": "性别统计"
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Foreground": 0
+      },
+      {
+        "FontFamily": 1,
+        "Foreground": 0
+      },
+      {
+        "FontFamily": 1,
+        "FontSize": 24.0,
+        "Foreground": 2
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "#FF55FFE8",
+        "Body",
+        "#FFFFC000"
+      ]
+    },
+    "CellStyles": {
+      "1,1": 0,
+      "1,2": 0,
+      "1,4": 1,
+      "1,5": 0,
+      "2,1": 0,
+      "2,2": 0,
+      "2,4": 2
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.TemplatePage, ServerDesignerCommon",
+    "ParentPageName": "图表大屏1",
+    "PageResponsiveMode": 2
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "Pictures": [
+    {
+      "Name": "47af8f41-5041-4240-9b83-4d8c4c99fabb.png",
+      "ForguncyPictureName": "icon5.png",
+      "ForguncyPictureSourceType": 0,
+      "Stretch": 2,
+      "Location": "20,10",
+      "Size": "60,60"
+    }
+  ]
+}//w+G0h1tadxlh4W7+m/OZU0CBqcu62/U0yzep6CWpdP2W2iXVnjR/vB9fW0FLNUCcXWtv7FYpLSGP5d2VqCX+onAAOMK9dgg3e3U9wdGEpMr4ofRk+n6op36WuvL8AawMtMijUifpWgXwOZq1dhBxbCUK4ESp9NON0xDdziP1xhIqaKrChXsS/nZ/Giq89eZ7u+5T72e59rWzis49iKi3iDT2qEyV5mPt/rxnDVAwMFQ1tYie/oNmFLu1E4WMJeINNH45V8aTh15KfzPo0+SfIKw27ltbwqGN8F9D4GfUoq0s8R+HvwLg+l2UcFzW97mHKhIoKNSMHQeFHbfauBl9+VX0IshgTS07UezcpjFPvCsuc8IbrrFxU2N2OMuIVOghVTyqgyD6JTZwt1qbYVx/xsUnuieMbRWyU5mtQWtQ+DY56gcEyK7Upr1J1bjfrgIjSMK1lfezM2qOM5HKkCl+jGppq4DulVjicpkvAjDA+UWwBfktBvIQli+EuXPJ8LLBdK1u4hEzjc1lnb5CJgHF6QzzILHidW2o1qIIwX+JQjnpc0NynlHss9s8ToKl4yCvKvJCesNzD2mamKok1et48z5Imi+6J1F8ps4vWyujK6ByEdG1bKbs50KXdFnktMKfHdF61ZZr1kwJFgQbfJNEW3gEKESr8eJEgSHV3e8X8R0RjIRVW5zenKqRHWNYGvfL29HVVhUqQeOhTyPEJ6OPksnDonklHxOf0osDEARwI/mipJ01plxSn5Qp9H74SG+hEfDne6Al2gjm1JZeB1SIHgm0KQ0z+poVqtcVHeuDliRLOrJ/Cs8lpKNqLmVqwZIC70QjqVJjomA5XtqwImdtTD9VAhmk0MpmzmCOLnSxHYM3Sa9kkP2ege/Z14FrWzZ/PP18TioqwN0RNWHrOnzKhA==|920

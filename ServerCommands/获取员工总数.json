@@ -1,0 +1,53 @@
+{
+  "Name": "获取员工总数",
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon",
+      "Permission": {
+        "AllowRoles": [
+          "FGC_LoginUser"
+        ]
+      }
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "员工总数",
+      "TableValue": {
+        "TableName": "员工信息",
+        "OnlyGetValue": true,
+        "TableValueType": 0,
+        "BindingInfos": [
+          {
+            "BindingInfo": {
+              "TableName": "员工信息",
+              "ColumnName": "人数",
+              "GUID": "c6d58931-a074-4580-a004-3a34886ddc27"
+            },
+            "ColumnName": "人数"
+          }
+        ]
+      },
+      "ID": "79b3f9bd171344acb457507d7ad927b4"
+    },
+    {
+      "$type": "Forguncy.Model.ReturnCommand, ServerDesignerCommon",
+      "CustomReturns": [
+        {
+          "ReturnPropertyName": "员工总数",
+          "Value": {
+            "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+            "SerializeProperty": "=员工总数"
+          }
+        }
+      ]
+    }
+  ],
+  "ReturnProperties": [
+    {
+      "Name": "员工总数"
+    }
+  ]
+}
