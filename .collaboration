@@ -1739,5 +1739,15 @@
     },
     "LockDateTime": "2023-10-21T12:28:01.1675448+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "MasterPCPage/数据管理",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:13:09.8605931+08:00",
+    "ModuleType": 3
   }
 ]
