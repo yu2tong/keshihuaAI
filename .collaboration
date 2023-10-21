@@ -1819,5 +1819,15 @@
     },
     "LockDateTime": "2023-10-21T14:22:29.6414807+08:00",
     "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/数据导入",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:30:12.755762+08:00",
+    "ModuleType": 1
   }
 ]
