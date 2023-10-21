@@ -632,8 +632,14 @@
     "1,13": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "工作台"
+          }
+        ],
         "Text": "我的",
-        "TemplateKey": "_RS_Minor2"
+        "TemplateKey": "_RS_Main2"
       }
     },
     "1,15": {
@@ -704,14 +710,8 @@
     "1,40": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "CommandList": [
-          {
-            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-            "PageName": "模型预测1"
-          }
-        ],
         "Text": "模型预测",
-        "TemplateKey": "_RS_Main2"
+        "TemplateKey": "_RS_Minor2"
       }
     },
     "1,45": {
@@ -742,55 +742,8 @@
         "TemplateKey": "样式1",
         "Items": [
           {
-            "Value": "工作空间",
-            "Text": "工作空间",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColorUseItemColor": true,
-            "IsOldMenuPath": false,
-            "CanVisitRoleList": [
-              "FGC_Anonymous"
-            ],
-            "SubItems": [
-              {
-                "Value": "工作台",
-                "Text": "工作台",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CommandList": [
-                  {
-                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "工作台"
-                  }
-                ],
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              },
-              {
-                "Value": "工作日程",
-                "Text": "工作日程",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CommandList": [
-                  {
-                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "工作日程"
-                  }
-                ],
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              }
-            ]
-          },
-          {
-            "Value": "平台社区",
-            "Text": "平台社区",
+            "Value": "运行结果",
+            "Text": "运行结果",
             "SelectedIconColor": "Background 1",
             "SelectedIconColorUseItemColor": true,
             "IconColorUseItemColor": true,
@@ -800,142 +753,25 @@
             ]
           },
           {
-            "Value": "个人数据",
-            "Text": "个人数据",
+            "Value": "运行时间",
+            "Text": "运行时间",
             "SelectedIconColor": "Background 1",
             "SelectedIconColorUseItemColor": true,
             "IconColorUseItemColor": true,
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
               "FGC_Anonymous"
-            ],
-            "SubItems": [
-              {
-                "Value": "我的信息",
-                "Text": "我的信息",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CommandList": [
-                  {
-                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "我的信息"
-                  }
-                ],
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              },
-              {
-                "Value": "工作情况",
-                "Text": "工作情况",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CommandList": [
-                  {
-                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
-                    "PageName": "工作情况"
-                  }
-                ],
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              }
             ]
           },
           {
-            "Value": "团队协同",
-            "Text": "团队协同",
+            "Value": "运行资源",
+            "Text": "运行资源",
             "SelectedIconColor": "Background 1",
             "SelectedIconColorUseItemColor": true,
             "IconColorUseItemColor": true,
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
               "FGC_Anonymous"
-            ],
-            "SubItems": [
-              {
-                "Value": "成员管理（仅管理员可见）",
-                "Text": "成员管理（仅管理员可见）",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              },
-              {
-                "Value": "成员概况统计",
-                "Text": "成员概况统计",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              },
-              {
-                "Value": "绩效考核",
-                "Text": "绩效考核",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              }
-            ]
-          },
-          {
-            "Value": "平台设置",
-            "Text": "平台设置",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColorUseItemColor": true,
-            "IsOldMenuPath": false,
-            "CanVisitRoleList": [
-              "FGC_Anonymous"
-            ],
-            "SubItems": [
-              {
-                "Value": "开发设置",
-                "Text": "开发设置",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              },
-              {
-                "Value": "消息提醒",
-                "Text": "消息提醒",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              },
-              {
-                "Value": "多设备管理",
-                "Text": "多设备管理",
-                "SelectedIconColor": "Background 1",
-                "SelectedIconColorUseItemColor": true,
-                "IconColorUseItemColor": true,
-                "IsOldMenuPath": false,
-                "CanVisitRoleList": [
-                  "FGC_Anonymous"
-                ]
-              }
             ]
           }
         ],
@@ -1048,9 +884,6 @@
       "0,71": 1,
       "1,13": 2,
       "1,15": 2,
-      "1,16": 3,
-      "1,17": 3,
-      "1,18": 3,
       "1,20": 2,
       "1,25": 2,
       "1,30": 2,
@@ -1058,10 +891,6 @@
       "1,40": 2,
       "1,45": 2,
       "1,71": 1,
-      "2,15": 3,
-      "2,16": 3,
-      "2,17": 3,
-      "2,18": 3,
       "2,24": 3,
       "2,54": 1,
       "2,55": 1,
@@ -1081,10 +910,6 @@
       "2,69": 3,
       "2,70": 3,
       "2,71": 5,
-      "3,15": 3,
-      "3,16": 3,
-      "3,17": 3,
-      "3,18": 3,
       "3,54": 1,
       "3,55": 1,
       "3,71": 1,
@@ -1133,6 +958,8 @@
   "Spans": [
     "2,56,1,15",
     "1,50,3,4",
+    "1,13,3,1",
+    "1,15,3,4",
     "1,20,3,4",
     "1,25,3,4",
     "1,30,3,4",
@@ -1141,9 +968,7 @@
     "1,45,3,4",
     "5,0,3,12",
     "5,12,3,59",
-    "0,0,5,12",
-    "1,15,3,4",
-    "1,13,3,1"
+    "0,0,5,12"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
@@ -1174,4 +999,4 @@
       "Size": "1075,55"
     }
   ]
-}//mX9f1oDoe3bKIAXWaWkM6BZyTAZlYZy+vdLr8IrIKbP3dk5rRs2W4x6rLTLicrbUYP0G62r1m03qCFFxuoOQF0IIymR70iv7II7eWnwCwVlCv9qZtilVFPODprs66Sk4746Q0g2F4gr/9PlVz6ihdwoZM6AdS61c+n7jsGWyU1uPza3oY1ChxZoy1F34JNAycxyN4uZqsU8JyyVfjKqL99srZH+VNfGhVvbIePu9uzzozrw7rHlmvWeZCa7LozpvXP7HQlKUnG5DtQJGh066BG3fFC799F+kYNbKj9hFH/U6xmIsApqNqblxozG4RTN1b/uQnOMlNIcA2Vi3wZGgi70a7VNruQhADTtmUWuFeVljkpnmYk/8wdUGIrYyBn7WFaD4d1MUSxDLqbGkiLXU52seBNNE8nLIsRsOvM4giC3vJo36/v5fzVBvU6vzbCR9yrtN9/C0TGCSeAja+/no0lsGOeQBN0Pi6m5xy4QNJNl/IlpCfgcYUWj+y0cvyLx+rFeFmh8mf88Bhy2MWKOxY9r3wInIRejh3iuUa6Q4J40vEZsnJv86mgNoT8aboYL5DCUwn6nv/1oI4pC+u02a0I3I1DrayzgEcnc7vSY5Qb5Qaj0WAKMtb+9J5rhLr5WoyQjpIVtVbYKwmCxHD+0ebG8M72yT44a6En94Gpi5I6gKRFcIYnDu2/FGfR/aKpHTk7SB9C1KkVlwyGMx7KBK6XVkgXfU8ls56zNKT/vH22JF+IgDgY9OGh8/uuXoQBeDfKgjMjfWuBGAJSf6txNvYKg4UMfXt9/eF+yF7Ks8ZqKyaFQKssSaKTlQt1WKnd7NucuaaDy50snR3AjhIkpbpZFdhwAnqhy2YOp9MQmaf6uBVt5lQU4MmyqcAWTIJXM7tOQl160GnULA5FJg0hYRbA==|920
+}//9eCsNdPNmZ7LphVbWp2WwUlEumdNcsKZZCYH0i/G5B+lqf5pcmts/w+6qL53UQ+ALQLuIATHPGtegHDmLCDTCWQdCfRLRD1E+EWRbfIOqxmDCWYvxqCf3UBIKH7ZemmwxSYoHxygtXvk8zIbuHXZ7O1r09txBTr2H+lctgCXI0HFrUXiryuwN/h/w6iErDg2kYVAlBqHcasrzuMUnHGYXy+WdY94rTk0GG0NhS6ZkvCYNADkA1NUCjUufI6GRAPlpyTAkXdgUOTdZiwot8hk6JIdGPOj4K5sDB3WxpUhiZ2JKw+Lw/7PEkkZoz+ynDMmQdTAaIZXroa63dx08AUxbd8GiHH17qOoHEnexgu61/LWo8mhJohGbqY+mKfBcGLLaSBjZ3eM+sfemJiMDEMsOiYP9mEID5nU3V27RQAAG73Touf55AiVCjacR+pcyFEbS3rstD6XEbHWs+Yy3pmhfGEe5jmBhgdv9ufpu3IGZElOZOLjyWMViPDS+Qg2ikaPoLILFxakT/+1JbA2C4XulV65QaaaqqCuVKp/EmNym/kTyxQYtXFUL5s9UTNf8aMGmCVwpiVQ2NfvG7wSJZaBQ0vl/UEVxfY2BgQ16QnQMd6NvqKp3FIuw6lEbx6xQbaBgZuclzZ7z5g6QYm0AueC1eYwsnfCuhKWuRp5QtiwxKqHujQO0uSatL0HeqXT4KGmvCgkgRoR0xp4Wih2+dr77id3JNQTu6IrXM+sNAUh9+hHIjt97HPusYXg/pBNbdvVI0b2IQ5tIhx+d7iQ5yaoL8K1d60+/jkSSLhl07ws2MUz72JBVhLbHwLkld5pSdouQs2xWIzoC2hq1BXKoIt+GWRGTEu5e4KT6eZ93OFUF3526ZjFDpLLrGO6NVA7Ifsk8kJFo+SPj+pBcd+fZkDExg==|920

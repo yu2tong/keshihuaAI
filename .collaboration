@@ -232,16 +232,7 @@
   },
   {
     "ModuleName": "MasterPCPage/我的",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:27:57.089555+08:00",
-    "ModuleType": 3,
-    "ToRemoveFiles": [
-      "MasterPages\\我的.json"
-    ]
+    "ModuleType": 3
   },
   {
     "ModuleName": "MasterPCPage/主页母版",
@@ -428,16 +419,7 @@
   },
   {
     "ModuleName": "MasterPCPage/数据管理",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T21:35:01.2042191+08:00",
-    "ModuleType": 3,
-    "ToRemoveFiles": [
-      "MasterPages\\数据管理.json"
-    ]
+    "ModuleType": 3
   },
   {
     "ModuleName": "MasterPCPage/FGC_页面模板_母版页",
@@ -744,16 +726,7 @@
   },
   {
     "ModuleName": "MasterPCPage/数据预处理",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:41:34.7550307+08:00",
-    "ModuleType": 3,
-    "ToRemoveFiles": [
-      "MasterPages\\数据预处理.json"
-    ]
+    "ModuleType": 3
   },
   {
     "ModuleName": "Table/FGC_商品记录表",
@@ -800,32 +773,14 @@
   },
   {
     "ModuleName": "MasterPCPage/特征工程",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T21:55:44.4410065+08:00",
     "ModuleType": 3
   },
   {
     "ModuleName": "MasterPCPage/模型选择",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T21:59:26.7153748+08:00",
     "ModuleType": 3
   },
   {
     "ModuleName": "MasterPCPage/模型评估",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:03:32.9968597+08:00",
     "ModuleType": 3
   },
   {
@@ -841,122 +796,50 @@
   },
   {
     "ModuleName": "MasterPCPage/模型预测",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:05:13.370631+08:00",
     "ModuleType": 3
   },
   {
     "ModuleName": "MasterPCPage/模型管理",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:14:29.9911167+08:00",
     "ModuleType": 3
   },
   {
     "ModuleName": "Pages/特征工程",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:23:53.5246099+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/特征工程1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:24:42.574903+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Pages/模型选择",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:25:17.4385618+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/模型选择1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:25:31.0880353+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Pages/模型评估",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:25:59.1654982+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/模型评估1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:26:12.2887807+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Pages/模型预测",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:26:27.4118915+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/模型预测1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:26:39.8057598+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Pages/模型管理",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:27:01.5670025+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/模型管理1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T22:27:14.0470966+08:00",
     "ModuleType": 1
   }
 ]
