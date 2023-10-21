@@ -695,5 +695,15 @@
     },
     "LockDateTime": "2023-10-19T23:19:53.0771888+08:00",
     "ModuleType": 3
+  },
+  {
+    "ModuleName": "Tables/工作空间",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:28:36.4802487+08:00",
+    "ModuleType": 22
   }
 ]
