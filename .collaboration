@@ -1758,16 +1758,6 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "Pages/FGC_页面模板文件夹",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
-      "Email": "923984159@qq.com"
-    },
-    "LockDateTime": "2023-10-21T14:21:58.6502088+08:00",
-    "ModuleType": 6
-  },
-  {
     "ModuleName": "Table/FGC_订单记录",
     "State": 3,
     "LockedBy": {
