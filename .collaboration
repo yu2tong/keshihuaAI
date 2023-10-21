@@ -1,30 +1,88 @@
 [
   {
     "ModuleName": "Tables/数据管理",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:51:34.0828578+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\数据管理"
+    ]
   },
   {
     "ModuleName": "Table/数据信息",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:51:34.0828535+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\数据管理\\数据信息.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/数据修改",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:51:34.0828559+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\数据管理\\数据修改.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Tables/工作空间",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:51:34.0828508+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\工作空间"
+    ]
   },
   {
     "ModuleName": "Table/工作台E",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:51:34.0828466+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\工作空间\\工作台E.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/工作日程E",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:51:34.0828493+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\工作空间\\工作日程E.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
