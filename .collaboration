@@ -5,347 +5,47 @@
   },
   {
     "ModuleName": "Table/产品品牌",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3817808+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\字典表\\产品品牌.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/产品大类",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3817851+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\字典表\\产品大类.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/产品类别",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3817876+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\字典表\\产品类别.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/会员卡类型",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3817904+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\字典表\\会员卡类型.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/会员职业",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3817922+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\字典表\\会员职业.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/年度表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3817957+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\字典表\\年度表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/手机测试点",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3817976+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\字典表\\手机测试点.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/月度表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3817995+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\字典表\\月度表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/门店分类",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818011+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\字典表\\门店分类.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/万达各商铺销售表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:29:50.3870806+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\万达各商铺销售表.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/世界人口统计表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.380329+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\世界人口统计表.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/产品信息",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818039+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\产品信息.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/会员信息",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818056+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\会员信息.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/区域列表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818097+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\区域列表.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/员工信息",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818115+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\员工信息.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/城市空气质量",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.381814+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\城市空气质量.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/应付工资预算决算表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818158+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\应付工资预算决算表.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/店铺信息",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818177+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\店铺信息.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/徽标物品信息表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818198+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\徽标物品信息表.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/徽标物品入库历史表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818218+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\徽标物品入库历史表.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/手机测试结果",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818256+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\手机测试结果.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/销售信息",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818279+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\销售信息.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/首页卡片表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3818297+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\首页卡片表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -454,107 +154,35 @@
   },
   {
     "ModuleName": "PCPage/图表数据钻取1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4027976+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表交互\\图表数据钻取1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表数据钻取1_01",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4025586+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表交互\\图表数据钻取1_01.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表数据钻取1_02",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4025955+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表交互\\图表数据钻取1_02.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表数据钻取1_03",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4041632+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表交互\\图表数据钻取1_03.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表数据钻取2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4026642+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表交互\\图表数据钻取2.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表数据钻取3",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4028338+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表交互\\图表数据钻取3.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表数据钻取3_01",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4026917+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表交互\\图表数据钻取3_01.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表数据钻取3_02",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4028617+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表交互\\图表数据钻取3_02.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/图表/图表类型",
@@ -562,173 +190,55 @@
   },
   {
     "ModuleName": "PCPage/地图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4028877+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\地图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/散点图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3934132+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\散点图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/条形图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3819007+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\条形图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/柱图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3819434+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\柱图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/气泡图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4040806+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\气泡图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/线图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3934722+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\线图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/自定义地图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:29:50.3984065+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\自定义地图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/雷达图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4041303+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\雷达图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/面积图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3935305+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\面积图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/饼图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3819986+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表类型\\饼图.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表大屏1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4038596+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表大屏1.json",
-      "Pages\\e15e50ef-f39e-4f2d-8f4b-ebb66de6134a.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表大屏2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.389754+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表大屏2.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图表条件格式",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3817604+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\图表\\图表条件格式.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/打印及导出",
@@ -736,55 +246,19 @@
   },
   {
     "ModuleName": "PCPage/导出表单到Excel",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3920954+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\打印及导出\\导出表单到Excel.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/导出表格到Excel",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3922048+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\打印及导出\\导出表格到Excel.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/打印表单",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3922765+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\打印及导出\\打印表单.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/批量打印表单",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3923557+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\打印及导出\\批量打印表单.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/数据列表",
@@ -796,135 +270,43 @@
   },
   {
     "ModuleName": "PCPage/多表头",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4029734+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\基本表格\\多表头.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/按需加载",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4030249+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\基本表格\\按需加载.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/条件格式",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4030813+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\基本表格\\条件格式.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/汇总行",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3924288+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\基本表格\\汇总行.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/自动合并",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4031371+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\基本表格\\自动合并.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图文列表(卡片)",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4044597+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\图文列表(卡片).json",
-      "Pages\\8b8f48b0-e42d-4ab1-9496-10d33fb86389.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图文列表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4045238+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\图文列表.json",
-      "Pages\\09243fe9-f84e-47b7-be29-1953afe8494a.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/基本表格",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.388168+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\基本表格.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/自定义筛选面板",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3887558+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\自定义筛选面板.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/透视表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4032123+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据列表\\透视表.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/数据录入",
@@ -936,31 +318,11 @@
   },
   {
     "ModuleName": "PCPage/导入CSV数据",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3930029+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\从文件导入\\导入CSV数据.json",
-      "UserTemplateFile\\2019年销售数据fb37deda29204167ae58b238ac0294a9.csv"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/导入Excel数据",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3932025+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\从文件导入\\导入Excel数据.json",
-      "UserTemplateFile\\2019年销售数据1bb6f2f42557428b8b2e2d5d4d9ca4db.xlsx"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/数据录入/列表数据录入",
@@ -968,43 +330,15 @@
   },
   {
     "ModuleName": "PCPage/交叉表数据录入",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4032555+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\列表数据录入\\交叉表数据录入.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/图文列表数据录入",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4050649+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\列表数据录入\\图文列表数据录入.json",
-      "Pages\\c2d61079-91fa-4c54-b9c0-695bc0f88bf3.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/简单表格数据录入",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4045791+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\列表数据录入\\简单表格数据录入.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/数据录入/表单数据录入",
@@ -1016,133 +350,43 @@
   },
   {
     "ModuleName": "PCPage/员工子表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4039737+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\多子表Tab页\\员工子表.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/销售信息子表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4041927+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\多子表Tab页\\销售信息子表.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/Web表单",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4043221+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\Web表单.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/主子表单",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4033693+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\主子表单.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/关联信息自动填充",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.389668+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\关联信息自动填充.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/多子表单",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4034384+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\多子表单.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/类Excel表单",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4044063+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\类Excel表单.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/类Excel表单列表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4047219+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\类Excel表单列表.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/组合框多级联动",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3932647+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\组合框多级联动.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/订单列表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3933526+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\数据录入\\表单数据录入\\订单列表.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/移动端支持",
@@ -1150,30 +394,11 @@
   },
   {
     "ModuleName": "MobilePage/企业徽标物品详情页面(手机)",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4051147+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\移动端支持\\企业徽标物品详情页面(手机).json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/图文列表(手机)",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4051662+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\移动端支持\\图文列表(手机).json",
-      "Pages\\50c57133-b74f-46cb-a53b-616cc07857ed.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/帮助页面(手机)",
@@ -1181,16 +406,7 @@
   },
   {
     "ModuleName": "MobilePage/徽标物品报表(手机)",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4047414+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\移动端支持\\徽标物品报表(手机).json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/我的(手机)",
@@ -1198,32 +414,11 @@
   },
   {
     "ModuleName": "MobilePage/物品出入库页面(手机)",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4052134+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\移动端支持\\物品出入库页面(手机).json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/首页(手机)",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.405359+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\移动端支持\\首页(手机).json",
-      "Pages\\c0ececd8-ddff-450d-a7f4-a066eb63b52f.json",
-      "image\\UserCustomCellTypeFiles\\CarouselCellType\\Images\\轮播图2.jpg",
-      "image\\UserCustomCellTypeFiles\\CarouselCellType\\Images\\轮播图1.jpg"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "Pages/系统主页面",
@@ -1235,83 +430,27 @@
   },
   {
     "ModuleName": "PCPage/大屏(会员分析)",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.3935714+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\系统主页面\\大屏(会员分析).json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/大屏(销售信息)",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.391507+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\系统主页面\\大屏(销售信息).json",
-      "Pages\\7f7e8b62-a4f6-4340-91c0-71052a868c6d.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/数据统计",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4053843+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\系统主页面\\数据统计.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/首页卡片列表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4054497+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\系统主页面\\首页卡片列表.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/首页卡片列表详请编辑",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4055144+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\系统主页面\\首页卡片列表详请编辑.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/首页",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.405568+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\首页.json",
-      "Pages\\e83c802a-8ae1-4afa-a0f8-fbee61490210.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
@@ -1327,43 +466,15 @@
   },
   {
     "ModuleName": "ServerCommand/获取员工总数",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4040171+08:00",
-    "ModuleType": 15,
-    "ToRemoveFiles": [
-      "ServerCommands\\获取员工总数.json"
-    ]
+    "ModuleType": 15
   },
   {
     "ModuleName": "ServerCommand/获取销售统计信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.4024372+08:00",
-    "ModuleType": 15,
-    "ToRemoveFiles": [
-      "ServerCommands\\获取销售统计信息.json"
-    ]
+    "ModuleType": 15
   },
   {
     "ModuleName": "ApplicationSetting",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "LAPTOP-8M65U85K\\lenovo",
-      "Email": "1730684217@qq.com"
-    },
-    "LockDateTime": "2023-10-21T11:31:07.381831+08:00",
-    "ModuleType": 8,
-    "ToRemoveFiles": [
-      "ApplicationSettings.json",
-      "favicon.ico"
-    ]
+    "ModuleType": 8
   },
   {
     "ModuleName": "Theme",
