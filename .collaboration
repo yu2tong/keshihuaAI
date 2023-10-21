@@ -236,7 +236,16 @@
   },
   {
     "ModuleName": "MasterPCPage/主页母版",
-    "ModuleType": 3
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T23:08:19.8549367+08:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\主页母版.json"
+    ]
   },
   {
     "ModuleName": "ApplicationSetting",
