@@ -1590,123 +1590,393 @@
   },
   {
     "ModuleName": "image/内置图片",
-    "ModuleType": 37
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860651+08:00",
+    "ModuleType": 37,
+    "ToRemoveFiles": [
+      "image\\内置图片"
+    ]
   },
   {
     "ModuleName": "Image/fgc_loading.gif",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860231+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_loading.gif"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_dark.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860568+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_logo_dark.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_light.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860597+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_logo_light.png"
+    ]
   },
   {
     "ModuleName": "image/大屏图片",
-    "ModuleType": 37
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861103+08:00",
+    "ModuleType": 37,
+    "ToRemoveFiles": [
+      "image\\大屏图片"
+    ]
   },
   {
     "ModuleName": "Image/icon1.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.786068+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\icon1.png"
+    ]
   },
   {
     "ModuleName": "Image/背景1.jpg",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860699+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\背景1.jpg"
+    ]
   },
   {
     "ModuleName": "Image/背景.jpg",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860715+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\背景.jpg"
+    ]
   },
   {
     "ModuleName": "Image/标题框3.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860751+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\标题框3.png"
+    ]
   },
   {
     "ModuleName": "Image/标题框2.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.786077+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\标题框2.png"
+    ]
   },
   {
     "ModuleName": "Image/标题框1.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860787+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\标题框1.png"
+    ]
   },
   {
     "ModuleName": "Image/标题框.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860804+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\标题框.png"
+    ]
   },
   {
     "ModuleName": "Image/内容框9.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860828+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\内容框9.png"
+    ]
   },
   {
     "ModuleName": "Image/内容框7.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860853+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\内容框7.png"
+    ]
   },
   {
     "ModuleName": "Image/内容框4.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860871+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\内容框4.png"
+    ]
   },
   {
     "ModuleName": "Image/内容框3.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.786089+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\内容框3.png"
+    ]
   },
   {
     "ModuleName": "Image/内容框10.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.786091+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\内容框10.png"
+    ]
   },
   {
     "ModuleName": "Image/内容框1.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860929+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\内容框1.png"
+    ]
   },
   {
     "ModuleName": "Image/内容框.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860952+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\内容框.png"
+    ]
   },
   {
     "ModuleName": "Image/icon5.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860974+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\icon5.png"
+    ]
   },
   {
     "ModuleName": "Image/icon4.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7860993+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\icon4.png"
+    ]
   },
   {
     "ModuleName": "Image/背景2.jpg",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861018+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\背景2.jpg"
+    ]
   },
   {
     "ModuleName": "Image/背景3.jpg",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861046+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\大屏图片\\背景3.jpg"
+    ]
   },
   {
     "ModuleName": "image/手机页面图片",
-    "ModuleType": 37
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861229+08:00",
+    "ModuleType": 37,
+    "ToRemoveFiles": [
+      "image\\手机页面图片"
+    ]
   },
   {
     "ModuleName": "Image/入库.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861128+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\手机页面图片\\入库.png"
+    ]
   },
   {
     "ModuleName": "Image/出库icon.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861151+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\手机页面图片\\出库icon.png"
+    ]
   },
   {
     "ModuleName": "Image/出库记录icon.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861173+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\手机页面图片\\出库记录icon.png"
+    ]
   },
   {
     "ModuleName": "Image/帮助icon.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861195+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\手机页面图片\\帮助icon.png"
+    ]
   },
   {
     "ModuleName": "Image/报表查看icon.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861217+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\手机页面图片\\报表查看icon.png"
+    ]
   },
   {
     "ModuleName": "Image/logo.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:52:04.7861277+08:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\logo.png"
+    ]
   },
   {
     "ModuleName": "UserService",
