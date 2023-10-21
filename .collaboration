@@ -773,7 +773,16 @@
   },
   {
     "ModuleName": "MasterPCPage/特征工程",
-    "ModuleType": 3
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T23:02:31.5920748+08:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\特征工程.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/模型选择",
