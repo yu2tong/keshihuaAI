@@ -19,7 +19,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671814+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1615063+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\数据管理\\数据信息.json",
@@ -34,7 +34,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671832+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1615083+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\数据管理\\数据修改.json",
@@ -62,7 +62,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.167185+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1615105+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\工作空间\\工作台E.json",
@@ -77,7 +77,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671878+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1615124+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\工作空间\\工作日程E.json",
@@ -1573,7 +1573,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1675835+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1616899+08:00",
     "ModuleType": 9,
     "ToRemoveFiles": [
       "Theme\\CellTypeStyles",
@@ -1726,7 +1726,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671096+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.161424+08:00",
     "ModuleType": 26,
     "ToRemoveFiles": []
   },
@@ -1777,7 +1777,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671748+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1614846+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1808,7 +1808,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671773+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.161488+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1819,7 +1819,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671794+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.16149+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1870,7 +1870,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671515+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.161492+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1891,7 +1891,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671593+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1614941+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1902,7 +1902,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671607+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.161497+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1913,7 +1913,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671623+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1614991+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1924,7 +1924,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671649+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1615011+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1935,7 +1935,69 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:07:49.1671671+08:00",
+    "LockDateTime": "2023-10-21T15:13:45.1615038+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "PCPage/FGC_工作台",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:13:45.161451+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/FGC_页面模板文件夹/工作台",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:13:45.1614575+08:00",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/FGC_工作台-快捷入口",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:13:45.1614614+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Table/FGC_项目表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:13:45.1614724+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Tables/FGC_页面模板文件夹/工作台",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:13:45.1614752+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/FGC_动态表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:13:45.161477+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   }
