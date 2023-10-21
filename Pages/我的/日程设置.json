@@ -1,0 +1,292 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0
+        }
+      }
+    },
+    "Count": 17,
+    "DefaultSize": 27.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 10.0
+        }
+      }
+    },
+    "Count": 49
+  },
+  "Values": {
+    "0,18": "- 日程 -",
+    "2,1": "*",
+    "2,2": "工作名称：",
+    "2,13": "*",
+    "2,14": "次序：",
+    "2,20": "*",
+    "2,21": "层级：",
+    "2,27": "*",
+    "2,28": "工期（天）：",
+    "5,1": "*",
+    "5,2": "开始时间：",
+    "5,11": "精准时间：(选填)",
+    "12,17": "提交"
+  },
+  "AttachInfos": {
+    "3,2": {
+      "BindingInfo": {
+        "TableName": "工作日程E",
+        "ColumnName": "工作名称",
+        "GUID": "b217fac5-e3cc-42f0-874c-d942445a56e5"
+      },
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      }
+    },
+    "3,14": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
+        "WaterMark": "请填写纯数字"
+      }
+    },
+    "3,21": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
+        "WaterMark": "请填写纯数字"
+      }
+    },
+    "3,28": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
+        "WaterMark": "请填写纯数字"
+      }
+    },
+    "6,2": {
+      "CellType": {
+        "$type": "Forguncy.DateCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      }
+    },
+    "6,11": {
+      "CellType": {
+        "$type": "Forguncy.NumberCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+      }
+    },
+    "12,17": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.UpdateDataTableCommand, ServerDesignerCommon",
+            "TableName": "工作日程E",
+            "UpdateType": "add",
+            "ShowConfirm": false,
+            "UpdateBindingValues": [
+              {
+                "BindingInfo": {
+                  "TableName": "工作日程E",
+                  "ColumnName": "工作名称",
+                  "GUID": "a33704b2-9f67-4ca6-be93-4906edb12cc5"
+                },
+                "Value": {
+                  "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                  "SerializeProperty": "=日程设置!C4"
+                }
+              },
+              {
+                "BindingInfo": {
+                  "TableName": "工作日程E",
+                  "ColumnName": "次序",
+                  "GUID": "7095e404-e2fa-489d-ac8d-6b3d6e6249ee"
+                },
+                "Value": {
+                  "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                  "SerializeProperty": "=日程设置!O4"
+                }
+              },
+              {
+                "BindingInfo": {
+                  "TableName": "工作日程E",
+                  "ColumnName": "层级",
+                  "GUID": "2548987c-3ae1-4bde-9ab7-9b22ed62b2f0"
+                },
+                "Value": {
+                  "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                  "SerializeProperty": "=日程设置!V4"
+                }
+              },
+              {
+                "BindingInfo": {
+                  "TableName": "工作日程E",
+                  "ColumnName": "工期",
+                  "GUID": "4ce5a3f5-5f70-484d-97de-0bb3e544883a"
+                },
+                "Value": {
+                  "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                  "SerializeProperty": "=日程设置!AC4"
+                }
+              }
+            ]
+          },
+          {
+            "$type": "Forguncy.Model.ClosePopupCommand, ServerDesignerCommon",
+            "ReloadData": true
+          }
+        ],
+        "Text": "提交",
+        "TemplateKey": "_RS_Main1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Background": 0,
+        "FontFamily": 1,
+        "FontSize": 24.0,
+        "FontWeight": 2,
+        "Foreground": 3,
+        "HorizontalAlignment": 4
+      },
+      {
+        "Foreground": 5,
+        "HorizontalAlignment": 4
+      },
+      {
+        "FontFamily": 6,
+        "Foreground": 5,
+        "HorizontalAlignment": 4
+      },
+      {
+        "FontFamily": 6,
+        "Formatter": 7
+      },
+      {
+        "FontFamily": 6
+      },
+      {
+        "Formatter": 8
+      },
+      {
+        "FontFamily": 6,
+        "Formatter": 8
+      },
+      {
+        "Foreground": 9
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Background 1 0",
+        "等线",
+        "Bold",
+        "Accent 1 -25",
+        "Center",
+        "#FFFF0000",
+        "Body",
+        "[AUTO]General",
+        "@",
+        "#FFC00000"
+      ]
+    },
+    "CellStyles": {
+      "0,18": 0,
+      "2,1": 1,
+      "2,13": 2,
+      "2,20": 2,
+      "2,21": 3,
+      "2,22": 4,
+      "2,23": 4,
+      "2,24": 4,
+      "2,25": 4,
+      "2,26": 4,
+      "2,27": 2,
+      "2,28": 3,
+      "2,29": 4,
+      "2,30": 4,
+      "2,31": 4,
+      "3,2": 5,
+      "3,14": 5,
+      "3,21": 6,
+      "3,26": 4,
+      "3,28": 6,
+      "5,1": 2,
+      "5,3": 7,
+      "5,11": 3,
+      "5,12": 4,
+      "5,13": 4,
+      "5,14": 4,
+      "6,11": 4
+    },
+    "SheetStyle": {
+      "FontFamily": 6
+    }
+  },
+  "Spans": [
+    "0,18,2,14",
+    "3,14,1,5",
+    "3,21,1,5",
+    "3,28,1,5",
+    "6,2,1,7",
+    "6,11,1,6",
+    "3,2,1,10",
+    "12,17,1,10"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "RelatedDataTableName": "工作日程E"
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//jur4DABNSOY729TWCrrRLYMyhw/eekKqhpfRxwJX5uYuIyfs/gMegGrq7etr1FjsOjLVz+08Ru/kS6jnQ3vBTI6d0Kmd7AILS4nkD3vBliusC4jw6l4+ox0V56FOCuz6VM8ocDYIp7u0NpmdbUDJIdrPvfi2Dq9hm/ynwDM7ZMOpuIJgPwpOxGJjinipn66RZ2qlbCU+Au38e9FbS1wOZGCvOlxFFY10Yg0PuCickfIu4LffttFsfcRF6dZnCe0nCA98UYUXo5Tux7h0e98yzZTkUEF8leMOocs2+wqubuZOlrMCOmmXPEftmNMwpCBam+jGjScFUgwH3Q0V84TrFDfWIgcq7uMup+A/3ymoAK/Oswl9JrFxt26isRp6+CSWDblaFLuISsXOypkY5rqAzE7xE1Gx7sakqq4jYh42QaBYM5hDvB62I+kOL+gIf3wFY9l1cco6p5iXonrgylXwQ8BVdIr5aVa5uvmfVzGiH50wEtMHfSnGeb8R3ETZvKGsBHDWOk9QoMfGwzblCo4RS//DskFt//vgLxVVD6bWPuVtWLZhMFGxYz5OeCBwXIeHhGzINNhq3a7qvSGgOeQMN7PfVtD+FirinZrBIU3KBqoluC2ppfQvgxIjQeX7Hd7rqo8GUAwE26gI3k/x2GJhv7FqZa6d37eTInoSnPUPeX+9aWTAdC/cYrmlqjYDYrqe/VAYNe9Px+XkdIPorCin3WU7ylUErGulR/tFPQyZoj/rqSwnW/TXbqdSKbLJubrxddMEq8EfHJ2qx/dJAzEFjpvtk4hqSt8ZE08cVX5qnTLpkGDnl57xH+zNCv0g1PAxbgp3Lxmtq5hcUaI24bitHZiymxadWsJENP5syRazJ+HGCWRONojJ8Nbhxzdt6n0O8TgsQMPFl7O8chUxDbg8WA==|920

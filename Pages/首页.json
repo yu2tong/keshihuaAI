@@ -73,18 +73,6 @@
         "TemplateKey": "样式3"
       }
     },
-    "1,12": {
-      "CellType": {
-        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "TemplateKey": "_RS_Main1"
-      }
-    },
-    "1,20": {
-      "CellType": {
-        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "TemplateKey": "_RS_Main1"
-      }
-    },
     "2,0": {
       "CellType": {
         "$type": "Forguncy.RepeaterCellType, ServerDesignerCommon",
@@ -117,7 +105,7 @@
               "BindingInfo": {
                 "TableName": "首页卡片表",
                 "ColumnName": "ID",
-                "GUID": "e8869887-aa6a-480d-9ac7-ff03774bf194"
+                "GUID": "f35a4f3b-002b-45b0-bb70-f87d780b4d0b"
               },
               "ColumnName": "ID"
             },
@@ -125,7 +113,7 @@
               "BindingInfo": {
                 "TableName": "首页卡片表",
                 "ColumnName": "标题",
-                "GUID": "1ecb0c3f-bf38-42a6-87c7-111fe73c9288"
+                "GUID": "cdaa7074-a247-4ac4-9648-897076dd54be"
               },
               "ColumnName": "标题"
             },
@@ -133,7 +121,7 @@
               "BindingInfo": {
                 "TableName": "首页卡片表",
                 "ColumnName": "图片",
-                "GUID": "56a3a381-71e2-4543-9a88-155e39527035"
+                "GUID": "443fbf5b-b786-4e84-bf49-17ed2d01f01b"
               },
               "ColumnName": "图片"
             },
@@ -141,7 +129,7 @@
               "BindingInfo": {
                 "TableName": "首页卡片表",
                 "ColumnName": "跳转页面",
-                "GUID": "77505949-613f-46f3-ab96-c7463f0db12c"
+                "GUID": "1f9f0fa3-c398-4e76-8149-7305f57f4a28"
               },
               "ColumnName": "跳转页面"
             }
@@ -1727,11 +1715,9 @@
     }
   },
   "Spans": [
-    "0,2,2,7",
-    "0,42,2,11",
     "2,0,27,54",
-    "1,12,1,4",
-    "1,20,1,3"
+    "0,2,2,7",
+    "0,42,2,11"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
@@ -1758,4 +1744,4 @@
       "Size": "1040,580"
     }
   ]
-}//sPvYR9lue4gvAZt1AmsuAePZSw2L/pPtEePEImKV/N4HPNdgLHOMp6zNJBoN5YIZSHeBTQWZ0Zbty5F+zPuhhYGQ9+lBQ/Z0/R/bI/Cx5BdZskvSe/BuScgP3BoNEYbf11LQBB4tsTeR48N4hYVoX3BQPMprQFkSm80kx1MOZZA7dtJvKF9d2gWWy8w4QTE+rkrTMmtIRVRosJ/tSYP5bDFrorcVqbcaBSWTDQKxjIIH1JqDaAdL6+v9Q7V3xK4T5ico7NK3Tjwhrz2R8C9vU0pjrSg4bqGU25Fr2zCXnEzYg6JJRCMJz24cSdtm/boHFafYuZYwxF5RcuCNc0PuV/DbDXUcLyyRNLEDj5zVU/Pcp8E0aGAv9xynyL295flpPDwoK2wuvklkWh+NaXoCRk0RYhBynbQKKX1ViyYdRBRdjfFrUAtSJ4FpZYWwAbg8bOYJbCtlhcF64EQNPTso9jQlXr3Ga4k6llfniyMAVrehUIPXCljm79lzG3CqCpzH9xaCNLIayIAjAHlCFvic9kzoSd6XUAy4DGS+44HmRVmSeMjvXlEipGrsl7pa7w4pHIj8knjGu+eChWSyXFEJ8l33xBg2ccFL9M97CM5GPiNqdp6s4FraKeFCHePWOXl5ykCumEGlZKUbG1jC9G0QAIL3cMPFnHR4iVPksgF1JNc7Stac3bKavQkWiuIYxIK9QPwiVBUXbqfQy7YavvEt1iCcLk+FputnIwoDv6J03pOWc2zQGrPuvlC/a3gd7eW+uS3utAx9/sc2jh0H94ENW5rjE5aYpcMs0z7GyqsvJt56CxZasBZbnvft/NrUNjAEbHw7dQnoIyNjQzdCQqwu+6d/wTiLQz97AGAuj1VOwuyzpvGN4bnuy7Lf2V/sDZKyuBO0WdibYtcV8sNAODc9Vw==|920
+}//hEmHfARpqetAXtcf4EUMYZWjcrFccwOmmcba6PB7cLxoyIIE7MvALsu/6TbLU4WXUlLjA3PABeAZS1CsWBTsUXSrh4qjrucFQagWiG/NPMfumh4nE2KLzGI0UME10R9FEBQyRkey8sT2oDuVFTvUfPdpIPamfJSo+JxikdKdzsXfiYG7/kQYB1G7r+34pbdunf5LtokIyOKDEgcvPynlrPV7CIooXkCR5BzRf5r3ENvAe1ewvK4YTU8+mYYEBzktwrjs7RbaTdGNtuD+BevrjSl+VjuiYH4Z/GgRJay++3GkmfA2RdrSmXiyA/jAvL0qnlN16i8dYkrv2fwWpEiZBZMfwQYFIHo5gUxbfrVzLY8lZBKY5Ajp6DK1f6O3+Q3CAAmOBnxj7j3mX8ll7EDP7NMmj1nIqldrbtp3Cn5WnEagwUb8O2fH+PJ3J+fk2p8hJZ0nog8WUwTXlLCbhp6Wfs6/R9Edip+EY/oP7CxMSrG+y1RHN9544P4Bcbsfjz8An5m705/uvMuEK4DCBoKn/D2C6NACTShB7xHA3Dm2fZbPSdAbtPwVHk24OWSMyPgGQXKGSe8/vTA6S+SKEJ51lBzorjuKkACATV32+Ovb9wCjujd5ZOVuXgwy6tjjnNN/isYTWDjpJSvuvpxaY1RbWeAXG2dsIlh6PHRAbxJrNooRyPy/Enq27QqLDj+wZPKb2LQg8GEjoikwQS+khOJ3B+grMS/y1gN6SWRyNM4gij2FeLla1NV/wse9yMZweHSzRtdhd4FY033c/9p86dcHmIAqKDtKm8piG+tdcfAV3WqbdT0B4BwHQ3p31awYU68xODLrWeYG3/KVCSVhLye1N4omwEjs/sWs9ESfof2wujUjV0NLNLfbPxCIsgpSKpWO+ZnIV2EXQzX0HFrMuQl1eQ==|920

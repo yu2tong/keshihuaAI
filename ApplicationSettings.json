@@ -5,24 +5,14 @@
   "ListviewLoadingIndicatorSettings": {},
   "IsPageInContainerBackgroundHardCodeWhite": true,
   "GlobalProperties": [],
-  "WebSitePort": 36949,
-  "UserServicePort": 27862,
+  "WebSitePort": 20198,
+  "UserServicePort": 21260,
   "NotAllowModifyDatabaseByJsApi": false,
   "NotAllowQueryDatabaseByJsApi": false,
   "NotAllowSendMailByJsApi": false,
-  "StartPage": "首页",
+  "StartPage": "主页",
   "StartDateFiscalYear": 1,
   "ShowListViewDataPerviewInChart": false,
   "MaxRowCount": 10000000,
-  "AuditingList": {
-    "产品品牌": 0,
-    "产品大类": 0,
-    "产品类别": 0,
-    "会员职业": 0,
-    "门店分类": 0,
-    "会员卡类型": 0,
-    "月度表": 0,
-    "年度表": 0,
-    "手机测试点": 0
-  }
+  "AuditingList": {}
 }

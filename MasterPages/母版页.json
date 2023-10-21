@@ -507,14 +507,71 @@
     "Count": 64
   },
   "Values": {
-    "2,1": "可视化AI模型开发平台",
-    "2,13": "功能演示"
+    "1,1": "BESTofHDU",
+    "1,12": "我的",
+    "1,14": "数据导入",
+    "1,18": "数据预处理",
+    "1,22": "特征工程",
+    "1,26": "模型选择",
+    "1,30": "模型评估",
+    "1,34": "模型预测",
+    "1,38": "模型管理"
   },
   "AttachInfos": {
-    "2,1": {
+    "1,12": {
       "CellType": {
-        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
-        "Text": "可视化AI模型开发平台"
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "我的",
+        "TemplateKey": "_RS_Main2"
+      }
+    },
+    "1,14": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "数据导入",
+        "TemplateKey": "_RS_Main2"
+      }
+    },
+    "1,18": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "数据预处理",
+        "TemplateKey": "_RS_Main2"
+      }
+    },
+    "1,22": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "特征工程",
+        "TemplateKey": "_RS_Main2"
+      }
+    },
+    "1,26": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "模型选择",
+        "TemplateKey": "_RS_Main2"
+      }
+    },
+    "1,30": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "模型评估",
+        "TemplateKey": "_RS_Main2"
+      }
+    },
+    "1,34": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "模型预测",
+        "TemplateKey": "_RS_Main2"
+      }
+    },
+    "1,38": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "Text": "模型管理",
+        "TemplateKey": "_RS_Main2"
       }
     },
     "2,48": {
@@ -1563,35 +1620,33 @@
       },
       {
         "FontFamily": 2,
-        "HorizontalAlignment": 3
+        "FontSize": 26.666666666666664,
+        "Foreground": 3,
+        "HorizontalAlignment": 4
       },
       {
-        "FontFamily": 2
+        "FontFamily": 5,
+        "FontWeight": 6,
+        "Formatter": 7,
+        "HorizontalAlignment": 4
       },
       {
-        "FontFamily": 4,
-        "FontSize": 21.333333333333332,
-        "FontWeight": 5,
-        "Foreground": 6,
-        "BorderBottom": null,
-        "BorderTop": null,
-        "BorderLeft": null,
-        "BorderRight": null
-      },
-      {
-        "FontFamily": 4,
-        "Foreground": 7,
-        "HorizontalAlignment": 8
-      },
-      {
+        "FontFamily": 8,
         "Foreground": 9,
+        "HorizontalAlignment": 10
+      },
+      {
+        "FontFamily": 11
+      },
+      {
+        "Foreground": 12,
         "BorderBottom": null,
         "BorderTop": null,
         "BorderLeft": null,
         "BorderRight": null
       },
       {
-        "FontFamily": 4,
+        "FontFamily": 8,
         "BorderBottom": null,
         "BorderTop": null,
         "BorderLeft": null,
@@ -1606,20 +1661,23 @@
         "BorderRight": null
       },
       {
-        "Background": 10
+        "Background": 13
       }
     ],
     "Types": {
       "Strs": [
         "#FFFFFFFF",
         "Left",
-        "Body",
+        "Microsoft YaHei UI",
+        "Accent 6 80",
         "Center",
-        "微软雅黑",
+        "等线",
         "Bold",
-        "#FF0087CE",
+        "[AUTO]General",
+        "微软雅黑",
         "Text 1 25",
         "Right",
+        "Body",
         "Background 1 0",
         "LightGray"
       ]
@@ -1635,116 +1693,41 @@
       "0,61": 1,
       "0,62": 1,
       "0,63": 1,
+      "1,1": 2,
       "1,10": 1,
+      "1,12": 3,
+      "1,14": 3,
+      "1,18": 3,
+      "1,22": 3,
+      "1,26": 3,
+      "1,30": 3,
+      "1,34": 3,
+      "1,38": 3,
       "1,63": 1,
       "2,0": 1,
-      "2,1": 2,
-      "2,2": 3,
-      "2,3": 3,
-      "2,4": 3,
-      "2,5": 3,
-      "2,6": 3,
-      "2,7": 3,
-      "2,8": 3,
       "2,10": 1,
       "2,11": 1,
-      "2,12": 1,
-      "2,13": 4,
-      "2,14": 1,
-      "2,15": 1,
-      "2,16": 1,
-      "2,17": 1,
-      "2,18": 1,
-      "2,19": 1,
-      "2,20": 1,
-      "2,21": 1,
-      "2,22": 1,
-      "2,23": 1,
-      "2,24": 1,
-      "2,25": 1,
-      "2,26": 1,
-      "2,27": 1,
-      "2,28": 1,
-      "2,29": 1,
-      "2,30": 1,
-      "2,31": 1,
-      "2,32": 1,
-      "2,33": 1,
-      "2,34": 1,
-      "2,35": 1,
-      "2,36": 1,
-      "2,37": 1,
-      "2,38": 1,
-      "2,39": 1,
-      "2,40": 1,
-      "2,41": 1,
-      "2,42": 1,
-      "2,43": 1,
-      "2,44": 1,
-      "2,45": 1,
       "2,46": 1,
       "2,47": 1,
-      "2,48": 5,
-      "2,49": 3,
-      "2,50": 3,
-      "2,51": 3,
-      "2,52": 3,
-      "2,53": 3,
-      "2,54": 3,
-      "2,55": 3,
-      "2,56": 3,
-      "2,57": 3,
-      "2,58": 3,
-      "2,59": 3,
-      "2,60": 3,
-      "2,61": 3,
-      "2,62": 3,
+      "2,48": 4,
+      "2,49": 5,
+      "2,50": 5,
+      "2,51": 5,
+      "2,52": 5,
+      "2,53": 5,
+      "2,54": 5,
+      "2,55": 5,
+      "2,56": 5,
+      "2,57": 5,
+      "2,58": 5,
+      "2,59": 5,
+      "2,60": 5,
+      "2,61": 5,
+      "2,62": 5,
       "2,63": 6,
       "3,0": 1,
-      "3,1": 3,
-      "3,2": 3,
-      "3,3": 3,
-      "3,4": 3,
-      "3,5": 3,
-      "3,6": 3,
-      "3,7": 3,
-      "3,8": 3,
       "3,10": 1,
       "3,11": 1,
-      "3,12": 1,
-      "3,13": 1,
-      "3,14": 1,
-      "3,15": 1,
-      "3,16": 1,
-      "3,17": 1,
-      "3,18": 1,
-      "3,19": 1,
-      "3,20": 1,
-      "3,21": 1,
-      "3,22": 1,
-      "3,23": 1,
-      "3,24": 1,
-      "3,25": 1,
-      "3,26": 1,
-      "3,27": 1,
-      "3,28": 1,
-      "3,29": 1,
-      "3,30": 1,
-      "3,31": 1,
-      "3,32": 1,
-      "3,33": 1,
-      "3,34": 1,
-      "3,35": 1,
-      "3,36": 1,
-      "3,37": 1,
-      "3,38": 1,
-      "3,39": 1,
-      "3,40": 1,
-      "3,41": 1,
-      "3,42": 1,
-      "3,43": 1,
-      "3,44": 1,
-      "3,45": 1,
       "3,46": 1,
       "3,47": 1,
       "3,63": 1,
@@ -1787,14 +1770,23 @@
       "7,11": 8
     },
     "SheetStyle": {
-      "FontFamily": 2
+      "FontFamily": 11
     }
   },
   "Spans": [
     "5,0,3,12",
     "5,12,3,52",
     "2,48,1,15",
-    "2,1,2,8"
+    "1,1,3,9",
+    "1,42,3,4",
+    "1,12,3,2",
+    "1,14,3,4",
+    "1,18,3,4",
+    "1,22,3,4",
+    "1,26,3,4",
+    "1,30,3,4",
+    "1,34,3,4",
+    "1,38,3,4"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.MasterPage, ServerDesignerCommon",
@@ -1825,4 +1817,4 @@
       "Size": "1040,55"
     }
   ]
-}//vjy4EGTVp0vuDAGIuWu2zDBnotVDK/N4mHc0iDkth7UadPlcZ+1yOfGf2WcidZc7v+AyHmfrNe1aXjiS6OlbrOCzUYeduMdQxgyvg1CwJva8Q8LHac7S2Qc95ISYPRwTrKOEd4J2IJK+WpVAZnmOgzm6cGBoC8bMTtpMz+Rdulhuu5mDVDkra2mAkdtkw33QmtP+TMDCD+pKJrmYDuqqtfZylkC2tYy5ja/tfjlQIOwh5ulpgKEfX+QhCQxV6j/eU/YpZBwW9EClJAXpSgn/G3425BfzyuD19NRkf9pYYKaUUHhF1IM5e6ZBzLw2D+3nsjMb6QUJf+htbKY1fc3Nr641i1CiDvfT49q1i/10gwdke908D2P2SxUpjAEFgSGsp4Vm1p0YnmfFEqIg1jp+fuLZHlygcuvVVP//fls7NhTvXJgnrSTAxrUr2d/uIX1hg0zBVmVbid9FRzktzcbajUqQ08f9Bz0Ud57Kc1QeW++zQcl8wE0cUT/+n3T/dODVdmb4LmaOTkE8Ihb3mS6Y01inCzkCPspcMCtLEnGUD4J8uG7qVCCceqQUgk2dtDkAabl4hQ4OYsLABZYlvHS6Y6Vvoq54PXA2B032SMSHrBm9dUGZibGH+SAQ5gfETVT2knbwqV7to7zVM3BpBhOz4rRmYskYN6HOndiS8J1OX5fAdauzw92CqZ8GaDvkRgD0ahvFCvBhTE4bpVkX1kC0FmcAlDqvhvOglX2CeFAfYYSMTxxj/hQrP/N/gg/VMD4N6nGmBNg8Li2A4yJqamAWL1phVU/DA9UyyDKNmKfoE0f3k9eCwVXk8g85wInL63fD8wpyLof9xDPCJKtXNfxK/HX/ewBKXjs3rAjSQ0telKr/9ZvMjIUhD1vDG7O2ikJyGD47S9kIzXYzX0+forMCUw==|920
+}//zdGGHJ9NlAJLbvJXFIH6WBe85zhYLbfOnRlnqgx6gAXTKUoHOG7l8Rk5mTyOC+Hbx5BIA6QS7XHuPILxT+gNB3Oyc5Q0NZMM6gUDLMnBEM9S1WxTTVCtZfFsKUq3XwGnwtcwBgeLw/79ZUhNbtjwefp7pesVybhb6wqqQ+uOmvQx32nd6c2REtS2uRvzkwQJkCGAyo2bge5616fdp8hC9enBeZJPLKbuqzxfLPHFzrHoiwCyvYtTCQKjmoHGo89u5OkTaLeJ2ky6icoyQxYzku0yi3w3Uv+EpgAqRlVnc/20J2AoVCJA8RivBXz1DJX3gQMYh7TzIBgxJ5FxcsdpB+fyYn2z5mAlrujRqzFi6JSebZo51pqEQ+8XfpVzAy5vp8ChSsfsq9dRIFcRLyDQojzzlaRbl9ZQNFKOTcF47Mu9ctsJqICug/qHwN5sdAKB6DCN2oAdZhKoiGSa+Rg0dpm+cASom8CvZd5CR7kavUxIKj1S3KKOLjhPS7kziDqfsuG+dRBA7dAqO0/YqIZaRADacvPgKX1f/TY5b14+onSyzzjM5+Vi+5cIb+MwBn/Lnu/6c+M+1MEP4iJ6Nz2OKmCVEppxp/TrY/UF73CyilCnQyBAlzeGMLQ+NqhUvJ28QDUo6NYpTvVLyLaL3W+GAnBnikpyKzVtsJi1mpbJVkyRoyXSZtuPo3grqEIjIbi43FxJqJuB3zdDxtHlrxvyiV+1n4yrQEn1qc7wwoZ7ESg7N7VfwQd8zk9qAYJq7P3FhH1UJQE5UqOBbg+LvKV/G791V0l6Ss87pRoV4j75SGx6CuJ7I4Sd7F+FoPwpiwtGznsIbsIFJqX5+ZjarWy/062pYD07aI7oFFXJTBlJqpEeIA1MHD5kBY/GBRLspdwiZstqCJTJqzs8vtJVuQVLwg==|920
