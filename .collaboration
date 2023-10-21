@@ -1,30 +1,88 @@
 [
   {
     "ModuleName": "Tables/数据管理",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430187+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\数据管理"
+    ]
   },
   {
     "ModuleName": "Table/数据信息",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430156+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\数据管理\\数据信息.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/数据修改",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430177+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\数据管理\\数据修改.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Tables/工作空间",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430239+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\工作空间"
+    ]
   },
   {
     "ModuleName": "Table/工作台E",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430209+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\工作空间\\工作台E.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/工作日程E",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.043023+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\工作空间\\工作日程E.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -357,25 +415,73 @@
   },
   {
     "ModuleName": "Table/FGC_订单记录",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0429765+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\联动页\\FGC_订单记录.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Tables/FGC_页面模板文件夹",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430131+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹"
+    ]
   },
   {
     "ModuleName": "Tables/FGC_页面模板文件夹/联动页",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0429866+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\联动页"
+    ]
   },
   {
     "ModuleName": "Table/FGC_订单明细表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0429803+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\联动页\\FGC_订单明细表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_商品表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0429824+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\联动页\\FGC_商品表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -405,36 +511,105 @@
   },
   {
     "ModuleName": "Table/FGC_销售统计",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0429897+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_销售统计.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Tables/FGC_页面模板文件夹/仪表板",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430015+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板"
+    ]
   },
   {
     "ModuleName": "Table/FGC_预算与开销",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.042992+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_预算与开销.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_区域订单",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0429938+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_区域订单.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_区域销售额",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0429956+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_区域销售额.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_降雨量与颗粒物",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0429982+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_降雨量与颗粒物.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_销售额与份额",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430002+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_销售额与份额.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -462,16 +637,45 @@
   },
   {
     "ModuleName": "Table/FGC_项目表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430041+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\工作台\\FGC_项目表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Tables/FGC_页面模板文件夹/工作台",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430075+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\工作台"
+    ]
   },
   {
     "ModuleName": "Table/FGC_动态表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430063+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\工作台\\FGC_动态表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -501,11 +705,30 @@
   },
   {
     "ModuleName": "Table/FGC_商品记录表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430103+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\筛选统计列表页\\FGC_商品记录表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Tables/FGC_页面模板文件夹/筛选统计列表页",
-    "ModuleType": 22
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:09:28.0430121+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\筛选统计列表页"
+    ]
   }
 ]
