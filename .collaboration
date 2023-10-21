@@ -364,7 +364,16 @@
   },
   {
     "ModuleName": "PCPage/数据导入",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T19:13:29.5714436+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\数据管理\\数据导入.json"
+    ]
   },
   {
     "ModuleName": "PCPage/工作情况",
