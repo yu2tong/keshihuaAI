@@ -1556,12 +1556,12 @@
   },
   {
     "ModuleName": "ServerCommand/获取员工总数",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:51:54.7356912+08:00",
+    "LockDateTime": "2023-10-21T13:53:46.4845012+08:00",
     "ModuleType": 15,
     "ToRemoveFiles": [
       "ServerCommands\\获取员工总数.json"
@@ -1569,12 +1569,12 @@
   },
   {
     "ModuleName": "ServerCommand/获取销售统计信息",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:51:54.7357524+08:00",
+    "LockDateTime": "2023-10-21T13:53:46.4845199+08:00",
     "ModuleType": 15,
     "ToRemoveFiles": [
       "ServerCommands\\获取销售统计信息.json"
