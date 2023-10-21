@@ -1709,5 +1709,15 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
+  },
+  {
+    "ModuleName": "MasterPCPage/数据管理",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:19:48.1030105+08:00",
+    "ModuleType": 3
   }
 ]
