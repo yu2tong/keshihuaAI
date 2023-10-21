@@ -19,7 +19,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T14:21:58.6502319+08:00",
+    "LockDateTime": "2023-10-21T15:07:49.1671814+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\数据管理\\数据信息.json",
@@ -34,7 +34,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T14:21:58.6502339+08:00",
+    "LockDateTime": "2023-10-21T15:07:49.1671832+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\数据管理\\数据修改.json",
@@ -62,7 +62,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T14:21:58.6502362+08:00",
+    "LockDateTime": "2023-10-21T15:07:49.167185+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\工作空间\\工作台E.json",
@@ -77,7 +77,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T14:21:58.650238+08:00",
+    "LockDateTime": "2023-10-21T15:07:49.1671878+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\工作空间\\工作日程E.json",
@@ -1568,7 +1568,20 @@
   },
   {
     "ModuleName": "Theme",
-    "ModuleType": 9
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.1675835+08:00",
+    "ModuleType": 9,
+    "ToRemoveFiles": [
+      "Theme\\CellTypeStyles",
+      "Theme\\ListViewStyles",
+      "Theme\\StyleDefaultNames",
+      "Theme\\ThemeConfig",
+      "Reports\\DefaultTheme.rdlx-theme"
+    ]
   },
   {
     "ModuleName": "image/内置图片",
@@ -1713,7 +1726,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T14:21:58.650093+08:00",
+    "LockDateTime": "2023-10-21T15:07:49.1671096+08:00",
     "ModuleType": 26,
     "ToRemoveFiles": []
   },
@@ -1764,7 +1777,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T14:21:58.6502148+08:00",
+    "LockDateTime": "2023-10-21T15:07:49.1671748+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1795,7 +1808,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T14:21:58.6502217+08:00",
+    "LockDateTime": "2023-10-21T15:07:49.1671773+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1806,7 +1819,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T14:21:58.650223+08:00",
+    "LockDateTime": "2023-10-21T15:07:49.1671794+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -1829,5 +1842,101 @@
     },
     "LockDateTime": "2023-10-21T14:30:12.755762+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_仪表板",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.167137+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/FGC_页面模板文件夹",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.1671434+08:00",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "Table/FGC_销售统计",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.1671515+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Tables/FGC_页面模板文件夹/仪表板",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.1671562+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/FGC_预算与开销",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.1671593+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/FGC_区域订单",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.1671607+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/FGC_区域销售额",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.1671623+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/FGC_降雨量与颗粒物",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.1671649+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/FGC_销售额与份额",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T15:07:49.1671671+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
