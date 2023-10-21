@@ -5,12 +5,32 @@
   },
   {
     "ModuleName": "Table/数据信息",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268237+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\数据管理\\数据信息.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/数据修改",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268255+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\数据管理\\数据修改.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -19,12 +39,32 @@
   },
   {
     "ModuleName": "Table/工作台E",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268205+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\工作空间\\工作台E.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/工作日程E",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268221+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\工作空间\\工作日程E.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -177,7 +217,20 @@
   },
   {
     "ModuleName": "Theme",
-    "ModuleType": 9
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.327151+08:00",
+    "ModuleType": 9,
+    "ToRemoveFiles": [
+      "Theme\\CellTypeStyles",
+      "Theme\\ListViewStyles",
+      "Theme\\StyleDefaultNames",
+      "Theme\\ThemeConfig",
+      "Reports\\DefaultTheme.rdlx-theme"
+    ]
   },
   {
     "ModuleName": "image/内置图片",
@@ -317,7 +370,14 @@
   },
   {
     "ModuleName": "Upload",
-    "ModuleType": 26
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3238146+08:00",
+    "ModuleType": 26,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "MasterPCPage/数据管理",
@@ -337,7 +397,17 @@
   },
   {
     "ModuleName": "Table/FGC_订单记录",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268186+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\联动页\\FGC_订单记录.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -350,12 +420,32 @@
   },
   {
     "ModuleName": "Table/FGC_订单明细表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268172+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\联动页\\FGC_订单明细表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_商品表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268154+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\联动页\\FGC_商品表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -385,7 +475,17 @@
   },
   {
     "ModuleName": "Table/FGC_销售统计",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268049+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_销售统计.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -394,27 +494,77 @@
   },
   {
     "ModuleName": "Table/FGC_预算与开销",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268098+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_预算与开销.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_区域订单",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3267824+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_区域订单.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_区域销售额",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268014+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_区域销售额.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_降雨量与颗粒物",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268084+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_降雨量与颗粒物.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/FGC_销售额与份额",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268067+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\仪表板\\FGC_销售额与份额.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -442,7 +592,17 @@
   },
   {
     "ModuleName": "Table/FGC_项目表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268129+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\工作台\\FGC_项目表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -451,7 +611,17 @@
   },
   {
     "ModuleName": "Table/FGC_动态表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3268115+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\FGC_页面模板文件夹\\工作台\\FGC_动态表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -483,5 +653,36 @@
   {
     "ModuleName": "MasterPCPage/数据预处理",
     "ModuleType": 3
+  },
+  {
+    "ModuleName": "PCPage/FGC_筛选统计列表页",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3238409+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Table/FGC_商品记录表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3264915+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Tables/FGC_页面模板文件夹/筛选统计列表页",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:00:52.3265009+08:00",
+    "ModuleType": 22
   }
 ]
