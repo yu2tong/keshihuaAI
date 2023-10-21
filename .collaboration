@@ -491,19 +491,56 @@
   },
   {
     "ModuleName": "Pages/我的",
-    "ModuleType": 6
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:56:39.8567774+08:00",
+    "ModuleType": 6,
+    "ToRemoveFiles": [
+      "Pages\\我的"
+    ]
   },
   {
     "ModuleName": "PCPage/工作台",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:56:39.8565293+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\我的\\工作台.json",
+      "Pages\\80e747fe1b0b487197eae80775e80ee.json"
+    ]
   },
   {
     "ModuleName": "PCPage/工作日程",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:56:39.856669+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\我的\\工作日程.json"
+    ]
   },
   {
     "ModuleName": "PCPage/日程设置",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T13:56:39.856716+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\我的\\日程设置.json"
+    ]
   },
   {
     "ModuleName": "PCPage/主页",
