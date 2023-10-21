@@ -191,7 +191,17 @@
   },
   {
     "ModuleName": "PCPage/工作台",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T23:48:14.4487532+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\我的\\工作台.json",
+      "Pages\\80e747fe1b0b487197eae80775e80ee.json"
+    ]
   },
   {
     "ModuleName": "PCPage/工作日程",
@@ -207,12 +217,12 @@
   },
   {
     "ModuleName": "PCPage/数据上传",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T21:10:12.8436354+08:00",
+    "LockDateTime": "2023-10-21T23:48:14.4486384+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据管理\\数据上传.json"
@@ -436,7 +446,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T21:10:12.8434255+08:00",
+    "LockDateTime": "2023-10-21T23:48:14.4488577+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据管理\\我的数据.json"
@@ -533,7 +543,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T21:10:12.8434752+08:00",
+    "LockDateTime": "2023-10-21T23:48:14.4489014+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据管理\\数据导入.json"
@@ -840,6 +850,16 @@
   },
   {
     "ModuleName": "PCPage/模型管理1",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/数据写入",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T23:48:14.4486577+08:00",
     "ModuleType": 1
   }
 ]
