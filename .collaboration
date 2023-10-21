@@ -693,7 +693,7 @@
       "UserName": "LAPTOP-8M65U85K\\lenovo",
       "Email": "1730684217@qq.com"
     },
-    "LockDateTime": "2023-10-21T21:09:15.1299862+08:00",
+    "LockDateTime": "2023-10-21T21:10:04.1039952+08:00",
     "ModuleType": 3,
     "ToRemoveFiles": [
       "MasterPages\\数据预处理.json"
@@ -701,7 +701,16 @@
   },
   {
     "ModuleName": "PCPage/FGC_筛选统计列表页",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:10:04.1039423+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\数据预处理\\FGC_筛选统计列表页.json"
+    ]
   },
   {
     "ModuleName": "Table/FGC_商品记录表",
@@ -730,5 +739,15 @@
     "ToRemoveFiles": [
       "Tables\\FGC_页面模板文件夹\\筛选统计列表页"
     ]
+  },
+  {
+    "ModuleName": "PCPage/数据筛选",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T21:10:04.1039577+08:00",
+    "ModuleType": 1
   }
 ]
