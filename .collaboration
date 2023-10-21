@@ -19,7 +19,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:55:47.9730165+08:00",
+    "LockDateTime": "2023-10-21T14:21:58.6502319+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\数据管理\\数据信息.json",
@@ -34,7 +34,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:55:47.973104+08:00",
+    "LockDateTime": "2023-10-21T14:21:58.6502339+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\数据管理\\数据修改.json",
@@ -62,7 +62,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:55:47.9738847+08:00",
+    "LockDateTime": "2023-10-21T14:21:58.6502362+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\工作空间\\工作台E.json",
@@ -77,7 +77,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:55:47.973888+08:00",
+    "LockDateTime": "2023-10-21T14:21:58.650238+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\工作空间\\工作日程E.json",
@@ -1708,7 +1708,14 @@
   },
   {
     "ModuleName": "Upload",
-    "ModuleType": 26
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.650093+08:00",
+    "ModuleType": 26,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "MasterPCPage/数据管理",
@@ -1719,5 +1726,98 @@
     },
     "LockDateTime": "2023-10-21T14:19:48.1030105+08:00",
     "ModuleType": 3
+  },
+  {
+    "ModuleName": "MasterPCPage/FGC_页面模板_母版页",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.6501201+08:00",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "MasterPages/FGC_页面模板文件夹",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.6501959+08:00",
+    "ModuleType": 24
+  },
+  {
+    "ModuleName": "PCPage/FGC_联动页",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.6502043+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/FGC_页面模板文件夹",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.6502088+08:00",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "Table/FGC_订单记录",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.6502148+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Tables/FGC_页面模板文件夹",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.6502186+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Tables/FGC_页面模板文件夹/联动页",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.65022+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/FGC_订单明细表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.6502217+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/FGC_商品表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T14:21:58.650223+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
