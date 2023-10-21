@@ -1,27 +1,124 @@
 {
   "Rows": {
-    "Count": 20
+    "Count": 12,
+    "DefaultSize": 25.0
   },
   "Cols": {
-    "Count": 30
+    "Count": 23
   },
   "Values": {
-    "3,8": "数据名称：",
-    "13,9": "提交"
+    "1,0": "*",
+    "1,1": "数据名称：",
+    "1,12": "*",
+    "1,13": "数据类型：",
+    "4,1": "备注：",
+    "9,14": "提交"
   },
   "AttachInfos": {
-    "4,8": {
+    "2,1": {
       "CellType": {
-        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
-        "SavedValidators": [
+        "$type": "ElementUI.InputCellType, ElementUI",
+        "UIPermissions": [
           {
-            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 4,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
           }
         ],
-        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
+        "type": "text",
+        "resize": "none"
       }
     },
-    "13,9": {
+    "2,13": {
+      "CellType": {
+        "$type": "ElementUI.SelectCellType, ElementUI",
+        "CommandList": [],
+        "UIPermissions": [
+          {
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "options": [
+          {
+            "value": "黄金糕",
+            "label": "黄金糕"
+          },
+          {
+            "value": "双皮奶",
+            "label": "双皮奶"
+          },
+          {
+            "value": "蚵仔煎",
+            "label": "蚵仔煎"
+          },
+          {
+            "value": "龙须面",
+            "label": "龙须面"
+          },
+          {
+            "value": "北京烤鸭",
+            "label": "北京烤鸭"
+          }
+        ],
+        "placeholder": "请选择",
+        "noDataText": "无数据",
+        "filterInServerOptions": {
+          "matchMethod": "contains",
+          "loadingText": "加载中"
+        },
+        "noMatchText": "无匹配数据"
+      }
+    },
+    "5,1": {
+      "CellType": {
+        "$type": "ElementUI.InputCellType, ElementUI",
+        "UIPermissions": [
+          {
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 4,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
+        ],
+        "type": "text",
+        "resize": "none"
+      }
+    },
+    "9,14": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
         "CommandList": [
@@ -39,7 +136,7 @@
                 },
                 "Value": {
                   "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-                  "SerializeProperty": "=数据上传!I5"
+                  "SerializeProperty": "=数据上传!I6"
                 }
               }
             ]
@@ -57,25 +154,67 @@
   "StyleDatas": {
     "Styles": [
       {
-        "Formatter": 0
+        "FontWeight": 0,
+        "Foreground": 1,
+        "HorizontalAlignment": 2
+      },
+      {
+        "FontFamily": 3,
+        "FontWeight": 0,
+        "Foreground": 1,
+        "HorizontalAlignment": 2
+      },
+      {
+        "FontFamily": 3,
+        "Formatter": 4
+      },
+      {
+        "FontFamily": 3
+      },
+      {
+        "FontFamily": 3,
+        "HorizontalAlignment": 5
       }
     ],
     "Types": {
       "Strs": [
-        "@",
-        "Body"
+        "Bold",
+        "Accent 4 0",
+        "Right",
+        "Body",
+        "[AUTO]General",
+        "Center"
       ]
     },
     "CellStyles": {
-      "4,8": 0
+      "1,0": 0,
+      "1,12": 1,
+      "1,13": 2,
+      "5,1": 3,
+      "9,14": 4,
+      "9,15": 3,
+      "9,16": 3,
+      "9,17": 3,
+      "9,18": 3,
+      "9,19": 3,
+      "9,20": 3,
+      "10,14": 3,
+      "10,15": 3,
+      "10,16": 3,
+      "10,17": 3,
+      "10,18": 3,
+      "10,19": 3,
+      "10,20": 3
     },
     "SheetStyle": {
-      "FontFamily": 1
+      "FontFamily": 3
     }
   },
   "Spans": [
-    "4,8,2,9",
-    "13,9,2,7"
+    "2,1,1,10",
+    "2,13,1,9",
+    "5,1,3,21",
+    "9,14,2,7"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
@@ -100,4 +239,4 @@
     "PaperSize": {},
     "Margin": {}
   }
-}//8CvW1pTrOKFmdaOKQu/ySINVX4LPIIqVNEu7mZbs99HsCGSUN4cYEeCr2DOvBu7/tt4a+kDrBgXg8PpohhAEQO9SZ8tjZ2n25f+MoCHaxdD+JVJhZpZD2lBGtUaT3BTWor6JFzh66p2pCOAekzWKOW59NgmWpYIO6jP8MT4PEh1jeKdgDQ5LZgzuZvBJX/UmDI2GdTxndmQ2dJInoxa/0AOTWIkN2gD5M4ONHWC1Wy2//GCSmZN5rvObqaKK9NEsUtapyDoSe51po1Wkv1QD+16X7zJ5wfbKjyNXaLj2uSn2rEEjjdN3IPPTGgpUl5+vdS4cRpd/kR9l1lIanWqjQiX/aDEjQkw8Tf7FYir5HZrCWZgTj0NWxHcscRkHr7BOojAw30uWNG4opZxIeVNVdKWlsSAQ0SBf/aMvhe2ytDfJ3RHORFAt1XldUXljepRyyc46f56dXvPlkxLhGgqpufCDD+RsT6ypKTjuYyVOX4uvwJhVfFqjuzCUE0kpulC4k8SBDrQg1K9quoKIgi8xVGNN/kaiEg042axl6L7kxa/Sp4mxIkVp/R1Hdp/zfAsKPrbLMvfJTPLx37bYP8ch0muhxlAW0ldIzCi74Ds19sUlX0ex8bkd+fVpHIVMTNHeHQUUcOclOS+EXgy/coQSQii3DbakELV/cYY1c3X7tVc+Z50iL/+/URmGFVM8hHlDKCNp3hJk95Y77aaasPTPCLGVfROV6HSd5J3AU4UudN3KpzdG6i+ne2j6gUq0duBxow2/JYt7RCYQ51aiaZAtC6zDFDn3Okcuhv4Wdmm/ZBl+iyDIalrkRlLkQMMR8u3NCzuIucFtVEa6WSri/f0LbvAAFXydKbkpUSTvcinLpsfe6VA1N//EL2ZxylgREQpp5MZ0HxORaezGqi1SyZdvEw==|920
+}//3FSXoCnOERLNInXll9l1N1iDk9UslenE9AGVKLP3Azz/XsJA+M6EuvbbTrX3GKoBPw5treUF4hiX2lSakI8To/KiWYfgjYWSUgPNWpZT81aQQTV9NSW1Gsam97ULjYEi0WILpOaY9oT6Xm6M0clGu3CwC6xidbjNKEVTP2ynlOLeEREIOvxY+fHiX03V4KjvlEGaqc8yYu9pqHQLr5Q72n4HBH0YOusT17ybznEr6UvuzEQHyBJHlILt01yNDaLGL9cq1rO0iohnpj5AMcV07S12GXh6iUU5cZMyOWT41EbCz5wf3mVb6vvud1z5u1nw0tvTRkMVMUeCcEsBtHNtsQx54hDols70DdinMMHyk5gLqhZBH6wRAjiyS23p5vy7G79dBUYAgaB8ePMdsFRcdzL13EOJDtk6WPz/nvLES5XbSzGkM8Ajy9hnfFIuM8ojXmPo7FhsdPc7NJRuzhWtHSIkyph/zOCKa3l4lnkUmhSm9rUmtuvpYDcZe/MSzYZBeRI9lUOYGwt03a9LLfj0OQzhMRLrEB8zRX0FmDX2NdIbkrw70Q5gb7+ma5enD4hooyyuc2wJAFnDABcq9ZIToKTyTnFMsTl8cYcz+gA7BuyE/VbWHbLeIiyNn2xzDFIKMiq9nZoRUzs/bhBJzLOyZriwO69T236LrMhuUAUAqhRuUVxrN6aIuEjpKHvFcft65Pe5rOiAOPa0UX+kHvJzEYYuX30Vdn2ktL2kMaJNGDYRzTRqR8lz1Aq8domjYJGgMRNr47I87/gcEs/GboRpzW4H2OXxZ2CO/Z6qPu9AMvLcR9ejg5iSgmqkFyTLiLcU1niAQC6o91nyk3mUHAVYhsBq3GUdoXdgvV6DNGrOW/AhC5TYeBdwkKms8YqwVwvD/bJ9OmDzoNwwrBg9kUWIrw==|920
