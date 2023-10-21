@@ -777,12 +777,12 @@
   },
   {
     "ModuleName": "Pages/数据列表",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7191299+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9173598+08:00",
     "ModuleType": 6,
     "ToRemoveFiles": [
       "Pages\\数据列表"
@@ -790,12 +790,12 @@
   },
   {
     "ModuleName": "Pages/数据列表/基本表格",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7186994+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9179001+08:00",
     "ModuleType": 6,
     "ToRemoveFiles": [
       "Pages\\数据列表\\基本表格"
@@ -803,12 +803,12 @@
   },
   {
     "ModuleName": "PCPage/多表头",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7184482+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9175299+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\基本表格\\多表头.json"
@@ -816,12 +816,12 @@
   },
   {
     "ModuleName": "PCPage/按需加载",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.718501+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9177198+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\基本表格\\按需加载.json"
@@ -829,12 +829,12 @@
   },
   {
     "ModuleName": "PCPage/条件格式",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7185643+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.917778+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\基本表格\\条件格式.json"
@@ -842,12 +842,12 @@
   },
   {
     "ModuleName": "PCPage/汇总行",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7186388+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9178454+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\基本表格\\汇总行.json"
@@ -855,12 +855,12 @@
   },
   {
     "ModuleName": "PCPage/自动合并",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7186965+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9178968+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\基本表格\\自动合并.json"
@@ -868,12 +868,12 @@
   },
   {
     "ModuleName": "PCPage/图文列表(卡片)",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7188493+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9179701+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\图文列表(卡片).json",
@@ -882,12 +882,12 @@
   },
   {
     "ModuleName": "PCPage/图文列表",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7189259+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9180301+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\图文列表.json",
@@ -896,12 +896,12 @@
   },
   {
     "ModuleName": "PCPage/基本表格",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:44:21.0056017+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9180912+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\基本表格.json"
@@ -909,12 +909,12 @@
   },
   {
     "ModuleName": "PCPage/自定义筛选面板",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7190873+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9181553+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\自定义筛选面板.json"
@@ -922,12 +922,12 @@
   },
   {
     "ModuleName": "PCPage/透视表",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7191266+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9181897+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\数据列表\\透视表.json"
@@ -935,12 +935,12 @@
   },
   {
     "ModuleName": "Pages/数据录入",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:56:52.7206911+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9181926+08:00",
     "ModuleType": 6,
     "ToRemoveFiles": [
       "Pages\\数据录入"
@@ -1522,7 +1522,7 @@
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T15:44:21.0046263+08:00",
+    "LockDateTime": "2023-10-21T15:44:35.9176733+08:00",
     "ModuleType": 3,
     "ToRemoveFiles": [
       "MasterPages\\母版页.json"
