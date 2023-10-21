@@ -145,7 +145,16 @@
   },
   {
     "ModuleName": "PCPage/主页",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-22T00:07:53.1580938+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\主页.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
