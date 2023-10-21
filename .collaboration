@@ -796,7 +796,16 @@
   },
   {
     "ModuleName": "MasterPCPage/模型预测",
-    "ModuleType": 3
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T23:00:40.9032376+08:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\模型预测.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/模型管理",
