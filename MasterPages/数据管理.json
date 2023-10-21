@@ -652,6 +652,12 @@
     "1,20": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+            "PageName": "数据预处理1"
+          }
+        ],
         "Text": "数据预处理",
         "TemplateKey": "_RS_Main2"
       }
@@ -972,4 +978,4 @@
       "Size": "1075,55"
     }
   ]
-}//BLySjtpFjVw8+uKirrTchDgHCmJ51sO/BPPqEkl9anPROzRHxVaOoncH6gcZsRLrbeHr7/JgSS1FD+Wi4IqlNKabR0Jwp5eQd+mChniED5PfZNliHFDxu/S5lqpU08NkvfgFdKI2ll2T8g84RL2jqKD8pUCYGfWFVnuUEJiI7nnjCftU7Sy5XyOBRiJFQjtZOd1g5aBrApEX3/nhIX07SufSZuWdBfRy8F7nszhoBqzJ8ddXFGd0pWSjLbM61BgYkeRjxWVaJb+wi3DGQYDsC/WVpVuWszP2coWIC6c6XCtoT1Qlh7WffRkAvWJtqYtqBARxyoRBp1tEVfBXTpiJSObVPoN+gHwePAB+iSdagE6AOdJ3R788oQIGSfbhV3Lu6oqz1M9k/AhPriwZit2kZU432+In2Hb0zZab1nhZjtkHaJ5G3sOaFxnP+JMWiWRgLxevBxcxDkbomiUTroBKf6siJ0rTeAqw9udvu3iZhSNobbBzHWaPFVvabdnA26NuU0ScJ2HB7UYtZ0WdB0bhlNrhggGX+srWC147pRJu0BOM9oPRhFxL2u11JOKK9Lpr6npv9oo99euHsGhOAPqlgzhQwMXdzGK99ge0HRZifXO8pqmTnyRVtjpbPCaE4CFXVREaLR0SPNm+Nd5j/i/R4AUE/3YY2W3EvbcM/8QwSyWGVOSkvAG0EeMleq+UcCNuP8TVIMEZQBluhIlS81n6TOes8bYdWZOOswKGGdl1hH8F8wH84iYIWlm/M7ESUGfebm2zdD6lLGAeuUwKWwEbDHfolD0xlwCRL8Qe4z4AkRJCIfo5cqFI+tnZWnQCWCcwGCThic8QifxBnUJOjbgZh4tus1G5ZIjF2oH9c/dQrWBnBW+jF29FcZEV0eo+5VShVzmGOSGonZakjb/PvQD79A==|920
+}//WLrGO/HMMa/2LCm0JPZmmPupVpS0WtZs5LrVgGHBvKCxq/eWZoK3UN1fTGtS5f8+mnQESRU/YYqpNIPTWq5yQ9/5rsdTmgugOi1t/juHVoKJ1PrUaML/lPyVNyMwx8vQPqbqPAw55y5CCiUkKSjjAWNnTEwz7DCQCGYioz4yfcxpeAapt4PIO2khb2+8zt6aRAMPOot4cVL7Mxf9ClrHh4aVFNtqhAbE/bZWPlyudAr1SWBpAmLZtWNynD9tUH/OwDmMBlt5aG1NTDJIXBR1YQHjNf8S/qmFEf+bKXi4u1qnJmepd+pJ3z2TEnar9s8ev+HNOMe0u+nIsHYXTjrrrA4WxE7+LIq8xr7CFambWXezBr4TXmz80W1CToG/YGaG8LnyqHvMEku52Ijze5vk6gUIpgArOoGImP1PaI3fF49gomZDd61DYf/p+gruoHP1HT5QHli3NSEBwevbpo0UpG3QP+PqiuElT7ZiUqBWHo9m3s/qTKrrBNOMGflLS0db4H5V/1MhogsqXPaLVN8HRS8CvXpAZgocG1N0zNZMV/ZThCsdB0vN9MSNOjc9MLNR6nqE260TUeW/JIDv1fL48Y8mrZqBavYG/pooMgqOqfaGTd/3zoGY23RVi1uSGhCRo9shUmx+7C3oF7t7he8wRJxqPe5DwfZUkZG2ybImf550RKXPw/Ig+QzmwVdWRG0r/keFc0hGzoa3ObBqacHjyehZpb4+e2ApNPnLCi/3kweTuAlkW/UCqANkz4daFog4NGxnAimPArsGIikS1S/CbDkQwKuxmrHXcIhJP4NH+N2OQQg3wMSPmHZBFzBrT3CiX9WcRvCAeKoQVlGdxyCRwpliVjEdLDffYSEqSwLUcZYIRnU6iV3yF823ZA71iwFRvZ7h57x+Jv2kEA8gBv2/Ug==|920
