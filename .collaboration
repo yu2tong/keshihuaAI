@@ -880,5 +880,15 @@
     },
     "LockDateTime": "2023-10-21T22:25:31.0880353+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/模型评估",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T22:25:59.1654982+08:00",
+    "ModuleType": 6
   }
 ]
