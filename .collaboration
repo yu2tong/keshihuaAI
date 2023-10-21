@@ -624,11 +624,29 @@
   },
   {
     "ModuleName": "Pages/数据预处理",
-    "ModuleType": 6
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T20:56:06.2125651+08:00",
+    "ModuleType": 6,
+    "ToRemoveFiles": [
+      "Pages\\数据预处理"
+    ]
   },
   {
     "ModuleName": "PCPage/数据预处理1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "LAPTOP-8M65U85K\\lenovo",
+      "Email": "1730684217@qq.com"
+    },
+    "LockDateTime": "2023-10-21T20:56:06.2124513+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\数据预处理\\数据预处理1.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/数据预处理",
