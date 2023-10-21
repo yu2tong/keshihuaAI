@@ -509,7 +509,7 @@
   "Values": {
     "1,1": "BESTofHDU",
     "1,12": "我的",
-    "1,14": "数据导入",
+    "1,14": "数据管理",
     "1,18": "数据预处理",
     "1,22": "特征工程",
     "1,26": "模型选择",
@@ -528,7 +528,7 @@
     "1,14": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "Text": "数据导入",
+        "Text": "数据管理",
         "TemplateKey": "_RS_Main2"
       }
     },
@@ -1817,4 +1817,4 @@
       "Size": "1040,55"
     }
   ]
-}//rTnFaqmUAag0nK6EHihxGMZPc1QyNdDIW7rJmHiQHeqj1YYbIGDBz1l14mC+1qWYFF3jtG/CxwIn1XCrZj4WWFCWOWPJxEJLdgV9y/treZKcRNmtHZt2t+xd7QzQ6g/Uv3ZzieMN1QjYKPTP+glZ0TcA2nNpuz1FjomC9f+J6b8ELoMHxGXXdMLvnmix/NatuSOowtl+EDTvG02cmoxMq6C4iQ8YukYwnExlg+0fJHc76YjINUX3mSM8Faw9x5MDyRJRwtlsmfBmJxMxDhgEA8oXTXSK+9rs9CkBmZmeqbIqxAS41Ym8pO6J/lwlhUilwnDCYmIO4QVGD5b+AUdTQfl1nqMZ/dKl+8zROKNFNzbeXbBJjeIphOkvU2rK6qX2qgyRjDSEPZJvNGrdfRPEyxihHwi7uqtgRN/Qez0I86ERIk7t9bhmY5M6sGkdX6VMwV7zP0aTJMB4AMwI24VQETuFjS4vPSrSY6IJZ680XIJYvTpABOrVztSaKu5M7CJOZ7ETeHNRCtulhX+LICG4g4QvD8+QuqeyV4t0mVRNHPuaWbSmNe/aY5AApPtSua/xEr14OMZNPT8U1eHWe7mhyzENW83XWXkF55nxBxqyAMCbCf7Q9VuaoEmRvVO4sQbzbpggJz8AkEkH4l66wXCSDbdXm0UuLpXJcqHyc+F4J0l4+nd8sNH0qe64UhS+Yx82mRwtln7iLeIQB5J9Nt5hnm1t+TWqZfrbHrGcBzHflepKjbP54KIE+vvPeS6APaCdZvPyYRiHELa9so9Ym7niQbj69U2sGqRU8NvgMiutEDM9rPm8HTbVgX6vMuOonn9zXch7UZ7c13njTG8viynnlpcG1faNsP8RzccReylMCaOgW1KutyDQBeylt2xVE9WjLdhBy1M9qCy0bWKWKxWPIA==|920
+}//06OCdEMd3EI7xMMjJ7ufondQ6wah05Sh5WEItvnyl4AoRQm5UximngwDPkysNAaD3HxJsv9BPpsp3PFCQ5At+Md/iGhP5Wv5oNrt9D1192Ox9VyI3oHc7h7IeadaQwZkAMfe4hqP8Y5nQ/JZy02beV9qN5eBmhPG9SgtqBBPolAe+F/ZGDrebEXWD/VFo+p94ReM+KELoDwHNWmrp4yyPCDYyrv9mTSAiuEfB96p9HLaDnJoVLaN7TyNWSIsWvZCCFnqFEqX4VCg8kOQWd945m9DCj4w4xvo1MH0h4aIterseqlijP/RCbh1T5cRISUqjM/kGY2z0Y8kNkd9fanMHVsRnYjFB14pFTOpBb0AwRwNjNOZFByIad3cjRAqR431KAMso4rIhyOOq80Vfldl6hG5chU7o8s+oCc+78HsbiddyODWu2FQ7GrGLuOjGm8XbMPyKI8bWiCtyI9zIRKgioGcvFI/rHMQPQQqiefrWJ8Lgpcen3ymhrGaCrOHSqKqmklS2QkUYUn2TntgpuPATW6XuCYHdwFULP2lO0DY0vVP9flzPsFLsJCxMqIBlqxpZ02KBcUk2pHxKrE1ZP9Uf71c9gCw7gBD7h6P/jj3c0obhMKZpCekCnTKJSwpH2F2LK8Vc5Fl6eEAyJ17WnYpIuYsNtnwRjuK3HyJsE729o2R9BlmRW+oCGTGC8hgd2+1JeggrogrFmoRcNPv5SxiB1eJJqtkn81FKn6yNywgkkje71FovGD2/Qoi4Cmq5/S9UWFQn2nWJVVBLyfo3cFtXGcd4R8nKoiAgSiyJduGruzM/zSddiBfIzoRx93WZeJRdO7spG2Lcau28hA7uXTCjbgMdtzykyqsQf5k7JcEFyGv19jncJziOQqhFG/030yMq12QM9MZVj6oyT0+iHYAzQ==|920
