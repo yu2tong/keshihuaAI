@@ -5,47 +5,137 @@
   },
   {
     "ModuleName": "Table/产品品牌",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.1652119+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\字典表\\产品品牌.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/产品大类",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.1652476+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\字典表\\产品大类.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/产品类别",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.1652529+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\字典表\\产品类别.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/会员卡类型",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.1652592+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\字典表\\会员卡类型.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/会员职业",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.165263+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\字典表\\会员职业.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/年度表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.1652669+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\字典表\\年度表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/手机测试点",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.1652707+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\字典表\\手机测试点.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/月度表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.1652741+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\字典表\\月度表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/门店分类",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.1652777+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\字典表\\门店分类.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -635,5 +725,16 @@
     },
     "LockDateTime": "2023-10-21T11:28:36.4802487+08:00",
     "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/工作台E",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
+      "Email": "923984159@qq.com"
+    },
+    "LockDateTime": "2023-10-21T11:35:34.1646301+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
