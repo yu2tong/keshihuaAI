@@ -1504,12 +1504,12 @@
   },
   {
     "ModuleName": "MasterMobilePage/母版页(手机)",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:53:20.3871471+08:00",
+    "LockDateTime": "2023-10-21T13:53:37.3423399+08:00",
     "ModuleType": 4,
     "ToRemoveFiles": [
       "MasterPages\\母版页(手机).json"
@@ -1517,12 +1517,12 @@
   },
   {
     "ModuleName": "MasterPCPage/母版页",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:53:20.3843602+08:00",
+    "LockDateTime": "2023-10-21T13:53:37.3424845+08:00",
     "ModuleType": 3,
     "ToRemoveFiles": [
       "MasterPages\\母版页.json"
@@ -1530,12 +1530,12 @@
   },
   {
     "ModuleName": "MasterPCPage/我的",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:53:20.3878734+08:00",
+    "LockDateTime": "2023-10-21T13:53:37.3426487+08:00",
     "ModuleType": 3,
     "ToRemoveFiles": [
       "MasterPages\\我的.json"
@@ -1543,12 +1543,12 @@
   },
   {
     "ModuleName": "MasterPCPage/主页母版",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:53:20.3877535+08:00",
+    "LockDateTime": "2023-10-21T13:53:37.3426174+08:00",
     "ModuleType": 3,
     "ToRemoveFiles": [
       "MasterPages\\主页母版.json"
@@ -2030,12 +2030,12 @@
   },
   {
     "ModuleName": "MasterPCPage/数据管理",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "DESKTOP-KUJ2AQ4\\MUQI",
       "Email": "923984159@qq.com"
     },
-    "LockDateTime": "2023-10-21T13:53:20.3879496+08:00",
+    "LockDateTime": "2023-10-21T13:53:37.3426764+08:00",
     "ModuleType": 3,
     "ToRemoveFiles": [
       "MasterPages\\数据管理.json"
